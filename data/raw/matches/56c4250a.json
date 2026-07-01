@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Nottingham Forest",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Monday January 6, 2025 , 20:00 (venue time) Premier League (Matchweek 20) Nottingham Forest vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 29,940 Venue : Molineux Stadium, Wolverhampton Officials : Peter Bankes (Referee) · Nick Greenhalgh (AR1) · Akil Howson (AR2) · Michael Salisbury (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 44’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Taiwo Awoniyi",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Taiwo Awoniyi · 90+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "56c4250a",
+  "url": "https://fbref.com/en/matches/56c4250a/Wolverhampton-Wanderers-Nottingham-Forest-January-6-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-06",
+    "time": "20:00",
+    "home_team": "Wolves",
+    "away_team": "Nottingham",
+    "score": "0–3",
+    "venue": "Molineux Stadium",
+    "attendance": "29,940",
+    "match_report_url": "https://fbref.com/en/matches/56c4250a/Wolverhampton-Wanderers-Nottingham-Forest-January-6-2025-Premier-League"
+  }
+}

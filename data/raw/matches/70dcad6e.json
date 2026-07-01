@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday May 4, 2025 , 14:00 (venue time) Premier League (Matchweek 35) Tottenham Hotspur vs. West Ham United Historical Head-to-Head Attendance : 62,468 Venue : London Stadium, London Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Ruebyn Ricardo (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Wilson Odobert",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Wilson Odobert · 15’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "70dcad6e",
+  "url": "https://fbref.com/en/matches/70dcad6e/West-Ham-United-Tottenham-Hotspur-May-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-04",
+    "time": "14:00",
+    "home_team": "West Ham",
+    "away_team": "Tottenham",
+    "score": "1–1",
+    "venue": "London Stadium",
+    "attendance": "62,468",
+    "match_report_url": "https://fbref.com/en/matches/70dcad6e/West-Ham-United-Tottenham-Hotspur-May-4-2025-Premier-League"
+  }
+}

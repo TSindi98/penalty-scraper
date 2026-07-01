@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "West Ham United",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Monday November 25, 2024 , 20:00 (venue time) Premier League (Matchweek 12) West Ham United vs. Newcastle United Historical Head-to-Head Attendance : 52,094 Venue : St James' Park, Newcastle upon Tyne Officials : Craig Pawson (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Tony Harrington (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 10’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Aaron Wan-Bissaka",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "Aaron Wan-Bissaka · 53’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "79f46eec",
+  "url": "https://fbref.com/en/matches/79f46eec/Newcastle-United-West-Ham-United-November-25-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-25",
+    "time": "20:00",
+    "home_team": "Newcastle",
+    "away_team": "West Ham",
+    "score": "0–2",
+    "venue": "St James' Park",
+    "attendance": "52,094",
+    "match_report_url": "https://fbref.com/en/matches/79f46eec/Newcastle-United-West-Ham-United-November-25-2024-Premier-League"
+  }
+}

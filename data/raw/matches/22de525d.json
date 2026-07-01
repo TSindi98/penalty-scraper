@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Sunday March 16, 2025 , 13:30 (venue time) Premier League (Matchweek 29) North West London Derby History Attendance : 60,311 Venue : Emirates Stadium, London Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · James Mainwaring (AR2) · Samuel Barrott (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mikel Merino",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Mikel Merino · 20’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "22de525d",
+  "url": "https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-16",
+    "time": "13:30",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "1–0",
+    "venue": "Emirates Stadium",
+    "attendance": "60,311",
+    "match_report_url": "https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League"
+  }
+}

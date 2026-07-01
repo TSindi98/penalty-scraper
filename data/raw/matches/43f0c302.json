@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday January 4, 2025 , 15:00 (venue time) Premier League (Matchweek 20) Everton vs. Bournemouth Historical Head-to-Head Attendance : 11,223 Venue : Vitality Stadium, Bournemouth Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Robert Madley (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "David Brooks",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "David Brooks · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "43f0c302",
+  "url": "https://fbref.com/en/matches/43f0c302/Bournemouth-Everton-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Everton",
+    "score": "1–0",
+    "venue": "Vitality Stadium",
+    "attendance": "11,223",
+    "match_report_url": "https://fbref.com/en/matches/43f0c302/Bournemouth-Everton-January-4-2025-Premier-League"
+  }
+}

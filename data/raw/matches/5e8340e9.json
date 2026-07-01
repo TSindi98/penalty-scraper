@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Monday December 30, 2024 , 19:45 (venue time) Premier League (Matchweek 19) Brighton & Hove Albion vs. Aston Villa Historical Head-to-Head Attendance : 41,414 Venue : Villa Park, Birmingham Officials : Craig Pawson (Referee) · Darren Cann (AR1) · Daniel Robathan (AR2) · Gavin Ward (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Ollie Watkins",
+      "minute": 36,
+      "is_penalty": true,
+      "raw_text": "Ollie Watkins (P) · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Simon Adingra",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Simon Adingra · 12’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tariq Lamptey",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Tariq Lamptey · 81’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "8602292d",
+      "team_name": "Aston Villa",
+      "player": "Ollie Watkins",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "5e8340e9",
+  "url": "https://fbref.com/en/matches/5e8340e9/Aston-Villa-Brighton-and-Hove-Albion-December-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-30",
+    "time": "19:45",
+    "home_team": "Aston Villa",
+    "away_team": "Brighton",
+    "score": "2–2",
+    "venue": "Villa Park",
+    "attendance": "41,414",
+    "match_report_url": "https://fbref.com/en/matches/5e8340e9/Aston-Villa-Brighton-and-Hove-Albion-December-30-2024-Premier-League"
+  }
+}

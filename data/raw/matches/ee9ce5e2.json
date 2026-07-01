@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Wednesday January 15, 2025 , 20:00 (venue time) Premier League (Matchweek 21) North London Derby History Attendance : 60,287 Venue : Emirates Stadium, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Tim Robinson (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Dominic Solanke",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke (OG) · 40’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 44’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 25’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ee9ce5e2",
+  "url": "https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-15",
+    "time": "20:00",
+    "home_team": "Arsenal",
+    "away_team": "Tottenham",
+    "score": "2–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,287",
+    "match_report_url": "https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League"
+  }
+}

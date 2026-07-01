@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+cookies.json
+data/live_crawls/
+crawl.log
+careers.log
+match_logs.log
+streamlit.log

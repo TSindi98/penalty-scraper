@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Brentford",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday August 25, 2024 , 16:30 (venue time) Premier League (Matchweek 2) Brentford vs. Liverpool Historical Head-to-Head Attendance : 60,017 Venue : Anfield, Liverpool Officials : Stuart Attwell (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Anthony Taylor (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 70’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "09b1742e",
+  "url": "https://fbref.com/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-25",
+    "time": "16:30",
+    "home_team": "Liverpool",
+    "away_team": "Brentford",
+    "score": "2–0",
+    "venue": "Anfield",
+    "attendance": "60,017",
+    "match_report_url": "https://fbref.com/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League"
+  }
+}

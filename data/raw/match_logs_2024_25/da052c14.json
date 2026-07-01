@@ -1,0 +1,25 @@
+{
+  "player_name": "Jordan Ayew",
+  "player_id": "da052c14",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/da052c14/matchlogs/2024-2025/summary/Jordan-Ayew-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-23",
+      "comp": "Premier League",
+      "opponent": "Chelsea",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-21",
+      "comp": "WCQ",
+      "opponent": "tdChad",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 49
+}

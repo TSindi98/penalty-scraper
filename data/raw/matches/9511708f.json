@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Brentford",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday September 21, 2024 , 15:00 (venue time) Premier League (Matchweek 5) Brentford vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,246 Venue : Tottenham Hotspur Stadium, London Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Oliver Langford (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 8’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 85’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9511708f",
+  "url": "https://fbref.com/en/matches/9511708f/Tottenham-Hotspur-Brentford-September-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "home_team": "Tottenham",
+    "away_team": "Brentford",
+    "score": "3–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,246",
+    "match_report_url": "https://fbref.com/en/matches/9511708f/Tottenham-Hotspur-Brentford-September-21-2024-Premier-League"
+  }
+}

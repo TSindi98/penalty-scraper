@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Manchester United",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday October 27, 2024 , 14:00 (venue time) Premier League (Matchweek 9) Manchester United vs. West Ham United Historical Head-to-Head Attendance : 62,474 Venue : London Stadium, London Officials : David Coote (Referee) · Daniel Robathan (AR1) · Craig Taylor (AR2) · Thomas Bramall (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Crysencio Summerville",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Crysencio Summerville · 74’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Jarrod Bowen",
+      "minute": 92,
+      "is_penalty": true,
+      "raw_text": "Jarrod Bowen (P) · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Casemiro",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Casemiro · 81’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "7c21e445",
+      "team_name": "West Ham",
+      "player": "Jarrod Bowen",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "38c31a07",
+  "url": "https://fbref.com/en/matches/38c31a07/West-Ham-United-Manchester-United-October-27-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-27",
+    "time": "14:00",
+    "home_team": "West Ham",
+    "away_team": "Manchester Utd",
+    "score": "2–1",
+    "venue": "London Stadium",
+    "attendance": "62,474",
+    "match_report_url": "https://fbref.com/en/matches/38c31a07/West-Ham-United-Manchester-United-October-27-2024-Premier-League"
+  }
+}

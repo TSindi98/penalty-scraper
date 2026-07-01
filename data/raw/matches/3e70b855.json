@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Aston Villa",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Wednesday January 15, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Aston Villa vs. Everton Historical Head-to-Head Attendance : 39,085 Venue : Goodison Park, Liverpool Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Wade Smith  (AR2) · Anthony Backhouse (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 51’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "3e70b855",
+  "url": "https://fbref.com/en/matches/3e70b855/Everton-Aston-Villa-January-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-15",
+    "time": "19:30",
+    "home_team": "Everton",
+    "away_team": "Aston Villa",
+    "score": "0–1",
+    "venue": "Goodison Park",
+    "attendance": "39,085",
+    "match_report_url": "https://fbref.com/en/matches/3e70b855/Everton-Aston-Villa-January-15-2025-Premier-League"
+  }
+}

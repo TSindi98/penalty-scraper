@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday August 24, 2024 , 15:00 (venue time) Premier League (Matchweek 2) Leicester City vs. Fulham Historical Head-to-Head Attendance : 25,401 Venue : Craven Cottage, London Officials : Darren Bond (Referee) · Darren Cann (AR1) · James Mainwaring (AR2) · Leigh Doughty (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 18’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Wout Faes",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Wout Faes · 38’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4d0079fb",
+  "url": "https://fbref.com/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Leicester City",
+    "score": "2–1",
+    "venue": "Craven Cottage",
+    "attendance": "25,401",
+    "match_report_url": "https://fbref.com/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League"
+  }
+}

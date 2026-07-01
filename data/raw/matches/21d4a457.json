@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Southampton",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Tuesday February 25, 2025 , 20:15 (venue time) Premier League (Matchweek 27) Southampton vs. Chelsea Historical Head-to-Head Attendance : 39,485 Venue : Stamford Bridge, London Officials : Thomas Bramall (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Simon Hooper (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Christopher Nkunku",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Christopher Nkunku · 24’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Pedro Neto",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Pedro Neto · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Levi Colwill",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Levi Colwill · 44’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marc Cucurella",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Marc Cucurella · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "21d4a457",
+  "url": "https://fbref.com/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-25",
+    "time": "20:15",
+    "home_team": "Chelsea",
+    "away_team": "Southampton",
+    "score": "4–0",
+    "venue": "Stamford Bridge",
+    "attendance": "39,485",
+    "match_report_url": "https://fbref.com/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League"
+  }
+}

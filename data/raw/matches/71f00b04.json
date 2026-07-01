@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Wednesday December 4, 2024 , 19:30 (venue time) Premier League (Matchweek 14) Wolverhampton Wanderers vs. Everton Historical Head-to-Head Attendance : 38,820 Venue : Goodison Park, Liverpool Officials : Michael Salisbury (Referee) · Darren Cann (AR1) · Gary Beswick (AR2) · Leigh Doughty (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ashley Young",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Ashley Young · 10’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Orel Mangala",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Orel Mangala · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Craig Dawson",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Craig Dawson (OG) · 49’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Craig Dawson",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Craig Dawson (OG) · 72’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "71f00b04",
+  "url": "https://fbref.com/en/matches/71f00b04/Everton-Wolverhampton-Wanderers-December-4-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-04",
+    "time": "19:30",
+    "home_team": "Everton",
+    "away_team": "Wolves",
+    "score": "4–0",
+    "venue": "Goodison Park",
+    "attendance": "38,820",
+    "match_report_url": "https://fbref.com/en/matches/71f00b04/Everton-Wolverhampton-Wanderers-December-4-2024-Premier-League"
+  }
+}

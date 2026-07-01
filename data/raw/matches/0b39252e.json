@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Arsenal",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday January 25, 2025 , 15:00 (venue time) Premier League (Matchweek 23) Arsenal vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,503 Venue : Molineux Stadium, Wolverhampton Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Tony Harrington (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "João Gomes",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "João Gomes · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Myles Lewis-Skelly",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Myles Lewis-Skelly · 43’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Riccardo Calafiori",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Riccardo Calafiori · 74’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0b39252e",
+  "url": "https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-25",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Arsenal",
+    "score": "0–1",
+    "venue": "Molineux Stadium",
+    "attendance": "31,503",
+    "match_report_url": "https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League"
+  }
+}

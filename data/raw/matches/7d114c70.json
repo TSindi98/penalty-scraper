@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday November 2, 2024 , 15:00 (venue time) Premier League (Matchweek 10) Brighton & Hove Albion vs. Liverpool Historical Head-to-Head Attendance : 60,331 Venue : Anfield, Liverpool Officials : Tony Harrington (Referee) · Scott Ledger (AR1) · Adrian Holmes (AR2) · Robert Madley (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 69’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ferdi Kadioglu",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Ferdi Kadioglu · 14’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7d114c70",
+  "url": "https://fbref.com/en/matches/7d114c70/Liverpool-Brighton-and-Hove-Albion-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "15:00",
+    "home_team": "Liverpool",
+    "away_team": "Brighton",
+    "score": "2–1",
+    "venue": "Anfield",
+    "attendance": "60,331",
+    "match_report_url": "https://fbref.com/en/matches/7d114c70/Liverpool-Brighton-and-Hove-Albion-November-2-2024-Premier-League"
+  }
+}

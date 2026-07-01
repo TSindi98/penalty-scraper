@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "West Ham United",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday April 13, 2025 , 14:00 (venue time) Premier League (Matchweek 32) West Ham United vs. Liverpool Historical Head-to-Head Attendance : 60,376 Venue : Anfield, Liverpool Officials : Andy Madley (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Tony Harrington (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 18’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Virgil van Dijk",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Virgil van Dijk · 89’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Andy Robertson",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Andy Robertson (OG) · 86’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4975981b",
+  "url": "https://fbref.com/en/matches/4975981b/Liverpool-West-Ham-United-April-13-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-13",
+    "time": "14:00",
+    "home_team": "Liverpool",
+    "away_team": "West Ham",
+    "score": "2–1",
+    "venue": "Anfield",
+    "attendance": "60,376",
+    "match_report_url": "https://fbref.com/en/matches/4975981b/Liverpool-West-Ham-United-April-13-2025-Premier-League"
+  }
+}

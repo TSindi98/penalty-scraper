@@ -1,0 +1,17 @@
+{
+  "player_name": "Cameron Archer",
+  "player_id": "05e8ca6d",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/05e8ca6d/matchlogs/2024-2025/summary/Cameron-Archer-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-09-14",
+      "comp": "Premier League",
+      "opponent": "Manchester Utd",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 43
+}

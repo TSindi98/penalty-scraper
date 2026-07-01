@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Manchester United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday April 27, 2025 , 14:00 (venue time) Premier League (Matchweek 34) Manchester United vs. Bournemouth Historical Head-to-Head Attendance : 11,241 Venue : Vitality Stadium, Bournemouth Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Tim Robinson (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 23’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Evanilson",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rasmus Højlund",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Rasmus Højlund · 90+6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "81b6c6b4",
+  "url": "https://fbref.com/en/matches/81b6c6b4/Bournemouth-Manchester-United-April-27-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-27",
+    "time": "14:00",
+    "home_team": "Bournemouth",
+    "away_team": "Manchester Utd",
+    "score": "1–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,241",
+    "match_report_url": "https://fbref.com/en/matches/81b6c6b4/Bournemouth-Manchester-United-April-27-2025-Premier-League"
+  }
+}

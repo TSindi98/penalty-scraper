@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Wednesday February 26, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Everton vs. Brentford Historical Head-to-Head Attendance : 17,082 Venue : Gtech Community Stadium, Brentford Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · John Busby (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 45+4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jake O'Brien",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Jake O'Brien · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1218933c",
+  "url": "https://fbref.com/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-26",
+    "time": "19:30",
+    "home_team": "Brentford",
+    "away_team": "Everton",
+    "score": "1–1",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,082",
+    "match_report_url": "https://fbref.com/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League"
+  }
+}

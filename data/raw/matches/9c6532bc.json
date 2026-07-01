@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday April 26, 2025 , 15:00 (venue time) Premier League (Matchweek 34) Fulham vs. Southampton Historical Head-to-Head Attendance : 28,946 Venue : St Mary's Stadium, Southampton Officials : Tony Harrington (Referee) · Scott Ledger (AR1) · Sian Massey-Ellis (AR2) · Samuel Allison (4th) · Paul Howard (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jack Stephens",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Jack Stephens · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ryan Sessegnon",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Ryan Sessegnon · 90+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9c6532bc",
+  "url": "https://fbref.com/en/matches/9c6532bc/Southampton-Fulham-April-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-26",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Fulham",
+    "score": "1–2",
+    "venue": "St Mary's Stadium",
+    "attendance": "28,946",
+    "match_report_url": "https://fbref.com/en/matches/9c6532bc/Southampton-Fulham-April-26-2025-Premier-League"
+  }
+}

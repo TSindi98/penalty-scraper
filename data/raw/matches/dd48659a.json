@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Aston Villa",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday May 10, 2025 , 17:30 (venue time) Premier League (Matchweek 36) Aston Villa vs. Bournemouth Historical Head-to-Head Attendance : 11,187 Venue : Vitality Stadium, Bournemouth Officials : Stuart Attwell (Referee) · Adam Nunn (AR1) · Daniel Robathan (AR2) · Darren Bond (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 45+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Jacob Ramsey",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Jacob Ramsey · 80’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "dd48659a",
+  "url": "https://fbref.com/en/matches/dd48659a/Bournemouth-Aston-Villa-May-10-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-10",
+    "time": "17:30",
+    "home_team": "Bournemouth",
+    "away_team": "Aston Villa",
+    "score": "0–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,187",
+    "match_report_url": "https://fbref.com/en/matches/dd48659a/Bournemouth-Aston-Villa-May-10-2025-Premier-League"
+  }
+}

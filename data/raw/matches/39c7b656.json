@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Liverpool",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Wednesday February 19, 2025 , 19:30 (venue time) Premier League (Matchweek 29) Liverpool vs. Aston Villa Historical Head-to-Head Attendance : 41,910 Venue : Villa Park, Birmingham Officials : Craig Pawson (Referee) · Constantine Hatzidakis (AR1) · Steve Meredith (AR2) · Thomas Bramall (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Youri Tielemans",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Youri Tielemans · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 45+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 29’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Trent Alexander-Arnold",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Trent Alexander-Arnold · 61’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "39c7b656",
+  "url": "https://fbref.com/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-02-19",
+    "time": "19:30",
+    "home_team": "Aston Villa",
+    "away_team": "Liverpool",
+    "score": "2–2",
+    "venue": "Villa Park",
+    "attendance": "41,910",
+    "match_report_url": "https://fbref.com/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Southampton",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday April 19, 2025 , 15:00 (venue time) Premier League (Matchweek 33) Southampton vs. West Ham United Historical Head-to-Head Attendance : 62,461 Venue : London Stadium, London Officials : Andrew Kitchen (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Anthony Taylor (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Lesley Ugochukwu",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Lesley Ugochukwu · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "8d613b28",
+  "url": "https://fbref.com/en/matches/8d613b28/West-Ham-United-Southampton-April-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-19",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Southampton",
+    "score": "1–1",
+    "venue": "London Stadium",
+    "attendance": "62,461",
+    "match_report_url": "https://fbref.com/en/matches/8d613b28/West-Ham-United-Southampton-April-19-2025-Premier-League"
+  }
+}

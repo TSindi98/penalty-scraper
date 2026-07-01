@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Crystal Palace",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday November 2, 2024 , 17:30 (venue time) Premier League (Matchweek 10) Crystal Palace vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,124 Venue : Molineux Stadium, Wolverhampton Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Simon Hooper (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 67’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "João Gomes",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "João Gomes · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Trevoh Chalobah",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Trevoh Chalobah · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marc Guéhi",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a4251fae",
+  "url": "https://fbref.com/en/matches/a4251fae/Wolverhampton-Wanderers-Crystal-Palace-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "17:30",
+    "home_team": "Wolves",
+    "away_team": "Crystal Palace",
+    "score": "2–2",
+    "venue": "Molineux Stadium",
+    "attendance": "31,124",
+    "match_report_url": "https://fbref.com/en/matches/a4251fae/Wolverhampton-Wanderers-Crystal-Palace-November-2-2024-Premier-League"
+  }
+}

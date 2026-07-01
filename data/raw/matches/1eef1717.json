@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Everton",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Saturday August 24, 2024 , 15:00 (venue time) Premier League (Matchweek 2) Everton vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,357 Venue : Tottenham Hotspur Stadium, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Tom Nield (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yves Bissouma",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Yves Bissouma · 14’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 25’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cristian Romero",
+      "minute": 71,
+      "is_penalty": false,
+      "raw_text": "Cristian Romero · 71’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1eef1717",
+  "url": "https://fbref.com/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "15:00",
+    "home_team": "Tottenham",
+    "away_team": "Everton",
+    "score": "4–0",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,357",
+    "match_report_url": "https://fbref.com/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Liverpool",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Wednesday February 12, 2025 , 19:30 (venue time) Premier League (Matchweek 15) Merseyside Derby History Attendance : 39,280 Venue : Goodison Park, Liverpool Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Tony Harrington (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Beto · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Tarkowski",
+      "minute": 98,
+      "is_penalty": false,
+      "raw_text": "James Tarkowski · 90+8’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Abdoulaye Doucouré",
+      "minute": 104,
+      "is_penalty": false,
+      "raw_text": "Abdoulaye Doucouré · 90+14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexis Mac Allister",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Alexis Mac Allister · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Curtis Jones",
+      "minute": 102,
+      "is_penalty": false,
+      "raw_text": "Curtis Jones · 90+12’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "92627434",
+  "url": "https://fbref.com/en/matches/92627434/Merseyside-Derby-Everton-Liverpool-February-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "15",
+    "date": "2025-02-12",
+    "time": "19:30",
+    "home_team": "Everton",
+    "away_team": "Liverpool",
+    "score": "2–2",
+    "venue": "Goodison Park",
+    "attendance": "39,280",
+    "match_report_url": "https://fbref.com/en/matches/92627434/Merseyside-Derby-Everton-Liverpool-February-12-2025-Premier-League"
+  }
+}

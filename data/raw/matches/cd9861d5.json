@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday January 4, 2025 , 15:00 (venue time) Premier League (Matchweek 20) Chelsea vs. Crystal Palace Historical Head-to-Head Attendance : 25,179 Venue : Selhurst Park, London Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Simon Hooper (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 82’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 14’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "cd9861d5",
+  "url": "https://fbref.com/en/matches/cd9861d5/Crystal-Palace-Chelsea-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Chelsea",
+    "score": "1–1",
+    "venue": "Selhurst Park",
+    "attendance": "25,179",
+    "match_report_url": "https://fbref.com/en/matches/cd9861d5/Crystal-Palace-Chelsea-January-4-2025-Premier-League"
+  }
+}

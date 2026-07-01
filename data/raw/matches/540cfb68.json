@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "West Ham United",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday August 24, 2024 , 15:00 (venue time) Premier League (Matchweek 2) West Ham United vs. Crystal Palace Historical Head-to-Head Attendance : 25,099 Venue : Selhurst Park, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Andrew Davies (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 72’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "540cfb68",
+  "url": "https://fbref.com/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "West Ham",
+    "score": "0–2",
+    "venue": "Selhurst Park",
+    "attendance": "25,099",
+    "match_report_url": "https://fbref.com/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League"
+  }
+}

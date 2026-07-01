@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Manchester City",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday December 21, 2024 , 12:30 (venue time) Premier League (Matchweek 17) Manchester City vs. Aston Villa Historical Head-to-Head Attendance : 42,345 Venue : Villa Park, Birmingham Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Andy Madley (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jáder Durán",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 16’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 65’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Phil Foden",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Phil Foden · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ce9dc982",
+  "url": "https://fbref.com/en/matches/ce9dc982/Aston-Villa-Manchester-City-December-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-21",
+    "time": "12:30",
+    "home_team": "Aston Villa",
+    "away_team": "Manchester City",
+    "score": "2–1",
+    "venue": "Villa Park",
+    "attendance": "42,345",
+    "match_report_url": "https://fbref.com/en/matches/ce9dc982/Aston-Villa-Manchester-City-December-21-2024-Premier-League"
+  }
+}

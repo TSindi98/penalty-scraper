@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 3,
+    "meta_text": "Saturday October 19, 2024 , 15:00 (venue time) Premier League (Matchweek 8) Leicester City vs. Southampton Historical Head-to-Head Attendance : 31,145 Venue : St Mary's Stadium, Southampton Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Simon Hooper (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cameron Archer",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Cameron Archer · 8’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joe Aribo",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Joe Aribo · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Ryan Fraser",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Ryan Fraser · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Facundo Buonanotte",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Facundo Buonanotte · 64’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Jamie Vardy",
+      "minute": 74,
+      "is_penalty": true,
+      "raw_text": "Jamie Vardy (P) · 74’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jordan Ayew",
+      "minute": 98,
+      "is_penalty": false,
+      "raw_text": "Jordan Ayew · 90+8’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "a2d435b3",
+      "team_name": "Leicester City",
+      "player": "Jamie Vardy",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "03d28c48",
+  "url": "https://fbref.com/en/matches/03d28c48/Southampton-Leicester-City-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Leicester City",
+    "score": "2–3",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,145",
+    "match_report_url": "https://fbref.com/en/matches/03d28c48/Southampton-Leicester-City-October-19-2024-Premier-League"
+  }
+}

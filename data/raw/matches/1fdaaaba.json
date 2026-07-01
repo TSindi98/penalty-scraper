@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday January 18, 2025 , 17:30 (venue time) Premier League (Matchweek 22) Aston Villa vs. Arsenal Historical Head-to-Head Attendance : 60,067 Venue : Emirates Stadium, London Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Neil Davies (AR2) · John Busby (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 35’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 55’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Youri Tielemans",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Youri Tielemans · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 68’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1fdaaaba",
+  "url": "https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-18",
+    "time": "17:30",
+    "home_team": "Arsenal",
+    "away_team": "Aston Villa",
+    "score": "2–2",
+    "venue": "Emirates Stadium",
+    "attendance": "60,067",
+    "match_report_url": "https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League"
+  }
+}

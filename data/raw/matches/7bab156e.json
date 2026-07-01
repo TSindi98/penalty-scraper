@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Manchester United",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Sunday March 16, 2025 , 19:00 (venue time) Premier League (Matchweek 29) Manchester United vs. Leicester City Historical Head-to-Head Attendance : 31,773 Venue : King Power Stadium, Leicester Officials : Thomas Bramall (Referee) · Stuart Burt (AR1) · Constantine Hatzidakis (AR2) · Craig Pawson (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rasmus Højlund",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Rasmus Højlund · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bruno Fernandes",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 90’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7bab156e",
+  "url": "https://fbref.com/en/matches/7bab156e/Leicester-City-Manchester-United-March-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-16",
+    "time": "19:00",
+    "home_team": "Leicester City",
+    "away_team": "Manchester Utd",
+    "score": "0–3",
+    "venue": "King Power Stadium",
+    "attendance": "31,773",
+    "match_report_url": "https://fbref.com/en/matches/7bab156e/Leicester-City-Manchester-United-March-16-2025-Premier-League"
+  }
+}

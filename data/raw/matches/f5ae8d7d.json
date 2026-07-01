@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday January 4, 2025 , 15:00 (venue time) Premier League (Matchweek 20) Leicester City vs. Aston Villa Historical Head-to-Head Attendance : 42,386 Venue : Villa Park, Birmingham Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Richard West (AR2) · Joshua Smith (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ross Barkley",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Ross Barkley · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Leon Bailey",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Leon Bailey · 76’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Stephy Mavididi",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Stephy Mavididi · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "f5ae8d7d",
+  "url": "https://fbref.com/en/matches/f5ae8d7d/Aston-Villa-Leicester-City-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "15:00",
+    "home_team": "Aston Villa",
+    "away_team": "Leicester City",
+    "score": "2–1",
+    "venue": "Villa Park",
+    "attendance": "42,386",
+    "match_report_url": "https://fbref.com/en/matches/f5ae8d7d/Aston-Villa-Leicester-City-January-4-2025-Premier-League"
+  }
+}

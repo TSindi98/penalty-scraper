@@ -1,0 +1,79 @@
+{
+  "player_name": "Evanilson",
+  "player_id": "6f3cc2fe",
+  "url": "https://fbref.com/en/players/6f3cc2fe/Evanilson",
+  "seasons": [
+    {
+      "season": "2019",
+      "team": "Fluminense",
+      "comp": "1.Série A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020",
+      "team": "Fluminense",
+      "comp": "1.Série A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Porto",
+      "comp": "1.Primeira Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Porto",
+      "comp": "1.Primeira Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Porto",
+      "comp": "1.Primeira Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Porto",
+      "comp": "1.Primeira Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 2
+    },
+    {
+      "season": "2024-2025",
+      "team": "Porto",
+      "comp": "1.Primeira Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Bournemouth",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2025-2026",
+      "team": "Bournemouth",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

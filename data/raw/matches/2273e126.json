@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Everton",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday October 19, 2024 , 15:00 (venue time) Premier League (Matchweek 8) Everton vs. Ipswich Town Historical Head-to-Head Attendance : 29,862 Venue : Portman Road Stadium, Ipswich Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Darren Bond (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Michael Keane",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Michael Keane · 40’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2273e126",
+  "url": "https://fbref.com/en/matches/2273e126/Ipswich-Town-Everton-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Everton",
+    "score": "0–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,862",
+    "match_report_url": "https://fbref.com/en/matches/2273e126/Ipswich-Town-Everton-October-19-2024-Premier-League"
+  }
+}

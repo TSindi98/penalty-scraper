@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Sunday April 20, 2025 , 14:00 (venue time) Premier League (Matchweek 33) Wolverhampton Wanderers vs. Manchester United Historical Head-to-Head Attendance : 73,819 Venue : Old Trafford, Manchester Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Darren Bond (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pablo Sarabia",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Pablo Sarabia · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e50fd749",
+  "url": "https://fbref.com/en/matches/e50fd749/Manchester-United-Wolverhampton-Wanderers-April-20-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-20",
+    "time": "14:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Wolves",
+    "score": "0–1",
+    "venue": "Old Trafford",
+    "attendance": "73,819",
+    "match_report_url": "https://fbref.com/en/matches/e50fd749/Manchester-United-Wolverhampton-Wanderers-April-20-2025-Premier-League"
+  }
+}

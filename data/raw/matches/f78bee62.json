@@ -1,0 +1,96 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Arsenal",
+    "home_score": 2,
+    "away_score": 5,
+    "meta_text": "Saturday November 30, 2024 , 17:30 (venue time) Premier League (Matchweek 13) Arsenal vs. West Ham United Historical Head-to-Head Attendance : 62,475 Venue : London Stadium, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Robert Madley (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Aaron Wan-Bissaka",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Aaron Wan-Bissaka · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Emerson Palmieri",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Emerson Palmieri · 40’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Magalhães",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Gabriel Magalhães · 10’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 27’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Martin Ødegaard",
+      "minute": 34,
+      "is_penalty": true,
+      "raw_text": "Martin Ødegaard (P) · 34’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Bukayo Saka",
+      "minute": 50,
+      "is_penalty": true,
+      "raw_text": "Bukayo Saka (P) · 45+5’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "18bb7c10",
+      "team_name": "Arsenal",
+      "player": "Bukayo Saka",
+      "pens_made": 1,
+      "pens_att": 1
+    },
+    {
+      "team_id": "18bb7c10",
+      "team_name": "Arsenal",
+      "player": "Martin Ødegaard",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "f78bee62",
+  "url": "https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-11-30",
+    "time": "17:30",
+    "home_team": "West Ham",
+    "away_team": "Arsenal",
+    "score": "2–5",
+    "venue": "London Stadium",
+    "attendance": "62,475",
+    "match_report_url": "https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday December 29, 2024 , 15:00 (venue time) Premier League (Matchweek 19) Bournemouth vs. Fulham Historical Head-to-Head Attendance : 27,301 Venue : Craven Cottage, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · James Mainwaring (AR2) · Craig Pawson (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 40’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harry Wilson",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Harry Wilson · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 51’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 89’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4b4023dc",
+  "url": "https://fbref.com/en/matches/4b4023dc/Fulham-Bournemouth-December-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-29",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Bournemouth",
+    "score": "2–2",
+    "venue": "Craven Cottage",
+    "attendance": "27,301",
+    "match_report_url": "https://fbref.com/en/matches/4b4023dc/Fulham-Bournemouth-December-29-2024-Premier-League"
+  }
+}

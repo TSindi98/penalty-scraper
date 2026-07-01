@@ -1,0 +1,97 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 5,
+    "away_score": 3,
+    "meta_text": "Saturday October 5, 2024 , 15:00 (venue time) Premier League (Matchweek 7) Wolverhampton Wanderers vs. Brentford Historical Head-to-Head Attendance : 16,960 Venue : Gtech Community Stadium, Brentford Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Wade Smith  (AR2) · James Bell (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nathan Collins",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Nathan Collins · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Bryan Mbeumo",
+      "minute": 20,
+      "is_penalty": true,
+      "raw_text": "Bryan Mbeumo (P) · 20’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Christian Nørgaard",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Christian Nørgaard · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ethan Pinnock",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Ethan Pinnock · 45+2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Fabio Carvalho",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Fabio Carvalho · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 26’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rayan Aït-Nouri",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Rayan Aït-Nouri · 90+3’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cd051869",
+      "team_name": "Brentford",
+      "player": "Bryan Mbeumo",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "909090f8",
+  "url": "https://fbref.com/en/matches/909090f8/Brentford-Wolverhampton-Wanderers-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Wolves",
+    "score": "5–3",
+    "venue": "Gtech Community Stadium",
+    "attendance": "16,960",
+    "match_report_url": "https://fbref.com/en/matches/909090f8/Brentford-Wolverhampton-Wanderers-October-5-2024-Premier-League"
+  }
+}

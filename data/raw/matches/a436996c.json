@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Fulham",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday December 14, 2024 , 15:00 (venue time) Premier League (Matchweek 16) Fulham vs. Liverpool Historical Head-to-Head Attendance : 60,333 Venue : Anfield, Liverpool Officials : Tony Harrington (Referee) · Darren Cann (AR1) · Steve Meredith (AR2) · Tim Robinson (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Andy Robertson",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Andy Robertson · 16’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Diogo Jota",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Diogo Jota · 86’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Andreas Pereira",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Andreas Pereira · 11’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 76’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a436996c",
+  "url": "https://fbref.com/en/matches/a436996c/Liverpool-Fulham-December-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-14",
+    "time": "15:00",
+    "home_team": "Liverpool",
+    "away_team": "Fulham",
+    "score": "2–2",
+    "venue": "Anfield",
+    "attendance": "60,333",
+    "match_report_url": "https://fbref.com/en/matches/a436996c/Liverpool-Fulham-December-14-2024-Premier-League"
+  }
+}

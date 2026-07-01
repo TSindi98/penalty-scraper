@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday March 15, 2025 , 15:00 (venue time) Premier League (Matchweek 29) West Ham United vs. Everton Historical Head-to-Head Attendance : 39,343 Venue : Goodison Park, Liverpool Officials : Darren Bond (Referee) · Daniel Robathan (AR1) · Marc Perry (AR2) · Ruebyn Ricardo (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jake O'Brien",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Jake O'Brien · 90+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 67’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d4bd829f",
+  "url": "https://fbref.com/en/matches/d4bd829f/Everton-West-Ham-United-March-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-15",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "West Ham",
+    "score": "1–1",
+    "venue": "Goodison Park",
+    "attendance": "39,343",
+    "match_report_url": "https://fbref.com/en/matches/d4bd829f/Everton-West-Ham-United-March-15-2025-Premier-League"
+  }
+}

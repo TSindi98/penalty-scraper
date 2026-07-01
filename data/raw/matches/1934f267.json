@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday August 25, 2024 , 14:00 (venue time) Premier League (Matchweek 2) Newcastle United vs. Bournemouth Historical Head-to-Head Attendance : 11,161 Venue : Vitality Stadium, Bournemouth Officials : David Coote (Referee) · Lee Betts (AR1) · Craig Taylor (AR2) · Simon Hooper (4th) · Tim Robinson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marcus Tavernier",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Marcus Tavernier · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Anthony Gordon",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Anthony Gordon · 76’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1934f267",
+  "url": "https://fbref.com/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-25",
+    "time": "14:00",
+    "home_team": "Bournemouth",
+    "away_team": "Newcastle",
+    "score": "1–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,161",
+    "match_report_url": "https://fbref.com/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League"
+  }
+}

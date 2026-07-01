@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Ipswich Town",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday May 3, 2025 , 15:00 (venue time) Premier League (Matchweek 35) Ipswich Town vs. Everton Historical Head-to-Head Attendance : 39,305 Venue : Goodison Park, Liverpool Officials : Lewis Smith (Referee) · Nicholas Hopton (AR1) · Marc Perry (AR2) · Anthony Taylor (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Beto · 26’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dwight McNeil",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Dwight McNeil · 35’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Julio Enciso",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Julio Enciso · 41’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "George Hirst",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "George Hirst · 79’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b93c98b0",
+  "url": "https://fbref.com/en/matches/b93c98b0/Everton-Ipswich-Town-May-3-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-03",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Ipswich Town",
+    "score": "2–2",
+    "venue": "Goodison Park",
+    "attendance": "39,305",
+    "match_report_url": "https://fbref.com/en/matches/b93c98b0/Everton-Ipswich-Town-May-3-2025-Premier-League"
+  }
+}

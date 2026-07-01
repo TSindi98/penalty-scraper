@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Manchester United",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday August 24, 2024 , 12:30 (venue time) Premier League (Matchweek 2) Manchester United vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,537 Venue : The American Express Stadium, Brighton & Hove Officials : Craig Pawson (Referee) · Marc Perry (AR1) · Nicholas Hopton (AR2) · Robert Madley (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 32’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "João Pedro",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "João Pedro · 90+5’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 60’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "fc8ab8b2",
+  "url": "https://fbref.com/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "12:30",
+    "home_team": "Brighton",
+    "away_team": "Manchester Utd",
+    "score": "2–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,537",
+    "match_report_url": "https://fbref.com/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League"
+  }
+}

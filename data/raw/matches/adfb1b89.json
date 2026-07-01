@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 4,
+    "meta_text": "Saturday November 30, 2024 , 15:00 (venue time) Premier League (Matchweek 13) Bournemouth vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 26,685 Venue : Molineux Stadium, Wolverhampton Officials : Peter Bankes (Referee) · Nick Greenhalgh (AR1) · Craig Taylor (AR2) · Robert Jones (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 5’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Justin Kluivert",
+      "minute": 3,
+      "is_penalty": true,
+      "raw_text": "Justin Kluivert (P) · 3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Milos Kerkez",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Milos Kerkez · 8’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Justin Kluivert",
+      "minute": 18,
+      "is_penalty": true,
+      "raw_text": "Justin Kluivert (P) · 18’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Justin Kluivert",
+      "minute": 74,
+      "is_penalty": true,
+      "raw_text": "Justin Kluivert (P) · 74’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "4ba7cbea",
+      "team_name": "Bournemouth",
+      "player": "Justin Kluivert",
+      "pens_made": 3,
+      "pens_att": 3
+    }
+  ],
+  "match_id": "adfb1b89",
+  "url": "https://fbref.com/en/matches/adfb1b89/Wolverhampton-Wanderers-Bournemouth-November-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-11-30",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Bournemouth",
+    "score": "2–4",
+    "venue": "Molineux Stadium",
+    "attendance": "26,685",
+    "match_report_url": "https://fbref.com/en/matches/adfb1b89/Wolverhampton-Wanderers-Bournemouth-November-30-2024-Premier-League"
+  }
+}

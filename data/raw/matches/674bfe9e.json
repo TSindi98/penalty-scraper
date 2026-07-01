@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Nottingham Forest",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday September 14, 2024 , 15:00 (venue time) Premier League (Matchweek 4) Nottingham Forest vs. Liverpool Historical Head-to-Head Attendance : 60,344 Venue : Anfield, Liverpool Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · Dan Cook (AR2) · Anthony Backhouse (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Callum Hudson-Odoi",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Callum Hudson-Odoi · 72’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "674bfe9e",
+  "url": "https://fbref.com/en/matches/674bfe9e/Liverpool-Nottingham-Forest-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "15:00",
+    "home_team": "Liverpool",
+    "away_team": "Nottingham",
+    "score": "0–1",
+    "venue": "Anfield",
+    "attendance": "60,344",
+    "match_report_url": "https://fbref.com/en/matches/674bfe9e/Liverpool-Nottingham-Forest-September-14-2024-Premier-League"
+  }
+}

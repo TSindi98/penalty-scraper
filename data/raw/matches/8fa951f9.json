@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Aston Villa",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Sunday November 3, 2024 , 14:00 (venue time) Premier League (Matchweek 10) Aston Villa vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,253 Venue : Tottenham Hotspur Stadium, London Officials : Craig Pawson (Referee) · James Mainwaring (AR1) · Wade Smith  (AR2) · Peter Bankes (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 49’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 75’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 79’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 90+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "8fa951f9",
+  "url": "https://fbref.com/en/matches/8fa951f9/Tottenham-Hotspur-Aston-Villa-November-3-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-03",
+    "time": "14:00",
+    "home_team": "Tottenham",
+    "away_team": "Aston Villa",
+    "score": "4–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,253",
+    "match_report_url": "https://fbref.com/en/matches/8fa951f9/Tottenham-Hotspur-Aston-Villa-November-3-2024-Premier-League"
+  }
+}

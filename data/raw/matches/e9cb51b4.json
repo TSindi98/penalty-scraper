@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday April 5, 2025 , 15:00 (venue time) Premier League (Matchweek 31) Brighton & Hove Albion vs. Crystal Palace Historical Head-to-Head Attendance : 24,564 Venue : Selhurst Park, London Officials : Anthony Taylor (Referee) · Adam Nunn (AR1) · Neil Davies (AR2) · Samuel Allison (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 3,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 3’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Daniel Muñoz",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Daniel Muñoz · 55’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Eddie Nketiah",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Eddie Nketiah · 78’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Marc Guéhi",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Jan Paul van Hecke",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Jan Paul van Hecke · 90+6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e9cb51b4",
+  "url": "https://fbref.com/en/matches/e9cb51b4/Crystal-Palace-Brighton-and-Hove-Albion-April-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-05",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Brighton",
+    "score": "2–1",
+    "venue": "Selhurst Park",
+    "attendance": "24,564",
+    "match_report_url": "https://fbref.com/en/matches/e9cb51b4/Crystal-Palace-Brighton-and-Hove-Albion-April-5-2025-Premier-League"
+  }
+}

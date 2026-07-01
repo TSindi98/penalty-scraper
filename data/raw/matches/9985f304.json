@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Aston Villa",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Thursday December 26, 2024 , 15:00 (venue time) Premier League (Matchweek 18) Aston Villa vs. Newcastle United Historical Head-to-Head Attendance : 52,168 Venue : St James' Park, Newcastle upon Tyne Officials : Anthony Taylor (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Leigh Doughty (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Anthony Gordon",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Anthony Gordon · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 59’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joelinton",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Joelinton · 90+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Jáder Durán",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9985f304",
+  "url": "https://fbref.com/en/matches/9985f304/Newcastle-United-Aston-Villa-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "3–0",
+    "venue": "St James' Park",
+    "attendance": "52,168",
+    "match_report_url": "https://fbref.com/en/matches/9985f304/Newcastle-United-Aston-Villa-December-26-2024-Premier-League"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Brentford",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Monday November 4, 2024 , 20:00 (venue time) Premier League (Matchweek 10) Brentford vs. Fulham Historical Head-to-Head Attendance : 24,931 Venue : Craven Cottage, London Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Matthew Wilkes (AR2) · Simon Hooper (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harry Wilson",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Harry Wilson · 90+2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harry Wilson",
+      "minute": 97,
+      "is_penalty": false,
+      "raw_text": "Harry Wilson · 90+7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Vitaly Janelt",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Vitaly Janelt · 24’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e1590847",
+  "url": "https://fbref.com/en/matches/e1590847/Fulham-Brentford-November-4-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-04",
+    "time": "20:00",
+    "home_team": "Fulham",
+    "away_team": "Brentford",
+    "score": "2–1",
+    "venue": "Craven Cottage",
+    "attendance": "24,931",
+    "match_report_url": "https://fbref.com/en/matches/e1590847/Fulham-Brentford-November-4-2024-Premier-League"
+  }
+}

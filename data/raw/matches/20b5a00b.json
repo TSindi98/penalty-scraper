@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Ipswich Town",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday May 18, 2025 , 15:00 (venue time) Premier League (Matchweek 37) Ipswich Town vs. Leicester City Historical Head-to-Head Attendance : 31,986 Venue : King Power Stadium, Leicester Officials : Andrew Kitchen (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Anthony Taylor (4th) · Neil Davies (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kasey McAteer",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Kasey McAteer · 69’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "20b5a00b",
+  "url": "https://fbref.com/en/matches/20b5a00b/Leicester-City-Ipswich-Town-May-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-18",
+    "time": "15:00",
+    "home_team": "Leicester City",
+    "away_team": "Ipswich Town",
+    "score": "2–0",
+    "venue": "King Power Stadium",
+    "attendance": "31,986",
+    "match_report_url": "https://fbref.com/en/matches/20b5a00b/Leicester-City-Ipswich-Town-May-18-2025-Premier-League"
+  }
+}

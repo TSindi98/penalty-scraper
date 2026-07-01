@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday February 15, 2025 , 17:30 (venue time) Premier League (Matchweek 25) Everton vs. Crystal Palace Historical Head-to-Head Attendance : 25,108 Venue : Selhurst Park, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Stuart Attwell (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Beto · 42’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Carlos Alcaraz",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Carlos Alcaraz · 80’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "35ee3617",
+  "url": "https://fbref.com/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "17:30",
+    "home_team": "Crystal Palace",
+    "away_team": "Everton",
+    "score": "1–2",
+    "venue": "Selhurst Park",
+    "attendance": "25,108",
+    "match_report_url": "https://fbref.com/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League"
+  }
+}

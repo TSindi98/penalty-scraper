@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday February 16, 2025 , 14:00 (venue time) Premier League (Matchweek 25) Wolverhampton Wanderers vs. Liverpool Historical Head-to-Head Attendance : 60,248 Venue : Anfield, Liverpool Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Samuel Barrott (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 15’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 37,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 67’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "6a917c79",
+  "url": "https://fbref.com/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-16",
+    "time": "14:00",
+    "home_team": "Liverpool",
+    "away_team": "Wolves",
+    "score": "2–1",
+    "venue": "Anfield",
+    "attendance": "60,248",
+    "match_report_url": "https://fbref.com/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League"
+  }
+}

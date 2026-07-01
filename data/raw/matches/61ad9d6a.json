@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Newcastle United",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Monday March 10, 2025 , 20:00 (venue time) Premier League (Matchweek 28) Newcastle United vs. West Ham United Historical Head-to-Head Attendance : 62,463 Venue : London Stadium, London Officials : Michael Salisbury (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Ben Toner (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bruno Guimarães",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Bruno Guimarães · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "61ad9d6a",
+  "url": "https://fbref.com/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-10",
+    "time": "20:00",
+    "home_team": "West Ham",
+    "away_team": "Newcastle",
+    "score": "0–1",
+    "venue": "London Stadium",
+    "attendance": "62,463",
+    "match_report_url": "https://fbref.com/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League"
+  }
+}

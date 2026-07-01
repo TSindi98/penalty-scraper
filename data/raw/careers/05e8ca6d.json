@@ -1,0 +1,111 @@
+{
+  "player_name": "Cameron Archer",
+  "player_id": "05e8ca6d",
+  "url": "https://fbref.com/en/players/05e8ca6d/Cameron-Archer",
+  "seasons": [
+    {
+      "season": "2018-2019",
+      "team": "Aston Villa",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Aston Villa",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Solihull Moors",
+      "comp": "5.National League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Aston Villa",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Aston Villa",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Preston",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Middlesbrough",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Sheffield United",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Southampton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2025-2026",
+      "team": "Southampton",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

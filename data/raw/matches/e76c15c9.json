@@ -1,0 +1,89 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Chelsea",
+    "home_score": 2,
+    "away_score": 6,
+    "meta_text": "Sunday August 25, 2024 , 14:00 (venue time) Premier League (Matchweek 2) Chelsea vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,235 Venue : Molineux Stadium, Wolverhampton Officials : Darren England (Referee) · Nick Greenhalgh (AR1) · Constantine Hatzidakis (AR2) · Robert Jones (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 27’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 45+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 45,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 45’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 49’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 58’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 63’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "João Félix",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "João Félix · 80’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e76c15c9",
+  "url": "https://fbref.com/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-25",
+    "time": "14:00",
+    "home_team": "Wolves",
+    "away_team": "Chelsea",
+    "score": "2–6",
+    "venue": "Molineux Stadium",
+    "attendance": "31,235",
+    "match_report_url": "https://fbref.com/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League"
+  }
+}

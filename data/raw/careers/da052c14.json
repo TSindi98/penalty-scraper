@@ -1,0 +1,167 @@
+{
+  "player_name": "Jordan Ayew",
+  "player_id": "da052c14",
+  "url": "https://fbref.com/en/players/da052c14/Jordan-Ayew",
+  "seasons": [
+    {
+      "season": "2009-2010",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2010-2011",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2011-2012",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2012-2013",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2013-2014",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2013-2014",
+      "team": "Sochaux",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2014-2015",
+      "team": "Lorient",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2015-2016",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2016-2017",
+      "team": "Aston Villa",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2016-2017",
+      "team": "Swansea City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Swansea City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2018-2019",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Crystal Palace",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Leicester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2025-2026",
+      "team": "Leicester City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 2
+    }
+  ]
+}

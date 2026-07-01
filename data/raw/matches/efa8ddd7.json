@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Nottingham Forest",
+    "home_score": 5,
+    "away_score": 0,
+    "meta_text": "Saturday January 25, 2025 , 15:00 (venue time) Premier League (Matchweek 23) Nottingham Forest vs. Bournemouth Historical Head-to-Head Attendance : 11,228 Venue : Vitality Stadium, Bournemouth Officials : Craig Pawson (Referee) · Scott Ledger (AR1) · Mark Scholes (AR2) · Stephen Martin (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 9’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 55’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 61’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 87’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 90+1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "efa8ddd7",
+  "url": "https://fbref.com/en/matches/efa8ddd7/Bournemouth-Nottingham-Forest-January-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-25",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Nottingham",
+    "score": "5–0",
+    "venue": "Vitality Stadium",
+    "attendance": "11,228",
+    "match_report_url": "https://fbref.com/en/matches/efa8ddd7/Bournemouth-Nottingham-Forest-January-25-2025-Premier-League"
+  }
+}

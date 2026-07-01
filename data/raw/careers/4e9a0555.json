@@ -1,0 +1,223 @@
+{
+  "player_name": "Chris Wood",
+  "player_id": "4e9a0555",
+  "url": "https://fbref.com/en/players/4e9a0555/Chris-Wood",
+  "seasons": [
+    {
+      "season": "2008-2009",
+      "team": "West Brom",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2009-2010",
+      "team": "West Brom",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2010-2011",
+      "team": "West Brom",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2010-2011",
+      "team": "Barnsley",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2010-2011",
+      "team": "Brighton",
+      "comp": "3.League One",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 5,
+      "pens_made": 4
+    },
+    {
+      "season": "2011-2012",
+      "team": "Bristol City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2011-2012",
+      "team": "Birmingham City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2012-2013",
+      "team": "Millwall",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2012-2013",
+      "team": "Leicester City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 1
+    },
+    {
+      "season": "2013-2014",
+      "team": "Leicester City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2014-2015",
+      "team": "Leicester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2014-2015",
+      "team": "Ipswich Town",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2015-2016",
+      "team": "Leeds United",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 4,
+      "pens_made": 3
+    },
+    {
+      "season": "2016-2017",
+      "team": "Leeds United",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 5,
+      "pens_made": 5
+    },
+    {
+      "season": "2017-2018",
+      "team": "Leeds United",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Burnley",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018-2019",
+      "team": "Burnley",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Burnley",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2020-2021",
+      "team": "Burnley",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "season": "2021-2022",
+      "team": "Burnley",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Newcastle",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2022-2023",
+      "team": "Newcastle",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2022-2023",
+      "team": "Nottingham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Nottingham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Nottingham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2025-2026",
+      "team": "Nottingham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2025-2026",
+      "team": "Nottingham",
+      "comp": "Jr.PL2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Wednesday April 2, 2025 , 19:45 (venue time) Premier League (Matchweek 30) Leicester City vs. Manchester City Historical Head-to-Head Attendance : 52,148 Venue : Etihad Stadium, Manchester Officials : Darren England (Referee) · Gary Beswick (AR1) · Natalie Aspinall (AR2) · Dean Whitestone (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jack Grealish",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Jack Grealish · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 29’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "464a9c6c",
+  "url": "https://fbref.com/en/matches/464a9c6c/Manchester-City-Leicester-City-April-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "30",
+    "date": "2025-04-02",
+    "time": "19:45",
+    "home_team": "Manchester City",
+    "away_team": "Leicester City",
+    "score": "2–0",
+    "venue": "Etihad Stadium",
+    "attendance": "52,148",
+    "match_report_url": "https://fbref.com/en/matches/464a9c6c/Manchester-City-Leicester-City-April-2-2025-Premier-League"
+  }
+}

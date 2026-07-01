@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday October 26, 2024 , 15:00 (venue time) Premier League (Matchweek 9) Bournemouth vs. Aston Villa Historical Head-to-Head Attendance : 42,165 Venue : Villa Park, Birmingham Officials : Chris Kavanagh (Referee) · Nicholas Hopton (AR1) · Mark Scholes (AR2) · Craig Pawson (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ross Barkley",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Ross Barkley · 76’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 90+6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "bce300b2",
+  "url": "https://fbref.com/en/matches/bce300b2/Aston-Villa-Bournemouth-October-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-26",
+    "time": "15:00",
+    "home_team": "Aston Villa",
+    "away_team": "Bournemouth",
+    "score": "1–1",
+    "venue": "Villa Park",
+    "attendance": "42,165",
+    "match_report_url": "https://fbref.com/en/matches/bce300b2/Aston-Villa-Bournemouth-October-26-2024-Premier-League"
+  }
+}

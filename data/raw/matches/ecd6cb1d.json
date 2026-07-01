@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Sunday December 22, 2024 , 14:00 (venue time) Premier League (Matchweek 17) Wolverhampton Wanderers vs. Leicester City Historical Head-to-Head Attendance : 31,818 Venue : King Power Stadium, Leicester Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Anthony Backhouse (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gonçalo Guedes",
+      "minute": 19,
+      "is_penalty": false,
+      "raw_text": "Gonçalo Guedes · 19’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Gomes",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Gomes · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 44’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ecd6cb1d",
+  "url": "https://fbref.com/en/matches/ecd6cb1d/Leicester-City-Wolverhampton-Wanderers-December-22-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-22",
+    "time": "14:00",
+    "home_team": "Leicester City",
+    "away_team": "Wolves",
+    "score": "0–3",
+    "venue": "King Power Stadium",
+    "attendance": "31,818",
+    "match_report_url": "https://fbref.com/en/matches/ecd6cb1d/Leicester-City-Wolverhampton-Wanderers-December-22-2024-Premier-League"
+  }
+}

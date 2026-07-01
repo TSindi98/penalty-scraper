@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Manchester City",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday September 28, 2024 , 12:30 (venue time) Premier League (Matchweek 6) Manchester City vs. Newcastle United Historical Head-to-Head Attendance : 52,248 Venue : St James' Park, Newcastle upon Tyne Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Akil Howson (AR2) · Robert Jones (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Anthony Gordon",
+      "minute": 58,
+      "is_penalty": true,
+      "raw_text": "Anthony Gordon (P) · 58’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Joško Gvardiol",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Joško Gvardiol · 35’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b2b47a98",
+      "team_name": "Newcastle",
+      "player": "Anthony Gordon",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "b4df0bca",
+  "url": "https://fbref.com/en/matches/b4df0bca/Newcastle-United-Manchester-City-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "12:30",
+    "home_team": "Newcastle",
+    "away_team": "Manchester City",
+    "score": "1–1",
+    "venue": "St James' Park",
+    "attendance": "52,248",
+    "match_report_url": "https://fbref.com/en/matches/b4df0bca/Newcastle-United-Manchester-City-September-28-2024-Premier-League"
+  }
+}

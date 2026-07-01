@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Chelsea",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Monday December 30, 2024 , 19:45 (venue time) Premier League (Matchweek 19) Chelsea vs. Ipswich Town Historical Head-to-Head Attendance : 29,968 Venue : Portman Road Stadium, Ipswich Officials : John Brooks (Referee) · Simon Bennett (AR1) · Samuel Lewis (AR2) · Darren Bond (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Liam Delap",
+      "minute": 12,
+      "is_penalty": true,
+      "raw_text": "Liam Delap (P) · 12’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omari Hutchinson",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "Omari Hutchinson · 53’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b74092de",
+      "team_name": "Ipswich Town",
+      "player": "Liam Delap",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "88073205",
+  "url": "https://fbref.com/en/matches/88073205/Ipswich-Town-Chelsea-December-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-30",
+    "time": "19:45",
+    "home_team": "Ipswich Town",
+    "away_team": "Chelsea",
+    "score": "2–0",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,968",
+    "match_report_url": "https://fbref.com/en/matches/88073205/Ipswich-Town-Chelsea-December-30-2024-Premier-League"
+  }
+}

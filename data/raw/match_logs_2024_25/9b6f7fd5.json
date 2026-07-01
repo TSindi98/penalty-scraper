@@ -1,0 +1,25 @@
+{
+  "player_name": "Lucas Paquetá",
+  "player_id": "9b6f7fd5",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/9b6f7fd5/matchlogs/2024-2025/summary/Lucas-Paqueta-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-08-17",
+      "comp": "Premier League",
+      "opponent": "Aston Villa",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-16",
+      "comp": "Premier League",
+      "opponent": "Bournemouth",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 44
+}

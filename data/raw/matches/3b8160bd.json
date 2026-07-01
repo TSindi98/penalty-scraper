@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Manchester City",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Wednesday February 26, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Manchester City vs. Tottenham Hotspur Historical Head-to-Head Attendance : 60,820 Venue : Tottenham Hotspur Stadium, London Officials : Jarred Gillett (Referee) · Ian Hussin (AR1) · Darren Cann (AR2) · Robert Jones (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 12’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "3b8160bd",
+  "url": "https://fbref.com/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-26",
+    "time": "19:30",
+    "home_team": "Tottenham",
+    "away_team": "Manchester City",
+    "score": "0–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "60,820",
+    "match_report_url": "https://fbref.com/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League"
+  }
+}

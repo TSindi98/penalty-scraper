@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Manchester United",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday February 22, 2025 , 12:30 (venue time) Premier League (Matchweek 26) Manchester United vs. Everton Historical Head-to-Head Attendance : 39,290 Venue : Goodison Park, Liverpool Officials : Andy Madley (Referee) · Matthew Wilkes (AR1) · Craig Taylor (AR2) · Anthony Taylor (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 19,
+      "is_penalty": false,
+      "raw_text": "Beto · 19’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Abdoulaye Doucouré",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Abdoulaye Doucouré · 33’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bruno Fernandes",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Manuel Ugarte",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Manuel Ugarte · 80’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e5b45c4d",
+  "url": "https://fbref.com/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-22",
+    "time": "12:30",
+    "home_team": "Everton",
+    "away_team": "Manchester Utd",
+    "score": "2–2",
+    "venue": "Goodison Park",
+    "attendance": "39,290",
+    "match_report_url": "https://fbref.com/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League"
+  }
+}

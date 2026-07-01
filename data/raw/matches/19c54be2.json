@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Wednesday April 2, 2025 , 19:45 (venue time) Premier League (Matchweek 30) Ipswich Town vs. Bournemouth Historical Head-to-Head Attendance : 11,192 Venue : Vitality Stadium, Bournemouth Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Simon Long (AR2) · John Brooks (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nathan Broadhead",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Nathan Broadhead · 34’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 60’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "19c54be2",
+  "url": "https://fbref.com/en/matches/19c54be2/Bournemouth-Ipswich-Town-April-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "30",
+    "date": "2025-04-02",
+    "time": "19:45",
+    "home_team": "Bournemouth",
+    "away_team": "Ipswich Town",
+    "score": "1–2",
+    "venue": "Vitality Stadium",
+    "attendance": "11,192",
+    "match_report_url": "https://fbref.com/en/matches/19c54be2/Bournemouth-Ipswich-Town-April-2-2025-Premier-League"
+  }
+}

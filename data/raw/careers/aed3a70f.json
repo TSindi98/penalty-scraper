@@ -1,0 +1,103 @@
+{
+  "player_name": "Ollie Watkins",
+  "player_id": "aed3a70f",
+  "url": "https://fbref.com/en/players/aed3a70f/Ollie-Watkins",
+  "seasons": [
+    {
+      "season": "2014-2015",
+      "team": "Exeter City",
+      "comp": "4.League Two",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2015-2016",
+      "team": "Exeter City",
+      "comp": "4.League Two",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2016-2017",
+      "team": "Exeter City",
+      "comp": "4.League Two",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Brentford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 1
+    },
+    {
+      "season": "2018-2019",
+      "team": "Brentford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Brentford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 1
+    },
+    {
+      "season": "2021-2022",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2022-2023",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 1
+    },
+    {
+      "season": "2023-2024",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "season": "2025-2026",
+      "team": "Aston Villa",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

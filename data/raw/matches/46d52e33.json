@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday December 14, 2024 , 15:00 (venue time) Premier League (Matchweek 16) Ipswich Town vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 30,866 Venue : Molineux Stadium, Wolverhampton Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Leigh Doughty (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 72’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Rayan Aït-Nouri",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Rayan Aït-Nouri · 90+5’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Matt Doherty",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Matt Doherty (OG) · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jack Taylor",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Jack Taylor · 90+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "46d52e33",
+  "url": "https://fbref.com/en/matches/46d52e33/Wolverhampton-Wanderers-Ipswich-Town-December-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-14",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Ipswich Town",
+    "score": "1–2",
+    "venue": "Molineux Stadium",
+    "attendance": "30,866",
+    "match_report_url": "https://fbref.com/en/matches/46d52e33/Wolverhampton-Wanderers-Ipswich-Town-December-14-2024-Premier-League"
+  }
+}

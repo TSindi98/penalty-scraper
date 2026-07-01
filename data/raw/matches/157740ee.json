@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Liverpool",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Sunday May 4, 2025 , 16:30 (venue time) Premier League (Matchweek 35) Liverpool vs. Chelsea Historical Head-to-Head Attendance : 39,829 Venue : Stamford Bridge, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Tony Harrington (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Enzo Fernández",
+      "minute": 3,
+      "is_penalty": false,
+      "raw_text": "Enzo Fernández · 3’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Jarell Quansah",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Jarell Quansah (OG) · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Cole Palmer",
+      "minute": 96,
+      "is_penalty": true,
+      "raw_text": "Cole Palmer (P) · 90+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Virgil van Dijk",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Virgil van Dijk · 85’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cff3d9bb",
+      "team_name": "Chelsea",
+      "player": "Cole Palmer",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "157740ee",
+  "url": "https://fbref.com/en/matches/157740ee/Chelsea-Liverpool-May-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-04",
+    "time": "16:30",
+    "home_team": "Chelsea",
+    "away_team": "Liverpool",
+    "score": "3–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,829",
+    "match_report_url": "https://fbref.com/en/matches/157740ee/Chelsea-Liverpool-May-4-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Thursday December 26, 2024 , 15:00 (venue time) Premier League (Matchweek 18) Tottenham Hotspur vs. Nottingham Forest Historical Head-to-Head Attendance : 30,200 Venue : The City Ground, Nottingham Officials : Craig Pawson (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Dean Whitestone (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Anthony Elanga",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Anthony Elanga · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Djed Spence",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Djed Spence · 90+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "eb738106",
+  "url": "https://fbref.com/en/matches/eb738106/Nottingham-Forest-Tottenham-Hotspur-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Tottenham",
+    "score": "1–0",
+    "venue": "The City Ground",
+    "attendance": "30,200",
+    "match_report_url": "https://fbref.com/en/matches/eb738106/Nottingham-Forest-Tottenham-Hotspur-December-26-2024-Premier-League"
+  }
+}

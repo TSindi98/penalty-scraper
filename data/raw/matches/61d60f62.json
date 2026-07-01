@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Fulham",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Saturday October 5, 2024 , 15:00 (venue time) Premier League (Matchweek 7) Fulham vs. Manchester City Historical Head-to-Head Attendance : 53,017 Venue : Etihad Stadium, Manchester Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Oliver Langford (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mateo Kovačić",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Mateo Kovačić · 32’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mateo Kovačić",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Mateo Kovačić · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jeremy Doku",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Jeremy Doku · 82’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Andreas Pereira",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Andreas Pereira · 26’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 88,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 88’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "61d60f62",
+  "url": "https://fbref.com/en/matches/61d60f62/Manchester-City-Fulham-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "15:00",
+    "home_team": "Manchester City",
+    "away_team": "Fulham",
+    "score": "3–2",
+    "venue": "Etihad Stadium",
+    "attendance": "53,017",
+    "match_report_url": "https://fbref.com/en/matches/61d60f62/Manchester-City-Fulham-October-5-2024-Premier-League"
+  }
+}

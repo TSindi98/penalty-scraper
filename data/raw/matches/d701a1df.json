@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Nottingham Forest",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday September 22, 2024 , 14:00 (venue time) Premier League (Matchweek 5) Nottingham Forest vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,444 Venue : The American Express Stadium, Brighton & Hove Officials : Robert Jones (Referee) · Neil Davies (AR1) · Akil Howson (AR2) · Anthony Taylor (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jack Hinshelwood",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Jack Hinshelwood · 42’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 45,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 45’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Chris Wood",
+      "minute": 13,
+      "is_penalty": true,
+      "raw_text": "Chris Wood (P) · 13’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ramón Sosa",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Ramón Sosa · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Morgan Gibbs-White",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 83’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "e4a775cb",
+      "team_name": "Nottingham",
+      "player": "Chris Wood",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "d701a1df",
+  "url": "https://fbref.com/en/matches/d701a1df/Brighton-and-Hove-Albion-Nottingham-Forest-September-22-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-22",
+    "time": "14:00",
+    "home_team": "Brighton",
+    "away_team": "Nottingham",
+    "score": "2–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,444",
+    "match_report_url": "https://fbref.com/en/matches/d701a1df/Brighton-and-Hove-Albion-Nottingham-Forest-September-22-2024-Premier-League"
+  }
+}

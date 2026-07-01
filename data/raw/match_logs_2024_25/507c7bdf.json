@@ -1,0 +1,57 @@
+{
+  "player_name": "Bruno Fernandes",
+  "player_id": "507c7bdf",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/507c7bdf/matchlogs/2024-2025/summary/Bruno-Fernandes-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-03",
+      "comp": "Premier League",
+      "opponent": "Chelsea",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-15",
+      "comp": "Premier League",
+      "opponent": "Manchester City",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-19",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-13",
+      "comp": "Europa Lg",
+      "opponent": "esReal Sociedad",
+      "venue": "Home",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "date": "2025-04-17",
+      "comp": "Europa Lg",
+      "opponent": "frLyon",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-05-01",
+      "comp": "Europa Lg",
+      "opponent": "esAthletic Club",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 69
+}

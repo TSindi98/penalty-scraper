@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Manchester United",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Sunday January 26, 2025 , 19:00 (venue time) Premier League (Matchweek 23) Manchester United vs. Fulham Historical Head-to-Head Attendance : 27,288 Venue : Craven Cottage, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Barrott (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Lisandro Martínez",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Lisandro Martínez · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "eb14e391",
+  "url": "https://fbref.com/en/matches/eb14e391/Fulham-Manchester-United-January-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-26",
+    "time": "19:00",
+    "home_team": "Fulham",
+    "away_team": "Manchester Utd",
+    "score": "0–1",
+    "venue": "Craven Cottage",
+    "attendance": "27,288",
+    "match_report_url": "https://fbref.com/en/matches/eb14e391/Fulham-Manchester-United-January-26-2025-Premier-League"
+  }
+}

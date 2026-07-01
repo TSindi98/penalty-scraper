@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Southampton",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Friday November 29, 2024 , 20:00 (venue time) Premier League (Matchweek 13) Southampton vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,542 Venue : The American Express Stadium, Brighton & Hove Officials : Robert Jones (Referee) · Neil Davies (AR1) · Nicholas Hopton (AR2) · John Busby (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 29’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Flynn Downes",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Flynn Downes · 59’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d38c4a31",
+  "url": "https://fbref.com/en/matches/d38c4a31/Brighton-and-Hove-Albion-Southampton-November-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-11-29",
+    "time": "20:00",
+    "home_team": "Brighton",
+    "away_team": "Southampton",
+    "score": "1–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,542",
+    "match_report_url": "https://fbref.com/en/matches/d38c4a31/Brighton-and-Hove-Albion-Southampton-November-29-2024-Premier-League"
+  }
+}

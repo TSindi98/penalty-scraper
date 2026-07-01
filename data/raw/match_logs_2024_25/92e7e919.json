@@ -1,0 +1,41 @@
+{
+  "player_name": "Son Heung-min",
+  "player_id": "92e7e919",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/92e7e919/matchlogs/2024-2025/summary/Son-Heung-min-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-14",
+      "comp": "WCQ",
+      "opponent": "kwKuwait",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-28",
+      "comp": "Europa Lg",
+      "opponent": "itRoma",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-29",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2025-03-09",
+      "comp": "Premier League",
+      "opponent": "Bournemouth",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 53
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday September 14, 2024 , 15:00 (venue time) Premier League (Matchweek 4) West Ham United vs. Fulham Historical Head-to-Head Attendance : 26,528 Venue : Craven Cottage, London Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Sunny Gill (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 24’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Danny Ings",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Danny Ings · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "fa2b1777",
+  "url": "https://fbref.com/en/matches/fa2b1777/Fulham-West-Ham-United-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "West Ham",
+    "score": "1–1",
+    "venue": "Craven Cottage",
+    "attendance": "26,528",
+    "match_report_url": "https://fbref.com/en/matches/fa2b1777/Fulham-West-Ham-United-September-14-2024-Premier-League"
+  }
+}

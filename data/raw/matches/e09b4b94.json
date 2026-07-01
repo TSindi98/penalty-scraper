@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday May 4, 2025 , 14:00 (venue time) Premier League (Matchweek 35) Newcastle United vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,580 Venue : The American Express Stadium, Brighton & Hove Officials : Craig Pawson (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Steve Martin (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yankuba Minteh",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Yankuba Minteh · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Alexander Isak",
+      "minute": 89,
+      "is_penalty": true,
+      "raw_text": "Alexander Isak (P) · 89’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b2b47a98",
+      "team_name": "Newcastle",
+      "player": "Alexander Isak",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "e09b4b94",
+  "url": "https://fbref.com/en/matches/e09b4b94/Brighton-and-Hove-Albion-Newcastle-United-May-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-04",
+    "time": "14:00",
+    "home_team": "Brighton",
+    "away_team": "Newcastle",
+    "score": "1–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,580",
+    "match_report_url": "https://fbref.com/en/matches/e09b4b94/Brighton-and-Hove-Albion-Newcastle-United-May-4-2025-Premier-League"
+  }
+}

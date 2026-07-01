@@ -1,0 +1,33 @@
+{
+  "player_name": "Ollie Watkins",
+  "player_id": "aed3a70f",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/aed3a70f/matchlogs/2024-2025/summary/Ollie-Watkins-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-12-04",
+      "comp": "Premier League",
+      "opponent": "Brentford",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-30",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-29",
+      "comp": "Champions Lg",
+      "opponent": "sctCeltic",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 61
+}

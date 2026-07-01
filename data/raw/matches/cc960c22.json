@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday November 2, 2024 , 12:30 (venue time) Premier League (Matchweek 10) Arsenal vs. Newcastle United Historical Head-to-Head Attendance : 52,249 Venue : St James' Park, Newcastle upon Tyne Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Darren Bond (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 12’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "cc960c22",
+  "url": "https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "12:30",
+    "home_team": "Newcastle",
+    "away_team": "Arsenal",
+    "score": "1–0",
+    "venue": "St James' Park",
+    "attendance": "52,249",
+    "match_report_url": "https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League"
+  }
+}

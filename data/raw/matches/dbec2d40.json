@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Southampton",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Saturday November 9, 2024 , 15:00 (venue time) Premier League (Matchweek 11) Southampton vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,403 Venue : Molineux Stadium, Wolverhampton Officials : Thomas Bramall (Referee) · Scott Ledger (AR1) · Akil Howson (AR2) · Dean Whitestone (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Pablo Sarabia",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Pablo Sarabia · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 51’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "dbec2d40",
+  "url": "https://fbref.com/en/matches/dbec2d40/Wolverhampton-Wanderers-Southampton-November-9-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-09",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Southampton",
+    "score": "2–0",
+    "venue": "Molineux Stadium",
+    "attendance": "31,403",
+    "match_report_url": "https://fbref.com/en/matches/dbec2d40/Wolverhampton-Wanderers-Southampton-November-9-2024-Premier-League"
+  }
+}

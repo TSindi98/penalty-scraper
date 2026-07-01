@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Chelsea",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Friday February 14, 2025 , 20:00 (venue time) Premier League (Matchweek 25) Chelsea vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,324 Venue : The American Express Stadium, Brighton & Hove Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Mark Scholes (AR2) · Stuart Attwell (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 27’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yankuba Minteh",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Yankuba Minteh · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yankuba Minteh",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Yankuba Minteh · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ed780e1d",
+  "url": "https://fbref.com/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-14",
+    "time": "20:00",
+    "home_team": "Brighton",
+    "away_team": "Chelsea",
+    "score": "3–0",
+    "venue": "The American Express Stadium",
+    "attendance": "31,324",
+    "match_report_url": "https://fbref.com/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Fulham",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Tuesday January 14, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Fulham vs. West Ham United Historical Head-to-Head Attendance : 62,456 Venue : London Stadium, London Officials : Craig Pawson (Referee) · Darren Cann (AR1) · Blake Antrobus (AR2) · Tom Nield (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Carlos Soler",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Carlos Soler · 31’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Lucas Paquetá",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Lucas Paquetá · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 51’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c6168c73",
+  "url": "https://fbref.com/en/matches/c6168c73/West-Ham-United-Fulham-January-14-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-14",
+    "time": "19:30",
+    "home_team": "West Ham",
+    "away_team": "Fulham",
+    "score": "3–2",
+    "venue": "London Stadium",
+    "attendance": "62,456",
+    "match_report_url": "https://fbref.com/en/matches/c6168c73/West-Ham-United-Fulham-January-14-2025-Premier-League"
+  }
+}

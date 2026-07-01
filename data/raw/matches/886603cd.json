@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday February 1, 2025 , 15:00 (venue time) Premier League (Matchweek 24) Liverpool vs. Bournemouth Historical Head-to-Head Attendance : 11,239 Venue : Vitality Stadium, Bournemouth Officials : Darren England (Referee) · Akil Howson (AR1) · Steve Meredith (AR2) · Stephen Martin (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 30,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 30’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 75’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "886603cd",
+  "url": "https://fbref.com/en/matches/886603cd/Bournemouth-Liverpool-February-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-01",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Liverpool",
+    "score": "0–2",
+    "venue": "Vitality Stadium",
+    "attendance": "11,239",
+    "match_report_url": "https://fbref.com/en/matches/886603cd/Bournemouth-Liverpool-February-1-2025-Premier-League"
+  }
+}

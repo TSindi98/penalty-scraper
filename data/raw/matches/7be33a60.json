@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Crystal Palace",
+    "home_score": 5,
+    "away_score": 2,
+    "meta_text": "Saturday April 12, 2025 , 12:30 (venue time) Premier League (Matchweek 32) Crystal Palace vs. Manchester City Historical Head-to-Head Attendance : 52,489 Venue : Etihad Stadium, Manchester Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Ian Hussin (AR2) · Chris Kavanagh (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kevin De Bruyne",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Kevin De Bruyne · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mateo Kovačić",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Mateo Kovačić · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Mcatee",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "James Mcatee · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nico O'Reilly",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Nico O'Reilly · 79’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Eberechi Eze",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Eberechi Eze · 8’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Richards",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Chris Richards · 21’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7be33a60",
+  "url": "https://fbref.com/en/matches/7be33a60/Manchester-City-Crystal-Palace-April-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-12",
+    "time": "12:30",
+    "home_team": "Manchester City",
+    "away_team": "Crystal Palace",
+    "score": "5–2",
+    "venue": "Etihad Stadium",
+    "attendance": "52,489",
+    "match_report_url": "https://fbref.com/en/matches/7be33a60/Manchester-City-Crystal-Palace-April-12-2025-Premier-League"
+  }
+}

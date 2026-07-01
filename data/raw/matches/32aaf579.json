@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Thursday December 5, 2024 , 19:30 (venue time) Premier League (Matchweek 14) Brighton & Hove Albion vs. Fulham Historical Head-to-Head Attendance : 26,368 Venue : Craven Cottage, London Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · James Linington (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 4’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Matt O'Riley",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Matt O'Riley (OG) · 79’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Carlos Baleba",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Carlos Baleba · 56’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "32aaf579",
+  "url": "https://fbref.com/en/matches/32aaf579/Fulham-Brighton-and-Hove-Albion-December-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-05",
+    "time": "19:30",
+    "home_team": "Fulham",
+    "away_team": "Brighton",
+    "score": "3–1",
+    "venue": "Craven Cottage",
+    "attendance": "26,368",
+    "match_report_url": "https://fbref.com/en/matches/32aaf579/Fulham-Brighton-and-Hove-Albion-December-5-2024-Premier-League"
+  }
+}

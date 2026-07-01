@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Brentford",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday February 15, 2025 , 15:00 (venue time) Premier League (Matchweek 25) Brentford vs. West Ham United Historical Head-to-Head Attendance : 62,415 Venue : London Stadium, London Officials : Darren England (Referee) · James Mainwaring (AR1) · Akil Howson (AR2) · Steve Martin (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "79406a7e",
+  "url": "https://fbref.com/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Brentford",
+    "score": "0–1",
+    "venue": "London Stadium",
+    "attendance": "62,415",
+    "match_report_url": "https://fbref.com/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League"
+  }
+}

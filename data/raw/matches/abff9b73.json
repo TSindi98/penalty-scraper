@@ -1,0 +1,89 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Chelsea",
+    "home_score": 3,
+    "away_score": 4,
+    "meta_text": "Sunday December 8, 2024 , 16:30 (venue time) Premier League (Matchweek 15) Chelsea vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,184 Venue : Tottenham Hotspur Stadium, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Lewis Smith (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 5’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 90+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jadon Sancho",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Jadon Sancho · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Cole Palmer",
+      "minute": 61,
+      "is_penalty": true,
+      "raw_text": "Cole Palmer (P) · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Enzo Fernández",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Enzo Fernández · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Cole Palmer",
+      "minute": 84,
+      "is_penalty": true,
+      "raw_text": "Cole Palmer (P) · 84’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cff3d9bb",
+      "team_name": "Chelsea",
+      "player": "Cole Palmer",
+      "pens_made": 2,
+      "pens_att": 2
+    }
+  ],
+  "match_id": "abff9b73",
+  "url": "https://fbref.com/en/matches/abff9b73/Tottenham-Hotspur-Chelsea-December-8-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "15",
+    "date": "2024-12-08",
+    "time": "16:30",
+    "home_team": "Tottenham",
+    "away_team": "Chelsea",
+    "score": "3–4",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,184",
+    "match_report_url": "https://fbref.com/en/matches/abff9b73/Tottenham-Hotspur-Chelsea-December-8-2024-Premier-League"
+  }
+}

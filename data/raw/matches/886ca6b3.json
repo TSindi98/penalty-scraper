@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Thursday December 26, 2024 , 15:00 (venue time) Premier League (Matchweek 18) Crystal Palace vs. Bournemouth Historical Head-to-Head Attendance : 11,129 Venue : Vitality Stadium, Bournemouth Officials : Thomas Bramall (Referee) · Adam Nunn (AR1) · Constantine Hatzidakis (AR2) · Andrew Davies (4th) · John Brooks (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "886ca6b3",
+  "url": "https://fbref.com/en/matches/886ca6b3/Bournemouth-Crystal-Palace-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Crystal Palace",
+    "score": "0–0",
+    "venue": "Vitality Stadium",
+    "attendance": "11,129",
+    "match_report_url": "https://fbref.com/en/matches/886ca6b3/Bournemouth-Crystal-Palace-December-26-2024-Premier-League"
+  }
+}

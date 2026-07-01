@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Southampton",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday May 18, 2025 , 12:00 (venue time) Premier League (Matchweek 37) Southampton vs. Everton Historical Head-to-Head Attendance : 39,201 Venue : Goodison Park, Liverpool Officials : Michael Oliver (Referee) · James Mainwaring (AR1) · Steve Meredith (AR2) · Craig Pawson (4th) · Tim Wood (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 6’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 45+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9e338dfb",
+  "url": "https://fbref.com/en/matches/9e338dfb/Everton-Southampton-May-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-18",
+    "time": "12:00",
+    "home_team": "Everton",
+    "away_team": "Southampton",
+    "score": "2–0",
+    "venue": "Goodison Park",
+    "attendance": "39,201",
+    "match_report_url": "https://fbref.com/en/matches/9e338dfb/Everton-Southampton-May-18-2025-Premier-League"
+  }
+}

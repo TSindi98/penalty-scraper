@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday January 25, 2025 , 17:30 (venue time) Premier League (Matchweek 23) Chelsea vs. Manchester City Historical Head-to-Head Attendance : 52,687 Venue : Etihad Stadium, Manchester Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Lewis Smith (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joško Gvardiol",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Joško Gvardiol · 42’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 68’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Phil Foden",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Phil Foden · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 3,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "bfd54040",
+  "url": "https://fbref.com/en/matches/bfd54040/Manchester-City-Chelsea-January-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-25",
+    "time": "17:30",
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "score": "3–1",
+    "venue": "Etihad Stadium",
+    "attendance": "52,687",
+    "match_report_url": "https://fbref.com/en/matches/bfd54040/Manchester-City-Chelsea-January-25-2025-Premier-League"
+  }
+}

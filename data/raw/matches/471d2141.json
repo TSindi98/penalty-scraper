@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Brentford",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday April 12, 2025 , 17:30 (venue time) Premier League (Matchweek 32) Brentford vs. Arsenal Historical Head-to-Head Attendance : 60,184 Venue : Emirates Stadium, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Will Finnie (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Thomas Partey",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Thomas Partey · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 74’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "471d2141",
+  "url": "https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-12",
+    "time": "17:30",
+    "home_team": "Arsenal",
+    "away_team": "Brentford",
+    "score": "1–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,184",
+    "match_report_url": "https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League"
+  }
+}

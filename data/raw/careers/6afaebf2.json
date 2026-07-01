@@ -1,0 +1,87 @@
+{
+  "player_name": "Bryan Mbeumo",
+  "player_id": "6afaebf2",
+  "url": "https://fbref.com/en/players/6afaebf2/Bryan-Mbeumo",
+  "seasons": [
+    {
+      "season": "2017-2018",
+      "team": "Troyes",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018-2019",
+      "team": "Troyes",
+      "comp": "2.Ligue 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Troyes",
+      "comp": "2.Ligue 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Brentford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Brentford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Brentford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2022-2023",
+      "team": "Brentford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2023-2024",
+      "team": "Brentford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2024-2025",
+      "team": "Brentford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 6,
+      "pens_made": 5
+    },
+    {
+      "season": "2025-2026",
+      "team": "Manchester Utd",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

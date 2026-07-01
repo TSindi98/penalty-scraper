@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Ipswich Town",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday April 13, 2025 , 14:00 (venue time) Premier League (Matchweek 32) Ipswich Town vs. Chelsea Historical Head-to-Head Attendance : 39,805 Venue : Stamford Bridge, London Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Simon Hooper (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Axel Tuanzebe",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Axel Tuanzebe (OG) · 46’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jadon Sancho",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Jadon Sancho · 79’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Julio Enciso",
+      "minute": 19,
+      "is_penalty": false,
+      "raw_text": "Julio Enciso · 19’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ben Johnson",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Ben Johnson · 31’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a45626b5",
+  "url": "https://fbref.com/en/matches/a45626b5/Chelsea-Ipswich-Town-April-13-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-13",
+    "time": "14:00",
+    "home_team": "Chelsea",
+    "away_team": "Ipswich Town",
+    "score": "2–2",
+    "venue": "Stamford Bridge",
+    "attendance": "39,805",
+    "match_report_url": "https://fbref.com/en/matches/a45626b5/Chelsea-Ipswich-Town-April-13-2025-Premier-League"
+  }
+}

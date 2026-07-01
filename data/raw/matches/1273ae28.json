@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday November 3, 2024 , 16:30 (venue time) Premier League (Matchweek 10) Chelsea vs. Manchester United Historical Head-to-Head Attendance : 73,813 Venue : Old Trafford, Manchester Officials : Robert Jones (Referee) · Lee Betts (AR1) · Neil Davies (AR2) · Thomas Bramall (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Bruno Fernandes",
+      "minute": 70,
+      "is_penalty": true,
+      "raw_text": "Bruno Fernandes (P) · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Moisés Caicedo",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Moisés Caicedo · 74’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "19538871",
+      "team_name": "Manchester Utd",
+      "player": "Bruno Fernandes",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "1273ae28",
+  "url": "https://fbref.com/en/matches/1273ae28/Manchester-United-Chelsea-November-3-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-03",
+    "time": "16:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Chelsea",
+    "score": "1–1",
+    "venue": "Old Trafford",
+    "attendance": "73,813",
+    "match_report_url": "https://fbref.com/en/matches/1273ae28/Manchester-United-Chelsea-November-3-2024-Premier-League"
+  }
+}

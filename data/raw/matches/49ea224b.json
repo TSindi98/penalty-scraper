@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday October 5, 2024 , 12:30 (venue time) Premier League (Matchweek 7) Liverpool vs. Crystal Palace Historical Head-to-Head Attendance : 25,185 Venue : Selhurst Park, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Leigh Doughty (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Diogo Jota",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Diogo Jota · 9’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "49ea224b",
+  "url": "https://fbref.com/en/matches/49ea224b/Crystal-Palace-Liverpool-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "12:30",
+    "home_team": "Crystal Palace",
+    "away_team": "Liverpool",
+    "score": "0–1",
+    "venue": "Selhurst Park",
+    "attendance": "25,185",
+    "match_report_url": "https://fbref.com/en/matches/49ea224b/Crystal-Palace-Liverpool-October-5-2024-Premier-League"
+  }
+}

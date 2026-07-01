@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday August 31, 2024 , 12:30 (venue time) Premier League (Matchweek 3) Brighton & Hove Albion vs. Arsenal Historical Head-to-Head Attendance : 60,326 Venue : Emirates Stadium, London Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · John Busby (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Declan Rice",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Declan Rice · 49’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "João Pedro",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "João Pedro · 58’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a843d023",
+  "url": "https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-08-31",
+    "time": "12:30",
+    "home_team": "Arsenal",
+    "away_team": "Brighton",
+    "score": "1–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,326",
+    "match_report_url": "https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League"
+  }
+}

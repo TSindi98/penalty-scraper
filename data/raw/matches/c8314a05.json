@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Crystal Palace",
+    "home_score": 1,
+    "away_score": 3,
+    "meta_text": "Sunday December 15, 2024 , 14:00 (venue time) Premier League (Matchweek 16) Crystal Palace vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 30,893 Venue : The American Express Stadium, Brighton & Hove Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Simon Hooper (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Marc Guéhi",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi (OG) · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Trevoh Chalobah",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Trevoh Chalobah · 27’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 33’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 82’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c8314a05",
+  "url": "https://fbref.com/en/matches/c8314a05/Brighton-and-Hove-Albion-Crystal-Palace-December-15-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-15",
+    "time": "14:00",
+    "home_team": "Brighton",
+    "away_team": "Crystal Palace",
+    "score": "1–3",
+    "venue": "The American Express Stadium",
+    "attendance": "30,893",
+    "match_report_url": "https://fbref.com/en/matches/c8314a05/Brighton-and-Hove-Albion-Crystal-Palace-December-15-2024-Premier-League"
+  }
+}

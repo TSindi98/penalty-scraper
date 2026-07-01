@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Tuesday February 25, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Aston Villa vs. Crystal Palace Historical Head-to-Head Attendance : 24,712 Venue : Selhurst Park, London Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Tim Robinson (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 29’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 59’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 71,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 71’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Eddie Nketiah",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Eddie Nketiah · 90+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 52’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0a97629a",
+  "url": "https://fbref.com/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-25",
+    "time": "19:30",
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa",
+    "score": "4–1",
+    "venue": "Selhurst Park",
+    "attendance": "24,712",
+    "match_report_url": "https://fbref.com/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League"
+  }
+}

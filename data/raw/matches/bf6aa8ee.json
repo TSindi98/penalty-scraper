@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Ipswich Town",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Wednesday February 26, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Ipswich Town vs. Manchester United Historical Head-to-Head Attendance : 73,827 Venue : Old Trafford, Manchester Officials : Darren England (Referee) · Neil Davies (AR1) · Akil Howson (AR2) · Samuel Barrott (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Sam Morsy",
+      "minute": 22,
+      "is_penalty": false,
+      "raw_text": "Sam Morsy (OG) · 22’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matthijs de Ligt",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Matthijs de Ligt · 26’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Patrick Dorgu",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Patrick Dorgu · 43’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harry Maguire",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Harry Maguire · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jaden Philogene Bidace",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Jaden Philogene Bidace · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jaden Philogene Bidace",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Jaden Philogene Bidace · 45+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "bf6aa8ee",
+  "url": "https://fbref.com/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-26",
+    "time": "19:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Ipswich Town",
+    "score": "3–2",
+    "venue": "Old Trafford",
+    "attendance": "73,827",
+    "match_report_url": "https://fbref.com/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Nottingham Forest",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday December 21, 2024 , 15:00 (venue time) Premier League (Matchweek 17) Nottingham Forest vs. Brentford Historical Head-to-Head Attendance : 17,115 Venue : Gtech Community Stadium, Brentford Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Andrew Davies (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ola Aina",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Ola Aina · 38’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Anthony Elanga",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Anthony Elanga · 51’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1c60d037",
+  "url": "https://fbref.com/en/matches/1c60d037/Brentford-Nottingham-Forest-December-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-21",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Nottingham",
+    "score": "0–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,115",
+    "match_report_url": "https://fbref.com/en/matches/1c60d037/Brentford-Nottingham-Forest-December-21-2024-Premier-League"
+  }
+}

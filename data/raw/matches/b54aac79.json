@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Everton",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday January 25, 2025 , 15:00 (venue time) Premier League (Matchweek 23) Everton vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,087 Venue : The American Express Stadium, Brighton & Hove Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Tom Nield (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Iliman Ndiaye",
+      "minute": 42,
+      "is_penalty": true,
+      "raw_text": "Iliman Ndiaye (P) · 42’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d3fd31cc",
+      "team_name": "Everton",
+      "player": "Iliman Ndiaye",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "b54aac79",
+  "url": "https://fbref.com/en/matches/b54aac79/Brighton-and-Hove-Albion-Everton-January-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-25",
+    "time": "15:00",
+    "home_team": "Brighton",
+    "away_team": "Everton",
+    "score": "0–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,087",
+    "match_report_url": "https://fbref.com/en/matches/b54aac79/Brighton-and-Hove-Albion-Everton-January-25-2025-Premier-League"
+  }
+}

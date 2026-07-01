@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday February 23, 2025 , 16:30 (venue time) Premier League (Matchweek 26) Liverpool vs. Manchester City Historical Head-to-Head Attendance : 52,803 Venue : Etihad Stadium, Manchester Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Lee Betts (AR2) · Andy Madley (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 37’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e51a316b",
+  "url": "https://fbref.com/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-23",
+    "time": "16:30",
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "score": "0–2",
+    "venue": "Etihad Stadium",
+    "attendance": "52,803",
+    "match_report_url": "https://fbref.com/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League"
+  }
+}

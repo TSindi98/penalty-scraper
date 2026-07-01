@@ -1,0 +1,33 @@
+{
+  "player_name": "Iliman Ndiaye",
+  "player_id": "5ed97752",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/5ed97752/matchlogs/2024-2025/summary/Iliman-Ndiaye-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2025-01-09",
+      "comp": "FA Cup",
+      "opponent": "Peterborough",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-25",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-05",
+      "comp": "Premier League",
+      "opponent": "Arsenal",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 45
+}

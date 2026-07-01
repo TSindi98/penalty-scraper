@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Crystal Palace",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Monday October 21, 2024 , 20:00 (venue time) Premier League (Matchweek 8) Crystal Palace vs. Nottingham Forest Historical Head-to-Head Attendance : 29,443 Venue : The City Ground, Nottingham Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Craig Taylor (AR2) · Michael Salisbury (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 65’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5ed3894e",
+  "url": "https://fbref.com/en/matches/5ed3894e/Nottingham-Forest-Crystal-Palace-October-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-21",
+    "time": "20:00",
+    "home_team": "Nottingham",
+    "away_team": "Crystal Palace",
+    "score": "1–0",
+    "venue": "The City Ground",
+    "attendance": "29,443",
+    "match_report_url": "https://fbref.com/en/matches/5ed3894e/Nottingham-Forest-Crystal-Palace-October-21-2024-Premier-League"
+  }
+}

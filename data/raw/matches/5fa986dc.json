@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Nottingham Forest",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday December 29, 2024 , 15:00 (venue time) Premier League (Matchweek 19) Nottingham Forest vs. Everton Historical Head-to-Head Attendance : 25,414 Venue : Goodison Park, Liverpool Officials : Tony Harrington (Referee) · Matthew Wilkes (AR1) · Eddie Smart (AR2) · Geoff Eltringham (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 61’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5fa986dc",
+  "url": "https://fbref.com/en/matches/5fa986dc/Everton-Nottingham-Forest-December-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-29",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Nottingham",
+    "score": "0–2",
+    "venue": "Goodison Park",
+    "attendance": "25,414",
+    "match_report_url": "https://fbref.com/en/matches/5fa986dc/Everton-Nottingham-Forest-December-29-2024-Premier-League"
+  }
+}

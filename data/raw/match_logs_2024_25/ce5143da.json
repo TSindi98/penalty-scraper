@@ -1,0 +1,17 @@
+{
+  "player_name": "Danny Welbeck",
+  "player_id": "ce5143da",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/ce5143da/matchlogs/2024-2025/summary/Danny-Welbeck-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2025-05-10",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 36
+}

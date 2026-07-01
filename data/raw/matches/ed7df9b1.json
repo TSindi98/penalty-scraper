@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "West Ham United",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Monday February 3, 2025 , 20:00 (venue time) Premier League (Matchweek 24) West Ham United vs. Chelsea Historical Head-to-Head Attendance : 39,459 Venue : Stamford Bridge, London Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Gavin Ward (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Pedro Neto",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Pedro Neto · 64’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Aaron Wan-Bissaka",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Aaron Wan-Bissaka (OG) · 74’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 42’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ed7df9b1",
+  "url": "https://fbref.com/en/matches/ed7df9b1/Chelsea-West-Ham-United-February-3-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-03",
+    "time": "20:00",
+    "home_team": "Chelsea",
+    "away_team": "West Ham",
+    "score": "2–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,459",
+    "match_report_url": "https://fbref.com/en/matches/ed7df9b1/Chelsea-West-Ham-United-February-3-2025-Premier-League"
+  }
+}

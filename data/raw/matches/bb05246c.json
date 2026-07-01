@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday January 26, 2025 , 16:30 (venue time) Premier League (Matchweek 23) West Ham United vs. Aston Villa Historical Head-to-Head Attendance : 41,628 Venue : Villa Park, Birmingham Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Ruebyn Ricardo (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Ramsey",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Jacob Ramsey · 8’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Emerson Palmieri",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Emerson Palmieri · 70’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "bb05246c",
+  "url": "https://fbref.com/en/matches/bb05246c/Aston-Villa-West-Ham-United-January-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-26",
+    "time": "16:30",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1–1",
+    "venue": "Villa Park",
+    "attendance": "41,628",
+    "match_report_url": "https://fbref.com/en/matches/bb05246c/Aston-Villa-West-Ham-United-January-26-2025-Premier-League"
+  }
+}

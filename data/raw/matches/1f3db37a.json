@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Liverpool",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Monday May 19, 2025 , 20:00 (venue time) Premier League (Matchweek 37) Liverpool vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,611 Venue : The American Express Stadium, Brighton & Hove Officials : Andy Madley (Referee) · Simon Bennett (AR1) · Dan Cook (AR2) · Darren Bond (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yasin Ayari",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Yasin Ayari · 32’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 69’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jack Hinshelwood",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Jack Hinshelwood · 85’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Elliott",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Harvey Elliott · 9’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 45+1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1f3db37a",
+  "url": "https://fbref.com/en/matches/1f3db37a/Brighton-and-Hove-Albion-Liverpool-May-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-19",
+    "time": "20:00",
+    "home_team": "Brighton",
+    "away_team": "Liverpool",
+    "score": "3–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,611",
+    "match_report_url": "https://fbref.com/en/matches/1f3db37a/Brighton-and-Hove-Albion-Liverpool-May-19-2025-Premier-League"
+  }
+}

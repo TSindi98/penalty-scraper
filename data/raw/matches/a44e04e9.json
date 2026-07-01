@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Nottingham Forest",
+    "home_score": 2,
+    "away_score": 4,
+    "meta_text": "Saturday March 15, 2025 , 15:00 (venue time) Premier League (Matchweek 29) Nottingham Forest vs. Ipswich Town Historical Head-to-Head Attendance : 29,878 Venue : Portman Road Stadium, Ipswich Officials : Michael Salisbury (Referee) · Simon Bennett (AR1) · Akil Howson (AR2) · Stephen Martin (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jens Cajuste",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Jens Cajuste · 82’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "George Hirst",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "George Hirst · 90+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nikola Milenković",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Nikola Milenković · 35’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Anthony Elanga",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Anthony Elanga · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Anthony Elanga",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Anthony Elanga · 41’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jota Silva",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Jota Silva · 87’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a44e04e9",
+  "url": "https://fbref.com/en/matches/a44e04e9/Ipswich-Town-Nottingham-Forest-March-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-15",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Nottingham",
+    "score": "2–4",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,878",
+    "match_report_url": "https://fbref.com/en/matches/a44e04e9/Ipswich-Town-Nottingham-Forest-March-15-2025-Premier-League"
+  }
+}

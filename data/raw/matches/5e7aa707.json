@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 5,
+    "meta_text": "Saturday December 21, 2024 , 17:30 (venue time) Premier League (Matchweek 17) Arsenal vs. Crystal Palace Historical Head-to-Head Attendance : 25,167 Venue : Selhurst Park, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Oliver Langford (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 11’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Jesus",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Gabriel Jesus · 6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Jesus",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Gabriel Jesus · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 38’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Declan Rice",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Declan Rice · 84’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5e7aa707",
+  "url": "https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-21",
+    "time": "17:30",
+    "home_team": "Crystal Palace",
+    "away_team": "Arsenal",
+    "score": "1–5",
+    "venue": "Selhurst Park",
+    "attendance": "25,167",
+    "match_report_url": "https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League"
+  }
+}

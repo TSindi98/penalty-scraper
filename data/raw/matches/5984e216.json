@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Chelsea",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Sunday April 6, 2025 , 14:00 (venue time) Premier League (Matchweek 31) Chelsea vs. Brentford Historical Head-to-Head Attendance : 17,183 Venue : Gtech Community Stadium, Brentford Officials : Michael Oliver (Referee) · Lee Betts (AR1) · Dan Cook (AR2) · Lewis Smith (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "5984e216",
+  "url": "https://fbref.com/en/matches/5984e216/Brentford-Chelsea-April-6-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-06",
+    "time": "14:00",
+    "home_team": "Brentford",
+    "away_team": "Chelsea",
+    "score": "0–0",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,183",
+    "match_report_url": "https://fbref.com/en/matches/5984e216/Brentford-Chelsea-April-6-2025-Premier-League"
+  }
+}

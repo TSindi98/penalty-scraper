@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Manchester City",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Tuesday January 14, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Manchester City vs. Brentford Historical Head-to-Head Attendance : 17,048 Venue : Gtech Community Stadium, Brentford Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Will Finnie (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 82’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Christian Nørgaard",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Christian Nørgaard · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Phil Foden",
+      "minute": 66,
+      "is_penalty": false,
+      "raw_text": "Phil Foden · 66’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Phil Foden",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Phil Foden · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "68c2e6b8",
+  "url": "https://fbref.com/en/matches/68c2e6b8/Brentford-Manchester-City-January-14-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-14",
+    "time": "19:30",
+    "home_team": "Brentford",
+    "away_team": "Manchester City",
+    "score": "2–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,048",
+    "match_report_url": "https://fbref.com/en/matches/68c2e6b8/Brentford-Manchester-City-January-14-2025-Premier-League"
+  }
+}

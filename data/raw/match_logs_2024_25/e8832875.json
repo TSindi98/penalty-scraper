@@ -1,0 +1,41 @@
+{
+  "player_name": "João Pedro",
+  "player_id": "e8832875",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/e8832875/matchlogs/2024-2025/summary/Joao-Pedro-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2025-01-04",
+      "comp": "Premier League",
+      "opponent": "Arsenal",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-25",
+      "comp": "Premier League",
+      "opponent": "Bournemouth",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-08",
+      "comp": "Premier League",
+      "opponent": "Fulham",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-12",
+      "comp": "Premier League",
+      "opponent": "Leicester City",
+      "venue": "Home",
+      "pens_att": 2,
+      "pens_made": 2
+    }
+  ],
+  "total_matches_logged": 34
+}

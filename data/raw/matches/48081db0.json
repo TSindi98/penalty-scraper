@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday October 19, 2024 , 15:00 (venue time) Premier League (Matchweek 8) Brighton & Hove Albion vs. Newcastle United Historical Head-to-Head Attendance : 52,220 Venue : St James' Park, Newcastle upon Tyne Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · James Bell (4th) · Tony Harrington (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 35’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "48081db0",
+  "url": "https://fbref.com/en/matches/48081db0/Newcastle-United-Brighton-and-Hove-Albion-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Brighton",
+    "score": "0–1",
+    "venue": "St James' Park",
+    "attendance": "52,220",
+    "match_report_url": "https://fbref.com/en/matches/48081db0/Newcastle-United-Brighton-and-Hove-Albion-October-19-2024-Premier-League"
+  }
+}

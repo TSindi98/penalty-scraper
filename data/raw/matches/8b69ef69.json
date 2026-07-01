@@ -1,0 +1,72 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Ipswich Town",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday January 5, 2025 , 14:00 (venue time) Premier League (Matchweek 20) Ipswich Town vs. Fulham Historical Head-to-Head Attendance : 27,042 Venue : Craven Cottage, London Officials : Darren Bond (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Andy Madley (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Raúl Jiménez",
+      "minute": 69,
+      "is_penalty": true,
+      "raw_text": "Raúl Jiménez (P) · 69’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Raúl Jiménez",
+      "minute": 91,
+      "is_penalty": true,
+      "raw_text": "Raúl Jiménez (P) · 90+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Sammie Szmodics",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Sammie Szmodics · 38’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Liam Delap",
+      "minute": 71,
+      "is_penalty": true,
+      "raw_text": "Liam Delap (P) · 71’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "fd962109",
+      "team_name": "Fulham",
+      "player": "Raúl Jiménez",
+      "pens_made": 2,
+      "pens_att": 2
+    },
+    {
+      "team_id": "b74092de",
+      "team_name": "Ipswich Town",
+      "player": "Liam Delap",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "8b69ef69",
+  "url": "https://fbref.com/en/matches/8b69ef69/Fulham-Ipswich-Town-January-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-05",
+    "time": "14:00",
+    "home_team": "Fulham",
+    "away_team": "Ipswich Town",
+    "score": "2–2",
+    "venue": "Craven Cottage",
+    "attendance": "27,042",
+    "match_report_url": "https://fbref.com/en/matches/8b69ef69/Fulham-Ipswich-Town-January-5-2025-Premier-League"
+  }
+}

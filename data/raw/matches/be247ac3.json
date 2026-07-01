@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday January 4, 2025 , 12:30 (venue time) Premier League (Matchweek 20) Newcastle United vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,293 Venue : Tottenham Hotspur Stadium, London Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Lewis Smith (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Anthony Gordon",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Anthony Gordon · 6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 38’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "be247ac3",
+  "url": "https://fbref.com/en/matches/be247ac3/Tottenham-Hotspur-Newcastle-United-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "12:30",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,293",
+    "match_report_url": "https://fbref.com/en/matches/be247ac3/Tottenham-Hotspur-Newcastle-United-January-4-2025-Premier-League"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday September 14, 2024 , 15:00 (venue time) Premier League (Matchweek 4) Leicester City vs. Crystal Palace Historical Head-to-Head Attendance : 25,147 Venue : Selhurst Park, London Officials : Tony Harrington (Referee) · Marc Perry (AR1) · Derek Eaton (AR2) · Simon Hooper (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 92,
+      "is_penalty": true,
+      "raw_text": "Jean-Philippe Mateta (P) · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Stephy Mavididi",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Stephy Mavididi · 46’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "47c64c55",
+      "team_name": "Crystal Palace",
+      "player": "Jean-Philippe Mateta",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "430cce12",
+  "url": "https://fbref.com/en/matches/430cce12/Crystal-Palace-Leicester-City-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Leicester City",
+    "score": "2–2",
+    "venue": "Selhurst Park",
+    "attendance": "25,147",
+    "match_report_url": "https://fbref.com/en/matches/430cce12/Crystal-Palace-Leicester-City-September-14-2024-Premier-League"
+  }
+}

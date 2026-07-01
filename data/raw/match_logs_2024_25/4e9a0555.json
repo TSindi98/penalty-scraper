@@ -1,0 +1,33 @@
+{
+  "player_name": "Chris Wood",
+  "player_id": "4e9a0555",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/4e9a0555/matchlogs/2024-2025/summary/Chris-Wood-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-09-22",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-30",
+      "comp": "Premier League",
+      "opponent": "Ipswich Town",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-01",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 49
+}

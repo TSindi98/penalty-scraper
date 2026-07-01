@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Arsenal",
+    "home_score": 0,
+    "away_score": 4,
+    "meta_text": "Sunday April 20, 2025 , 14:00 (venue time) Premier League (Matchweek 33) Arsenal vs. Ipswich Town Historical Head-to-Head Attendance : 29,549 Venue : Portman Road Stadium, Ipswich Officials : Chris Kavanagh (Referee) · Dan Cook (AR1) · Richard West (AR2) · Tom Nield (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Leif Davis",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Leif Davis · 32’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ethan Nwaneri",
+      "minute": 88,
+      "is_penalty": false,
+      "raw_text": "Ethan Nwaneri · 88’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2b599f1a",
+  "url": "https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-20",
+    "time": "14:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Arsenal",
+    "score": "0–4",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,549",
+    "match_report_url": "https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League"
+  }
+}

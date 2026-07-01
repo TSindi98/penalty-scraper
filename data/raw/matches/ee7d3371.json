@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Fulham",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday September 28, 2024 , 15:00 (venue time) Premier League (Matchweek 6) Fulham vs. Nottingham Forest Historical Head-to-Head Attendance : 30,139 Venue : The City Ground, Nottingham Officials : Joshua Smith (Referee) · Neil Davies (AR1) · James Mainwaring (AR2) · Tim Robinson (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Raúl Jiménez",
+      "minute": 51,
+      "is_penalty": true,
+      "raw_text": "Raúl Jiménez (P) · 51’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "fd962109",
+      "team_name": "Fulham",
+      "player": "Raúl Jiménez",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "ee7d3371",
+  "url": "https://fbref.com/en/matches/ee7d3371/Nottingham-Forest-Fulham-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Fulham",
+    "score": "0–1",
+    "venue": "The City Ground",
+    "attendance": "30,139",
+    "match_report_url": "https://fbref.com/en/matches/ee7d3371/Nottingham-Forest-Fulham-September-28-2024-Premier-League"
+  }
+}

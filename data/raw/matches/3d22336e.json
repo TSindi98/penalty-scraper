@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Manchester City",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Manchester City vs. Fulham Historical Head-to-Head Attendance : 27,671 Venue : Craven Cottage, London Officials : Andy Madley (Referee) · Stuart Burt (AR1) · Craig Taylor (AR2) · Jeremy Simpson (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "İlkay Gündoğan",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "İlkay Gündoğan · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Erling Haaland",
+      "minute": 72,
+      "is_penalty": true,
+      "raw_text": "Erling Haaland (P) · 72’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b8fd03ef",
+      "team_name": "Manchester City",
+      "player": "Erling Haaland",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "3d22336e",
+  "url": "https://fbref.com/en/matches/3d22336e/Fulham-Manchester-City-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Fulham",
+    "away_team": "Manchester City",
+    "score": "0–2",
+    "venue": "Craven Cottage",
+    "attendance": "27,671",
+    "match_report_url": "https://fbref.com/en/matches/3d22336e/Fulham-Manchester-City-May-25-2025-Premier-League"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday December 8, 2024 , 14:00 (venue time) Premier League (Matchweek 15) Bournemouth vs. Ipswich Town Historical Head-to-Head Attendance : 29,180 Venue : Portman Road Stadium, Ipswich Officials : Michael Salisbury (Referee) · Wade Smith  (AR1) · Scott Ledger (AR2) · Thomas Bramall (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Conor Chaplin",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Conor Chaplin · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Enes Ünal",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Enes Ünal · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "392c7b1f",
+  "url": "https://fbref.com/en/matches/392c7b1f/Ipswich-Town-Bournemouth-December-8-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "15",
+    "date": "2024-12-08",
+    "time": "14:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Bournemouth",
+    "score": "1–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,180",
+    "match_report_url": "https://fbref.com/en/matches/392c7b1f/Ipswich-Town-Bournemouth-December-8-2024-Premier-League"
+  }
+}

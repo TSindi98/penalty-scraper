@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Sunday January 19, 2025 , 14:00 (venue time) Premier League (Matchweek 22) Tottenham Hotspur vs. Everton Historical Head-to-Head Attendance : 39,326 Venue : Goodison Park, Liverpool Officials : Darren England (Referee) · Marc Perry (AR1) · Akil Howson (AR2) · Tony Harrington (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Calvert-Lewin",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Dominic Calvert-Lewin · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 30,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 30’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Archie Gray",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Archie Gray (OG) · 45+7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 77’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Richarlison",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Richarlison · 90+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e9f61cb0",
+  "url": "https://fbref.com/en/matches/e9f61cb0/Everton-Tottenham-Hotspur-January-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-19",
+    "time": "14:00",
+    "home_team": "Everton",
+    "away_team": "Tottenham",
+    "score": "3–2",
+    "venue": "Goodison Park",
+    "attendance": "39,326",
+    "match_report_url": "https://fbref.com/en/matches/e9f61cb0/Everton-Tottenham-Hotspur-January-19-2025-Premier-League"
+  }
+}

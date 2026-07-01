@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Leicester City",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Saturday April 26, 2025 , 15:00 (venue time) Premier League (Matchweek 34) Leicester City vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,518 Venue : Molineux Stadium, Wolverhampton Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Darren Bond (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rodrigo Gomes",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Gomes · 85’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "a2d435b3",
+      "team_name": "Leicester City",
+      "player": "Jamie Vardy",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "1ced4069",
+  "url": "https://fbref.com/en/matches/1ced4069/Wolverhampton-Wanderers-Leicester-City-April-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-26",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Leicester City",
+    "score": "3–0",
+    "venue": "Molineux Stadium",
+    "attendance": "31,518",
+    "match_report_url": "https://fbref.com/en/matches/1ced4069/Wolverhampton-Wanderers-Leicester-City-April-26-2025-Premier-League"
+  }
+}

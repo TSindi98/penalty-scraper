@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Liverpool",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Sunday April 6, 2025 , 14:00 (venue time) Premier League (Matchweek 31) Liverpool vs. Fulham Historical Head-to-Head Attendance : 27,770 Venue : Craven Cottage, London Officials : Chris Kavanagh (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Thomas Bramall (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ryan Sessegnon",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Ryan Sessegnon · 23’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 32’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexis Mac Allister",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Alexis Mac Allister · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 72’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b34400d3",
+  "url": "https://fbref.com/en/matches/b34400d3/Fulham-Liverpool-April-6-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-06",
+    "time": "14:00",
+    "home_team": "Fulham",
+    "away_team": "Liverpool",
+    "score": "3–2",
+    "venue": "Craven Cottage",
+    "attendance": "27,770",
+    "match_report_url": "https://fbref.com/en/matches/b34400d3/Fulham-Liverpool-April-6-2025-Premier-League"
+  }
+}

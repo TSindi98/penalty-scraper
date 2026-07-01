@@ -1,0 +1,111 @@
+{
+  "player_name": "Jarrod Bowen",
+  "player_id": "79c84d1c",
+  "url": "https://fbref.com/en/players/79c84d1c/Jarrod-Bowen",
+  "seasons": [
+    {
+      "season": "2013-2014",
+      "team": "Hereford United",
+      "comp": "5.Conf Premier",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "",
+      "team": "",
+      "comp": "",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2016-2017",
+      "team": "Hull City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Hull City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018-2019",
+      "team": "Hull City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 5,
+      "pens_made": 4
+    },
+    {
+      "season": "2019-2020",
+      "team": "Hull City",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 1
+    },
+    {
+      "season": "2023-2024",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2025-2026",
+      "team": "West Ham",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Manchester United",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Sunday April 13, 2025 , 16:30 (venue time) Premier League (Matchweek 32) Manchester United vs. Newcastle United Historical Head-to-Head Attendance : 52,252 Venue : St James' Park, Newcastle upon Tyne Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Dan Cook (AR2) · Samuel Barrott (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Sandro Tonali",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Sandro Tonali · 24’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 49’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 64’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Guimarães",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Bruno Guimarães · 77’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 37’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4254acea",
+  "url": "https://fbref.com/en/matches/4254acea/Newcastle-United-Manchester-United-April-13-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-13",
+    "time": "16:30",
+    "home_team": "Newcastle",
+    "away_team": "Manchester Utd",
+    "score": "4–1",
+    "venue": "St James' Park",
+    "attendance": "52,252",
+    "match_report_url": "https://fbref.com/en/matches/4254acea/Newcastle-United-Manchester-United-April-13-2025-Premier-League"
+  }
+}

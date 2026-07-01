@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Chelsea",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday May 11, 2025 , 12:00 (venue time) Premier League (Matchweek 36) Chelsea vs. Newcastle United Historical Head-to-Head Attendance : 52,231 Venue : St James' Park, Newcastle upon Tyne Officials : John Brooks (Referee) · Simon Bennett (AR1) · Dan Cook (AR2) · Robert Jones (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Sandro Tonali",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Sandro Tonali · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Guimarães",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Bruno Guimarães · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Nicolas Jackson",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 36’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b409de42",
+  "url": "https://fbref.com/en/matches/b409de42/Newcastle-United-Chelsea-May-11-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-11",
+    "time": "12:00",
+    "home_team": "Newcastle",
+    "away_team": "Chelsea",
+    "score": "2–0",
+    "venue": "St James' Park",
+    "attendance": "52,231",
+    "match_report_url": "https://fbref.com/en/matches/b409de42/Newcastle-United-Chelsea-May-11-2025-Premier-League"
+  }
+}

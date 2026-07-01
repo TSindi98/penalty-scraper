@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Manchester City",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday April 19, 2025 , 15:00 (venue time) Premier League (Matchweek 33) Manchester City vs. Everton Historical Head-to-Head Attendance : 39,332 Venue : Goodison Park, Liverpool Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Robert Madley (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nico O'Reilly",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Nico O'Reilly · 84’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mateo Kovačić",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Mateo Kovačić · 90+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a95e25da",
+  "url": "https://fbref.com/en/matches/a95e25da/Everton-Manchester-City-April-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-19",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Manchester City",
+    "score": "0–2",
+    "venue": "Goodison Park",
+    "attendance": "39,332",
+    "match_report_url": "https://fbref.com/en/matches/a95e25da/Everton-Manchester-City-April-19-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday September 28, 2024 , 15:00 (venue time) Premier League (Matchweek 6) West Ham United vs. Brentford Historical Head-to-Head Attendance : 17,050 Venue : Gtech Community Stadium, Brentford Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Tom Nield (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 54’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9c4f2bcd",
+  "url": "https://fbref.com/en/matches/9c4f2bcd/Brentford-West-Ham-United-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "West Ham",
+    "score": "1–1",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,050",
+    "match_report_url": "https://fbref.com/en/matches/9c4f2bcd/Brentford-West-Ham-United-September-28-2024-Premier-League"
+  }
+}

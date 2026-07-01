@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Leicester City",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday November 2, 2024 , 15:00 (venue time) Premier League (Matchweek 10) Leicester City vs. Ipswich Town Historical Head-to-Head Attendance : 29,874 Venue : Portman Road Stadium, Ipswich Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · John Busby (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Leif Davis",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Leif Davis · 55’"
+    },
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Kalvin Phillips",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Kalvin Phillips · 77’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jordan Ayew",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Jordan Ayew · 90+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ed8f93a0",
+  "url": "https://fbref.com/en/matches/ed8f93a0/Ipswich-Town-Leicester-City-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Leicester City",
+    "score": "1–1",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,874",
+    "match_report_url": "https://fbref.com/en/matches/ed8f93a0/Ipswich-Town-Leicester-City-November-2-2024-Premier-League"
+  }
+}

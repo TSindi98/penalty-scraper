@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Nottingham Forest",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday October 6, 2024 , 14:00 (venue time) Premier League (Matchweek 7) Nottingham Forest vs. Chelsea Historical Head-to-Head Attendance : 39,501 Venue : Stamford Bridge, London Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · James Mainwaring (AR2) · Tony Harrington (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 57,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 57’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 49’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "James Ward-Prowse",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "James Ward-Prowse · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b9e00aac",
+  "url": "https://fbref.com/en/matches/b9e00aac/Chelsea-Nottingham-Forest-October-6-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-06",
+    "time": "14:00",
+    "home_team": "Chelsea",
+    "away_team": "Nottingham",
+    "score": "1–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,501",
+    "match_report_url": "https://fbref.com/en/matches/b9e00aac/Chelsea-Nottingham-Forest-October-6-2024-Premier-League"
+  }
+}

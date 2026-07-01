@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday February 22, 2025 , 15:00 (venue time) Premier League (Matchweek 26) Crystal Palace vs. Fulham Historical Head-to-Head Attendance : 26,777 Venue : Craven Cottage, London Officials : Robert Jones (Referee) · Eddie Smart (AR1) · Samuel Lewis (AR2) · Will Finnie (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Joachim Andersen",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Joachim Andersen (OG) · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Daniel Muñoz",
+      "minute": 66,
+      "is_penalty": false,
+      "raw_text": "Daniel Muñoz · 66’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7289bcdf",
+  "url": "https://fbref.com/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-22",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Crystal Palace",
+    "score": "0–2",
+    "venue": "Craven Cottage",
+    "attendance": "26,777",
+    "match_report_url": "https://fbref.com/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League"
+  }
+}

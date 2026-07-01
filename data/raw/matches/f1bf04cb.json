@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday May 10, 2025 , 15:00 (venue time) Premier League (Matchweek 36) Brighton & Hove Albion vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,279 Venue : Molineux Stadium, Wolverhampton Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Thomas Bramall (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Danny Welbeck",
+      "minute": 28,
+      "is_penalty": true,
+      "raw_text": "Danny Welbeck (P) · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brajan Gruda",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Brajan Gruda · 85’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "Danny Welbeck",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "f1bf04cb",
+  "url": "https://fbref.com/en/matches/f1bf04cb/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-May-10-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-10",
+    "time": "15:00",
+    "home_team": "Wolves",
+    "away_team": "Brighton",
+    "score": "0–2",
+    "venue": "Molineux Stadium",
+    "attendance": "31,279",
+    "match_report_url": "https://fbref.com/en/matches/f1bf04cb/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-May-10-2025-Premier-League"
+  }
+}

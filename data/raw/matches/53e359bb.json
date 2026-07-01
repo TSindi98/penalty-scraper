@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Manchester City",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Sunday April 6, 2025 , 16:30 (venue time) Premier League (Matchweek 31) Manchester Derby History Attendance : 73,738 Venue : Old Trafford, Manchester Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Tony Harrington (4th) · Paul Tierney (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "53e359bb",
+  "url": "https://fbref.com/en/matches/53e359bb/Manchester-Derby-Manchester-United-Manchester-City-April-6-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-06",
+    "time": "16:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Manchester City",
+    "score": "0–0",
+    "venue": "Old Trafford",
+    "attendance": "73,738",
+    "match_report_url": "https://fbref.com/en/matches/53e359bb/Manchester-Derby-Manchester-United-Manchester-City-April-6-2025-Premier-League"
+  }
+}

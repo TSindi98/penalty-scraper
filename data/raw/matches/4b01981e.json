@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday September 15, 2024 , 16:30 (venue time) Premier League (Matchweek 4) Newcastle United vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 30,255 Venue : Molineux Stadium, Wolverhampton Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · Simon Hooper (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mario Lemina",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Mario Lemina · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Fabian Schär",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Fabian Schär · 75’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 80’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4b01981e",
+  "url": "https://fbref.com/en/matches/4b01981e/Wolverhampton-Wanderers-Newcastle-United-September-15-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-15",
+    "time": "16:30",
+    "home_team": "Wolves",
+    "away_team": "Newcastle",
+    "score": "1–2",
+    "venue": "Molineux Stadium",
+    "attendance": "30,255",
+    "match_report_url": "https://fbref.com/en/matches/4b01981e/Wolverhampton-Wanderers-Newcastle-United-September-15-2024-Premier-League"
+  }
+}

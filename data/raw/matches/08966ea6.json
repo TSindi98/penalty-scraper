@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Nottingham Forest",
+    "home_score": 2,
+    "away_score": 3,
+    "meta_text": "Saturday December 7, 2024 , 17:30 (venue time) Premier League (Matchweek 15) Nottingham Forest vs. Manchester United Historical Head-to-Head Attendance : 73,778 Venue : Old Trafford, Manchester Officials : Darren England (Referee) · Matthew Wilkes (AR1) · Akil Howson (AR2) · Joshua Smith (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rasmus Højlund",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Rasmus Højlund · 18’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Fernandes",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nikola Milenković",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Nikola Milenković · 2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 54’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "08966ea6",
+  "url": "https://fbref.com/en/matches/08966ea6/Manchester-United-Nottingham-Forest-December-7-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "15",
+    "date": "2024-12-07",
+    "time": "17:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Nottingham",
+    "score": "2–3",
+    "venue": "Old Trafford",
+    "attendance": "73,778",
+    "match_report_url": "https://fbref.com/en/matches/08966ea6/Manchester-United-Nottingham-Forest-December-7-2024-Premier-League"
+  }
+}

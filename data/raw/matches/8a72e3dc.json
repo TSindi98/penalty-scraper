@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday April 5, 2025 , 12:30 (venue time) Premier League (Matchweek 31) Arsenal vs. Everton Historical Head-to-Head Attendance : 39,316 Venue : Goodison Park, Liverpool Officials : Darren England (Referee) · Scott Ledger (AR1) · Akil Howson (AR2) · Robert Madley (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Iliman Ndiaye",
+      "minute": 49,
+      "is_penalty": true,
+      "raw_text": "Iliman Ndiaye (P) · 49’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 34’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d3fd31cc",
+      "team_name": "Everton",
+      "player": "Iliman Ndiaye",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "8a72e3dc",
+  "url": "https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-05",
+    "time": "12:30",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1–1",
+    "venue": "Goodison Park",
+    "attendance": "39,316",
+    "match_report_url": "https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League"
+  }
+}

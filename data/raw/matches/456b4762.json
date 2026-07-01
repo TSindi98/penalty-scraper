@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Chelsea",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday September 14, 2024 , 20:00 (venue time) Premier League (Matchweek 4) Chelsea vs. Bournemouth Historical Head-to-Head Attendance : 11,235 Venue : Vitality Stadium, Bournemouth Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Allison (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Christopher Nkunku",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Christopher Nkunku · 86’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "4ba7cbea",
+      "team_name": "Bournemouth",
+      "player": "Evanilson",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "456b4762",
+  "url": "https://fbref.com/en/matches/456b4762/Bournemouth-Chelsea-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "20:00",
+    "home_team": "Bournemouth",
+    "away_team": "Chelsea",
+    "score": "0–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,235",
+    "match_report_url": "https://fbref.com/en/matches/456b4762/Bournemouth-Chelsea-September-14-2024-Premier-League"
+  }
+}

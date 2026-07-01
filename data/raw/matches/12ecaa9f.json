@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Monday April 14, 2025 , 20:00 (venue time) Premier League (Matchweek 32) Fulham vs. Bournemouth Historical Head-to-Head Attendance : 11,195 Venue : Vitality Stadium, Bournemouth Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Tim Robinson (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "12ecaa9f",
+  "url": "https://fbref.com/en/matches/12ecaa9f/Bournemouth-Fulham-April-14-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-14",
+    "time": "20:00",
+    "home_team": "Bournemouth",
+    "away_team": "Fulham",
+    "score": "1–0",
+    "venue": "Vitality Stadium",
+    "attendance": "11,195",
+    "match_report_url": "https://fbref.com/en/matches/12ecaa9f/Bournemouth-Fulham-April-14-2025-Premier-League"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Monday September 30, 2024 , 20:00 (venue time) Premier League (Matchweek 6) Southampton vs. Bournemouth Historical Head-to-Head Attendance : 11,243 Venue : Vitality Stadium, Bournemouth Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · Dan Cook (AR2) · Simon Hooper (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 17’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 32’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 39,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 39’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Taylor Harwood-Bellis",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Taylor Harwood-Bellis · 51’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "04d2cc03",
+  "url": "https://fbref.com/en/matches/04d2cc03/Bournemouth-Southampton-September-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-30",
+    "time": "20:00",
+    "home_team": "Bournemouth",
+    "away_team": "Southampton",
+    "score": "3–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,243",
+    "match_report_url": "https://fbref.com/en/matches/04d2cc03/Bournemouth-Southampton-September-30-2024-Premier-League"
+  }
+}

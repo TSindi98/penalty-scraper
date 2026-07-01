@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Brentford",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Brentford vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,382 Venue : Molineux Stadium, Wolverhampton Officials : Craig Pawson (Referee) · Ian Hussin (AR1) · Andrew Dallison (AR2) · John Busby (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marshall Munetsi",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Marshall Munetsi · 75’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 20’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "812ef8ad",
+  "url": "https://fbref.com/en/matches/812ef8ad/Wolverhampton-Wanderers-Brentford-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Wolves",
+    "away_team": "Brentford",
+    "score": "1–1",
+    "venue": "Molineux Stadium",
+    "attendance": "31,382",
+    "match_report_url": "https://fbref.com/en/matches/812ef8ad/Wolverhampton-Wanderers-Brentford-May-25-2025-Premier-League"
+  }
+}

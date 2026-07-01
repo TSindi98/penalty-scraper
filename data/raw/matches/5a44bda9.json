@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 4,
+    "away_score": 2,
+    "meta_text": "Sunday April 13, 2025 , 14:00 (venue time) Premier League (Matchweek 32) Tottenham Hotspur vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,463 Venue : Molineux Stadium, Wolverhampton Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Wade Smith  (AR2) · Robert Jones (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rayan Aït-Nouri",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Rayan Aït-Nouri · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Djed Spence",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Djed Spence (OG) · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 64’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 86’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mathys Tel",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Mathys Tel · 59’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Richarlison",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Richarlison · 85’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5a44bda9",
+  "url": "https://fbref.com/en/matches/5a44bda9/Wolverhampton-Wanderers-Tottenham-Hotspur-April-13-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-13",
+    "time": "14:00",
+    "home_team": "Wolves",
+    "away_team": "Tottenham",
+    "score": "4–2",
+    "venue": "Molineux Stadium",
+    "attendance": "31,463",
+    "match_report_url": "https://fbref.com/en/matches/5a44bda9/Wolverhampton-Wanderers-Tottenham-Hotspur-April-13-2025-Premier-League"
+  }
+}

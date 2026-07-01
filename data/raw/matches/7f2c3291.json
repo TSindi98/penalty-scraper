@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Brentford",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday October 19, 2024 , 15:00 (venue time) Premier League (Matchweek 8) Brentford vs. Manchester United Historical Head-to-Head Attendance : 73,738 Venue : Old Trafford, Manchester Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Steve Meredith (AR2) · Gavin Ward (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rasmus Højlund",
+      "minute": 62,
+      "is_penalty": false,
+      "raw_text": "Rasmus Højlund · 62’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ethan Pinnock",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Ethan Pinnock · 45+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7f2c3291",
+  "url": "https://fbref.com/en/matches/7f2c3291/Manchester-United-Brentford-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "15:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Brentford",
+    "score": "2–1",
+    "venue": "Old Trafford",
+    "attendance": "73,738",
+    "match_report_url": "https://fbref.com/en/matches/7f2c3291/Manchester-United-Brentford-October-19-2024-Premier-League"
+  }
+}

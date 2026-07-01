@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday September 1, 2024 , 13:30 (venue time) Premier League (Matchweek 3) Tottenham Hotspur vs. Newcastle United Historical Head-to-Head Attendance : 52,211 Venue : St James' Park, Newcastle upon Tyne Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Nick Greenhalgh (AR2) · Darren Bond (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 37’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 78’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Dan Burn",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Dan Burn (OG) · 56’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0c994746",
+  "url": "https://fbref.com/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-09-01",
+    "time": "13:30",
+    "home_team": "Newcastle",
+    "away_team": "Tottenham",
+    "score": "2–1",
+    "venue": "St James' Park",
+    "attendance": "52,211",
+    "match_report_url": "https://fbref.com/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League"
+  }
+}

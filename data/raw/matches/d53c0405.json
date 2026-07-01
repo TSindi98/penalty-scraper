@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Manchester City",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday March 8, 2025 , 12:30 (venue time) Premier League (Matchweek 28) Manchester City vs. Nottingham Forest Historical Head-to-Head Attendance : 30,252 Venue : The City Ground, Nottingham Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Scott Ledger (AR2) · Samuel Allison (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Callum Hudson-Odoi",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Callum Hudson-Odoi · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d53c0405",
+  "url": "https://fbref.com/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-08",
+    "time": "12:30",
+    "home_team": "Nottingham",
+    "away_team": "Manchester City",
+    "score": "1–0",
+    "venue": "The City Ground",
+    "attendance": "30,252",
+    "match_report_url": "https://fbref.com/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League"
+  }
+}

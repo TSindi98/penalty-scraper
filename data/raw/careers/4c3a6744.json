@@ -1,0 +1,103 @@
+{
+  "player_name": "Justin Kluivert",
+  "player_id": "4c3a6744",
+  "url": "https://fbref.com/en/players/4c3a6744/Justin-Kluivert",
+  "seasons": [
+    {
+      "season": "2016-2017",
+      "team": "Jong Ajax",
+      "comp": "2.Eerste Divisie",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "season": "2016-2017",
+      "team": "Ajax",
+      "comp": "1.Eredivisie",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Ajax",
+      "comp": "1.Eredivisie",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018-2019",
+      "team": "Roma",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Roma",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Roma",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "RB Leipzig",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Nice",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Valencia",
+      "comp": "1.La Liga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2023-2024",
+      "team": "Bournemouth",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Bournemouth",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 6,
+      "pens_made": 6
+    },
+    {
+      "season": "2025-2026",
+      "team": "Bournemouth",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

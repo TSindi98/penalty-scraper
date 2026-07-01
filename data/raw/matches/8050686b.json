@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "West Ham United",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Thursday December 26, 2024 , 15:00 (venue time) Premier League (Matchweek 18) West Ham United vs. Southampton Historical Head-to-Head Attendance : 31,059 Venue : St Mary's Stadium, Southampton Officials : Lewis Smith (Referee) · Stuart Burt (AR1) · Tim Wood (AR2) · James Linington (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 59’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "8050686b",
+  "url": "https://fbref.com/en/matches/8050686b/Southampton-West-Ham-United-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "West Ham",
+    "score": "0–1",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,059",
+    "match_report_url": "https://fbref.com/en/matches/8050686b/Southampton-West-Ham-United-December-26-2024-Premier-League"
+  }
+}

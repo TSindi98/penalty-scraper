@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Wednesday January 15, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Crystal Palace vs. Leicester City Historical Head-to-Head Attendance : 29,766 Venue : King Power Stadium, Leicester Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Will Finnie (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 52’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marc Guéhi",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi · 78’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "99eb6105",
+  "url": "https://fbref.com/en/matches/99eb6105/Leicester-City-Crystal-Palace-January-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-15",
+    "time": "19:30",
+    "home_team": "Leicester City",
+    "away_team": "Crystal Palace",
+    "score": "0–2",
+    "venue": "King Power Stadium",
+    "attendance": "29,766",
+    "match_report_url": "https://fbref.com/en/matches/99eb6105/Leicester-City-Crystal-Palace-January-15-2025-Premier-League"
+  }
+}

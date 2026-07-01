@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday August 17, 2024 , 15:00 (venue time) Premier League (Matchweek 1) Bournemouth vs. Nottingham Forest Historical Head-to-Head Attendance : 29,763 Venue : The City Ground, Nottingham Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · Dan Cook (AR2) · David Webb (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 23’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 86’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4efc72e4",
+  "url": "https://fbref.com/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-17",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Bournemouth",
+    "score": "1–1",
+    "venue": "The City Ground",
+    "attendance": "29,763",
+    "match_report_url": "https://fbref.com/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League"
+  }
+}

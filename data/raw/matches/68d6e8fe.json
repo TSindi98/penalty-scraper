@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Brentford",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday January 26, 2025 , 14:00 (venue time) Premier League (Matchweek 23) Brentford vs. Crystal Palace Historical Head-to-Head Attendance : 25,066 Venue : Selhurst Park, London Officials : Tony Harrington (Referee) · Marc Perry (AR1) · Richard West (AR2) · Tim Robinson (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Romain Esse",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Romain Esse · 85’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Bryan Mbeumo",
+      "minute": 66,
+      "is_penalty": true,
+      "raw_text": "Bryan Mbeumo (P) · 66’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 80’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cd051869",
+      "team_name": "Brentford",
+      "player": "Bryan Mbeumo",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "68d6e8fe",
+  "url": "https://fbref.com/en/matches/68d6e8fe/Crystal-Palace-Brentford-January-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-26",
+    "time": "14:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Brentford",
+    "score": "1–2",
+    "venue": "Selhurst Park",
+    "attendance": "25,066",
+    "match_report_url": "https://fbref.com/en/matches/68d6e8fe/Crystal-Palace-Brentford-January-26-2025-Premier-League"
+  }
+}

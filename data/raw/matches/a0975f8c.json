@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Newcastle United",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Wednesday February 26, 2025 , 20:15 (venue time) Premier League (Matchweek 27) Newcastle United vs. Liverpool Historical Head-to-Head Attendance : 60,374 Venue : Anfield, Liverpool Officials : Stuart Attwell (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Darren Bond (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexis Mac Allister",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Alexis Mac Allister · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a0975f8c",
+  "url": "https://fbref.com/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-26",
+    "time": "20:15",
+    "home_team": "Liverpool",
+    "away_team": "Newcastle",
+    "score": "2–0",
+    "venue": "Anfield",
+    "attendance": "60,374",
+    "match_report_url": "https://fbref.com/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League"
+  }
+}

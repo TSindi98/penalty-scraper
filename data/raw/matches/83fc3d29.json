@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday March 15, 2025 , 15:00 (venue time) Premier League (Matchweek 29) Brighton & Hove Albion vs. Manchester City Historical Head-to-Head Attendance : 52,471 Venue : Etihad Stadium, Manchester Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Anthony Taylor (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Erling Haaland",
+      "minute": 11,
+      "is_penalty": true,
+      "raw_text": "Erling Haaland (P) · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 39,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 39’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pervis Estupiñán",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Pervis Estupiñán · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Abdukodir Khusanov",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Abdukodir Khusanov (OG) · 48’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b8fd03ef",
+      "team_name": "Manchester City",
+      "player": "Erling Haaland",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "83fc3d29",
+  "url": "https://fbref.com/en/matches/83fc3d29/Manchester-City-Brighton-and-Hove-Albion-March-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-15",
+    "time": "15:00",
+    "home_team": "Manchester City",
+    "away_team": "Brighton",
+    "score": "2–2",
+    "venue": "Etihad Stadium",
+    "attendance": "52,471",
+    "match_report_url": "https://fbref.com/en/matches/83fc3d29/Manchester-City-Brighton-and-Hove-Albion-March-15-2025-Premier-League"
+  }
+}

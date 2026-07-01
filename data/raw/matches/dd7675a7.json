@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Brentford",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Saturday November 23, 2024 , 15:00 (venue time) Premier League (Matchweek 12) Brentford vs. Everton Historical Head-to-Head Attendance : 38,915 Venue : Goodison Park, Liverpool Officials : Chris Kavanagh (Referee) · James Mainwaring (AR1) · Akil Howson (AR2) · Anthony Backhouse (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Christian Nørgaard",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Christian Nørgaard · 41’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "dd7675a7",
+  "url": "https://fbref.com/en/matches/dd7675a7/Everton-Brentford-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Brentford",
+    "score": "0–0",
+    "venue": "Goodison Park",
+    "attendance": "38,915",
+    "match_report_url": "https://fbref.com/en/matches/dd7675a7/Everton-Brentford-November-23-2024-Premier-League"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday January 18, 2025 , 15:00 (venue time) Premier League (Matchweek 22) Crystal Palace vs. West Ham United Historical Head-to-Head Attendance : 62,469 Venue : London Stadium, London Officials : Thomas Bramall (Referee) · Ian Hussin (AR1) · James Mainwaring (AR2) · Oliver Langford (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Konstantinos Mavropanos",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Konstantinos Mavropanos · 80’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 48’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 89,
+      "is_penalty": true,
+      "raw_text": "Jean-Philippe Mateta (P) · 89’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "47c64c55",
+      "team_name": "Crystal Palace",
+      "player": "Jean-Philippe Mateta",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "03ac4a9c",
+  "url": "https://fbref.com/en/matches/03ac4a9c/West-Ham-United-Crystal-Palace-January-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-18",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Crystal Palace",
+    "score": "0–2",
+    "venue": "London Stadium",
+    "attendance": "62,469",
+    "match_report_url": "https://fbref.com/en/matches/03ac4a9c/West-Ham-United-Crystal-Palace-January-18-2025-Premier-League"
+  }
+}

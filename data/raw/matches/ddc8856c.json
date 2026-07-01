@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday November 30, 2024 , 15:00 (venue time) Premier League (Matchweek 13) Ipswich Town vs. Nottingham Forest Historical Head-to-Head Attendance : 30,237 Venue : The City Ground, Nottingham Officials : Tony Harrington (Referee) · Eddie Smart (AR1) · Marc Perry (AR2) · David Webb (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Chris Wood",
+      "minute": 49,
+      "is_penalty": true,
+      "raw_text": "Chris Wood (P) · 49’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "e4a775cb",
+      "team_name": "Nottingham",
+      "player": "Chris Wood",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "ddc8856c",
+  "url": "https://fbref.com/en/matches/ddc8856c/Nottingham-Forest-Ipswich-Town-November-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-11-30",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Ipswich Town",
+    "score": "1–0",
+    "venue": "The City Ground",
+    "attendance": "30,237",
+    "match_report_url": "https://fbref.com/en/matches/ddc8856c/Nottingham-Forest-Ipswich-Town-November-30-2024-Premier-League"
+  }
+}

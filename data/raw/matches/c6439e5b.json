@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday October 5, 2024 , 15:00 (venue time) Premier League (Matchweek 7) Southampton vs. Arsenal Historical Head-to-Head Attendance : 60,307 Venue : Emirates Stadium, London Officials : Tony Harrington (Referee) · Darren Cann (AR1) · Derek Eaton (AR2) · Joshua Smith (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 68’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bukayo Saka",
+      "minute": 88,
+      "is_penalty": false,
+      "raw_text": "Bukayo Saka · 88’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cameron Archer",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Cameron Archer · 55’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c6439e5b",
+  "url": "https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "Southampton",
+    "score": "3–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,307",
+    "match_report_url": "https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League"
+  }
+}

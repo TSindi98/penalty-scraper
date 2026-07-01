@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Nottingham Forest",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday February 15, 2025 , 15:00 (venue time) Premier League (Matchweek 25) Nottingham Forest vs. Fulham Historical Head-to-Head Attendance : 27,164 Venue : Craven Cottage, London Officials : Thomas Bramall (Referee) · Matthew Wilkes (AR1) · Constantine Hatzidakis (AR2) · Tom Nield (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 15’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Calvin Bassey",
+      "minute": 62,
+      "is_penalty": false,
+      "raw_text": "Calvin Bassey · 62’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 37’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5968d7ad",
+  "url": "https://fbref.com/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Nottingham",
+    "score": "2–1",
+    "venue": "Craven Cottage",
+    "attendance": "27,164",
+    "match_report_url": "https://fbref.com/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League"
+  }
+}

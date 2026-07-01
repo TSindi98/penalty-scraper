@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 5,
+    "away_score": 1,
+    "meta_text": "Sunday April 27, 2025 , 16:30 (venue time) Premier League (Matchweek 34) Tottenham Hotspur vs. Liverpool Historical Head-to-Head Attendance : 60,415 Venue : Anfield, Liverpool Officials : Thomas Bramall (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Chris Kavanagh (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 16’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexis Mac Allister",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Alexis Mac Allister · 24’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 34’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 63’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Destiny Udogie",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Destiny Udogie (OG) · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 12’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "64bc833f",
+  "url": "https://fbref.com/en/matches/64bc833f/Liverpool-Tottenham-Hotspur-April-27-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-27",
+    "time": "16:30",
+    "home_team": "Liverpool",
+    "away_team": "Tottenham",
+    "score": "5–1",
+    "venue": "Anfield",
+    "attendance": "60,415",
+    "match_report_url": "https://fbref.com/en/matches/64bc833f/Liverpool-Tottenham-Hotspur-April-27-2025-Premier-League"
+  }
+}

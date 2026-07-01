@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday October 20, 2024 , 16:30 (venue time) Premier League (Matchweek 8) Chelsea vs. Liverpool Historical Head-to-Head Attendance : 60,277 Venue : Anfield, Liverpool Officials : John Brooks (Referee) · Simon Bennett (AR1) · Darren Cann (AR2) · Craig Pawson (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 29,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 29’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Curtis Jones",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Curtis Jones · 51’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 48’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "99b4737c",
+  "url": "https://fbref.com/en/matches/99b4737c/Liverpool-Chelsea-October-20-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-20",
+    "time": "16:30",
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "score": "2–1",
+    "venue": "Anfield",
+    "attendance": "60,277",
+    "match_report_url": "https://fbref.com/en/matches/99b4737c/Liverpool-Chelsea-October-20-2024-Premier-League"
+  }
+}

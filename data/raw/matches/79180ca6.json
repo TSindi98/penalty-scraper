@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Nottingham Forest",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday May 18, 2025 , 14:15 (venue time) Premier League (Matchweek 37) Nottingham Forest vs. West Ham United Historical Head-to-Head Attendance : 62,466 Venue : London Stadium, London Officials : Samuel Barrott (Referee) · Wade Smith  (AR1) · Akil Howson (AR2) · Matt Donohue (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 86’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 11’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nikola Milenković",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Nikola Milenković · 61’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "79180ca6",
+  "url": "https://fbref.com/en/matches/79180ca6/West-Ham-United-Nottingham-Forest-May-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-18",
+    "time": "14:15",
+    "home_team": "West Ham",
+    "away_team": "Nottingham",
+    "score": "1–2",
+    "venue": "London Stadium",
+    "attendance": "62,466",
+    "match_report_url": "https://fbref.com/en/matches/79180ca6/West-Ham-United-Nottingham-Forest-May-18-2025-Premier-League"
+  }
+}

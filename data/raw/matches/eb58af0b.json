@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Aston Villa",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Saturday April 12, 2025 , 15:00 (venue time) Premier League (Matchweek 32) Aston Villa vs. Southampton Historical Head-to-Head Attendance : 30,199 Venue : St Mary's Stadium, Southampton Officials : Thomas Bramall (Referee) · Nicholas Hopton (AR1) · Mark Scholes (AR2) · James Linington (4th) · Tim Robinson (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Donyell Malen",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Donyell Malen · 79’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "John McGinn",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "John McGinn · 90+4’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "8602292d",
+      "team_name": "Aston Villa",
+      "player": "Marco Asensio",
+      "pens_made": 0,
+      "pens_att": 2
+    }
+  ],
+  "match_id": "eb58af0b",
+  "url": "https://fbref.com/en/matches/eb58af0b/Southampton-Aston-Villa-April-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-12",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Aston Villa",
+    "score": "0–3",
+    "venue": "St Mary's Stadium",
+    "attendance": "30,199",
+    "match_report_url": "https://fbref.com/en/matches/eb58af0b/Southampton-Aston-Villa-April-12-2025-Premier-League"
+  }
+}

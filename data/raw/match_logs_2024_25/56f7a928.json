@@ -1,0 +1,25 @@
+{
+  "player_name": "Youri Tielemans",
+  "player_id": "56f7a928",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/56f7a928/matchlogs/2024-2025/summary/Youri-Tielemans-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-10-14",
+      "comp": "UEFA Nations League",
+      "opponent": "frFrance",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2024-11-23",
+      "comp": "Premier League",
+      "opponent": "Crystal Palace",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 61
+}

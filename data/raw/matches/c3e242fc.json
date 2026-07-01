@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday May 11, 2025 , 14:15 (venue time) Premier League (Matchweek 36) Leicester City vs. Nottingham Forest Historical Head-to-Head Attendance : 30,245 Venue : The City Ground, Nottingham Officials : Tony Harrington (Referee) · Simon Long (AR1) · Sian Massey-Ellis (AR2) · Samuel Barrott (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 25’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 56’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Conor Coady",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Conor Coady · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Facundo Buonanotte",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Facundo Buonanotte · 81’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c3e242fc",
+  "url": "https://fbref.com/en/matches/c3e242fc/Nottingham-Forest-Leicester-City-May-11-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-11",
+    "time": "14:15",
+    "home_team": "Nottingham",
+    "away_team": "Leicester City",
+    "score": "2–2",
+    "venue": "The City Ground",
+    "attendance": "30,245",
+    "match_report_url": "https://fbref.com/en/matches/c3e242fc/Nottingham-Forest-Leicester-City-May-11-2025-Premier-League"
+  }
+}

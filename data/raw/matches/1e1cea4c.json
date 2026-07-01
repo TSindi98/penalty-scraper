@@ -1,0 +1,97 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Liverpool",
+    "home_score": 3,
+    "away_score": 6,
+    "meta_text": "Sunday December 22, 2024 , 16:30 (venue time) Premier League (Matchweek 17) Liverpool vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,439 Venue : Tottenham Hotspur Stadium, London Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Wade Smith  (AR2) · Michael Oliver (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 41’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 72’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 83’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 23’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexis Mac Allister",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Alexis Mac Allister · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 45+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 54’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 85’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1e1cea4c",
+  "url": "https://fbref.com/en/matches/1e1cea4c/Tottenham-Hotspur-Liverpool-December-22-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-22",
+    "time": "16:30",
+    "home_team": "Tottenham",
+    "away_team": "Liverpool",
+    "score": "3–6",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,439",
+    "match_report_url": "https://fbref.com/en/matches/1e1cea4c/Tottenham-Hotspur-Liverpool-December-22-2024-Premier-League"
+  }
+}

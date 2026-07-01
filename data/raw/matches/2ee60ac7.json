@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Leicester City",
+    "home_score": 4,
+    "away_score": 2,
+    "meta_text": "Saturday September 28, 2024 , 15:00 (venue time) Premier League (Matchweek 6) Leicester City vs. Arsenal Historical Head-to-Head Attendance : 60,323 Venue : Emirates Stadium, London Officials : Samuel Barrott (Referee) · Scott Ledger (AR1) · Wade Smith  (AR2) · Dean Whitestone (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 20’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 45+1’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Wilfred Ndidi",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Wilfred Ndidi (OG) · 90+4’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 99,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 90+9’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Justin",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "James Justin · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Justin",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "James Justin · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2ee60ac7",
+  "url": "https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "Leicester City",
+    "score": "4–2",
+    "venue": "Emirates Stadium",
+    "attendance": "60,323",
+    "match_report_url": "https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League"
+  }
+}

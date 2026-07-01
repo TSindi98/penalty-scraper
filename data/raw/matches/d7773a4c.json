@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "West Ham United",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Saturday January 4, 2025 , 15:00 (venue time) Premier League (Matchweek 20) West Ham United vs. Manchester City Historical Head-to-Head Attendance : 52,737 Venue : Etihad Stadium, Manchester Officials : Michael Salisbury (Referee) · Eddie Smart (AR1) · Derek Eaton (AR2) · Oliver Langford (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Vladimír Coufal",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Vladimír Coufal (OG) · 10’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 42’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 55’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Phil Foden",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Phil Foden · 58’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Niclas Füllkrug",
+      "minute": 71,
+      "is_penalty": false,
+      "raw_text": "Niclas Füllkrug · 71’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d7773a4c",
+  "url": "https://fbref.com/en/matches/d7773a4c/Manchester-City-West-Ham-United-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "15:00",
+    "home_team": "Manchester City",
+    "away_team": "West Ham",
+    "score": "4–1",
+    "venue": "Etihad Stadium",
+    "attendance": "52,737",
+    "match_report_url": "https://fbref.com/en/matches/d7773a4c/Manchester-City-West-Ham-United-January-4-2025-Premier-League"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Newcastle United",
+    "home_score": 0,
+    "away_score": 4,
+    "meta_text": "Saturday December 21, 2024 , 15:00 (venue time) Premier League (Matchweek 17) Newcastle United vs. Ipswich Town Historical Head-to-Head Attendance : 29,774 Venue : Portman Road Stadium, Ipswich Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · John Busby (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 32’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 45+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 54’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "764fc51e",
+  "url": "https://fbref.com/en/matches/764fc51e/Ipswich-Town-Newcastle-United-December-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-21",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Newcastle",
+    "score": "0–4",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,774",
+    "match_report_url": "https://fbref.com/en/matches/764fc51e/Ipswich-Town-Newcastle-United-December-21-2024-Premier-League"
+  }
+}

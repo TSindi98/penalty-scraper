@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 4,
+    "away_score": 2,
+    "meta_text": "Saturday September 28, 2024 , 15:00 (venue time) Premier League (Matchweek 6) Brighton & Hove Albion vs. Chelsea Historical Head-to-Head Attendance : 39,495 Venue : Stamford Bridge, London Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · David Webb (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 21’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Cole Palmer",
+      "minute": 28,
+      "is_penalty": true,
+      "raw_text": "Cole Palmer (P) · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 31’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 41’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Georginio Rutter",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Georginio Rutter · 7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Carlos Baleba",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Carlos Baleba · 34’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cff3d9bb",
+      "team_name": "Chelsea",
+      "player": "Cole Palmer",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "1714cebe",
+  "url": "https://fbref.com/en/matches/1714cebe/Chelsea-Brighton-and-Hove-Albion-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "15:00",
+    "home_team": "Chelsea",
+    "away_team": "Brighton",
+    "score": "4–2",
+    "venue": "Stamford Bridge",
+    "attendance": "39,495",
+    "match_report_url": "https://fbref.com/en/matches/1714cebe/Chelsea-Brighton-and-Hove-Albion-September-28-2024-Premier-League"
+  }
+}

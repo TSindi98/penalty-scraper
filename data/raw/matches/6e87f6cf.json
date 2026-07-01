@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Crystal Palace",
+    "home_score": 5,
+    "away_score": 0,
+    "meta_text": "Wednesday April 16, 2025 , 19:30 (venue time) Premier League (Matchweek 29) Crystal Palace vs. Newcastle United Historical Head-to-Head Attendance : 52,197 Venue : St James' Park, Newcastle upon Tyne Officials : Darren England (Referee) · Nick Greenhalgh (AR1) · Akil Howson (AR2) · Thomas Bramall (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 14’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Marc Guéhi",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi (OG) · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 45+2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Fabian Schär",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "Fabian Schär · 45+8’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 58’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "47c64c55",
+      "team_name": "Crystal Palace",
+      "player": "Eberechi Eze",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "6e87f6cf",
+  "url": "https://fbref.com/en/matches/6e87f6cf/Newcastle-United-Crystal-Palace-April-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-04-16",
+    "time": "19:30",
+    "home_team": "Newcastle",
+    "away_team": "Crystal Palace",
+    "score": "5–0",
+    "venue": "St James' Park",
+    "attendance": "52,197",
+    "match_report_url": "https://fbref.com/en/matches/6e87f6cf/Newcastle-United-Crystal-Palace-April-16-2025-Premier-League"
+  }
+}

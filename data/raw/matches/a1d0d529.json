@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday August 17, 2024 , 12:30 (venue time) Premier League (Matchweek 1) Liverpool vs. Ipswich Town Historical Head-to-Head Attendance : 30,014 Venue : Portman Road Stadium, Ipswich Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Keith Stroud (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Diogo Jota",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Diogo Jota · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 65’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a1d0d529",
+  "url": "https://fbref.com/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-17",
+    "time": "12:30",
+    "home_team": "Ipswich Town",
+    "away_team": "Liverpool",
+    "score": "0–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "30,014",
+    "match_report_url": "https://fbref.com/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League"
+  }
+}

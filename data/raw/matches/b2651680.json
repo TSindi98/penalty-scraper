@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Friday May 16, 2025 , 19:30 (venue time) Premier League (Matchweek 37) Tottenham Hotspur vs. Aston Villa Historical Head-to-Head Attendance : 42,239 Venue : Villa Park, Birmingham Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Tim Robinson (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ezri Konsa",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Ezri Konsa · 59’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Boubacar Kamara",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Boubacar Kamara · 73’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b2651680",
+  "url": "https://fbref.com/en/matches/b2651680/Aston-Villa-Tottenham-Hotspur-May-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-16",
+    "time": "19:30",
+    "home_team": "Aston Villa",
+    "away_team": "Tottenham",
+    "score": "2–0",
+    "venue": "Villa Park",
+    "attendance": "42,239",
+    "match_report_url": "https://fbref.com/en/matches/b2651680/Aston-Villa-Tottenham-Hotspur-May-16-2025-Premier-League"
+  }
+}

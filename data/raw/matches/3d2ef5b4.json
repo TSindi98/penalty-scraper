@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday December 29, 2024 , 15:00 (venue time) Premier League (Matchweek 19) Wolverhampton Wanderers vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,284 Venue : Tottenham Hotspur Stadium, London Officials : Chris Kavanagh (Referee) · Richard West (AR1) · Tim Wood (AR2) · Tim Robinson (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rodrigo Bentancur",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Bentancur · 12’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 45+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Hwang Hee-chan",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Hwang Hee-chan · 7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 87’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "361ca564",
+      "team_name": "Tottenham",
+      "player": "Son Heung-min",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "3d2ef5b4",
+  "url": "https://fbref.com/en/matches/3d2ef5b4/Tottenham-Hotspur-Wolverhampton-Wanderers-December-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-29",
+    "time": "15:00",
+    "home_team": "Tottenham",
+    "away_team": "Wolves",
+    "score": "2–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,284",
+    "match_report_url": "https://fbref.com/en/matches/3d2ef5b4/Tottenham-Hotspur-Wolverhampton-Wanderers-December-29-2024-Premier-League"
+  }
+}

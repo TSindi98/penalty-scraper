@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Liverpool",
+    "home_score": 3,
+    "away_score": 3,
+    "meta_text": "Wednesday December 4, 2024 , 19:30 (venue time) Premier League (Matchweek 14) Liverpool vs. Newcastle United Historical Head-to-Head Attendance : 52,237 Venue : St James' Park, Newcastle upon Tyne Officials : Andy Madley (Referee) · Wade Smith  (AR1) · Craig Taylor (AR2) · Anthony Backhouse (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 35’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Anthony Gordon",
+      "minute": 62,
+      "is_penalty": false,
+      "raw_text": "Anthony Gordon · 62’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Fabian Schär",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Fabian Schär · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Curtis Jones",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Curtis Jones · 50’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 68’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ca898c29",
+  "url": "https://fbref.com/en/matches/ca898c29/Newcastle-United-Liverpool-December-4-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-04",
+    "time": "19:30",
+    "home_team": "Newcastle",
+    "away_team": "Liverpool",
+    "score": "3–3",
+    "venue": "St James' Park",
+    "attendance": "52,237",
+    "match_report_url": "https://fbref.com/en/matches/ca898c29/Newcastle-United-Liverpool-December-4-2024-Premier-League"
+  }
+}

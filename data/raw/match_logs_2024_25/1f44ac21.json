@@ -1,0 +1,81 @@
+{
+  "player_name": "Erling Haaland",
+  "player_id": "1f44ac21",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/1f44ac21/matchlogs/2024-2025/summary/Erling-Haaland-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-08-24",
+      "comp": "Premier League",
+      "opponent": "Ipswich Town",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-05",
+      "comp": "Champions Lg",
+      "opponent": "ptSporting CP",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2024-11-26",
+      "comp": "Champions Lg",
+      "opponent": "nlFeyenoord",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-26",
+      "comp": "Premier League",
+      "opponent": "Everton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2025-02-11",
+      "comp": "Champions Lg",
+      "opponent": "esReal Madrid",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-15",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-30",
+      "comp": "FA Cup",
+      "opponent": "Bournemouth",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2025-05-25",
+      "comp": "Premier League",
+      "opponent": "Fulham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-06-22",
+      "comp": "Club World Cup",
+      "opponent": "aeAl Ain",
+      "venue": "Neutral",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 62
+}

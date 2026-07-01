@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Everton",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Saturday September 14, 2024 , 17:30 (venue time) Premier League (Matchweek 4) Everton vs. Aston Villa Historical Head-to-Head Attendance : 41,573 Venue : Villa Park, Birmingham Officials : Craig Pawson (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · David Webb (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jáder Durán",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 76’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dwight McNeil",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Dwight McNeil · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominic Calvert-Lewin",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Dominic Calvert-Lewin · 27’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "cdb4c33b",
+  "url": "https://fbref.com/en/matches/cdb4c33b/Aston-Villa-Everton-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "17:30",
+    "home_team": "Aston Villa",
+    "away_team": "Everton",
+    "score": "3–2",
+    "venue": "Villa Park",
+    "attendance": "41,573",
+    "match_report_url": "https://fbref.com/en/matches/cdb4c33b/Aston-Villa-Everton-September-14-2024-Premier-League"
+  }
+}

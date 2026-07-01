@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Sunday September 1, 2024 , 16:00 (venue time) Premier League (Matchweek 3) North West Derby History Attendance : 73,738 Venue : Old Trafford, Manchester Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Barrott (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 35’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 42’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 56’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a7ab7a12",
+  "url": "https://fbref.com/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-09-01",
+    "time": "16:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Liverpool",
+    "score": "0–3",
+    "venue": "Old Trafford",
+    "attendance": "73,738",
+    "match_report_url": "https://fbref.com/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League"
+  }
+}

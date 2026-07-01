@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Monday August 19, 2024 , 20:00 (venue time) Premier League (Matchweek 1) Tottenham Hotspur vs. Leicester City Historical Head-to-Head Attendance : 31,977 Venue : King Power Stadium, Leicester Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · Robert Jones (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 57,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 57’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pedro Porro",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Pedro Porro · 29’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "62eea1d6",
+  "url": "https://fbref.com/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-19",
+    "time": "20:00",
+    "home_team": "Leicester City",
+    "away_team": "Tottenham",
+    "score": "1–1",
+    "venue": "King Power Stadium",
+    "attendance": "31,977",
+    "match_report_url": "https://fbref.com/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League"
+  }
+}

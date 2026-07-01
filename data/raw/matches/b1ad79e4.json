@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday March 8, 2025 , 15:00 (venue time) Premier League (Matchweek 28) Ipswich Town vs. Crystal Palace Historical Head-to-Head Attendance : 25,155 Venue : Selhurst Park, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Nicholas Hopton (AR2) · Robert Jones (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 82’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b1ad79e4",
+  "url": "https://fbref.com/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-08",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Ipswich Town",
+    "score": "1–0",
+    "venue": "Selhurst Park",
+    "attendance": "25,155",
+    "match_report_url": "https://fbref.com/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League"
+  }
+}

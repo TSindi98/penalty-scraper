@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 0,
+    "away_score": 5,
+    "meta_text": "Sunday December 15, 2024 , 19:00 (venue time) Premier League (Matchweek 16) Tottenham Hotspur vs. Southampton Historical Head-to-Head Attendance : 31,090 Venue : St Mary's Stadium, Southampton Officials : Darren England (Referee) · Neil Davies (AR1) · Akil Howson (AR2) · Samuel Barrott (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 12’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pape Matar Sarr",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Pape Matar Sarr · 25’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 45+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "37afd6da",
+  "url": "https://fbref.com/en/matches/37afd6da/Southampton-Tottenham-Hotspur-December-15-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-15",
+    "time": "19:00",
+    "home_team": "Southampton",
+    "away_team": "Tottenham",
+    "score": "0–5",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,090",
+    "match_report_url": "https://fbref.com/en/matches/37afd6da/Southampton-Tottenham-Hotspur-December-15-2024-Premier-League"
+  }
+}

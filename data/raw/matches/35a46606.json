@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Manchester City",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Saturday May 10, 2025 , 15:00 (venue time) Premier League (Matchweek 36) Manchester City vs. Southampton Historical Head-to-Head Attendance : 30,937 Venue : St Mary's Stadium, Southampton Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Andy Madley (4th) · Matt Donohue (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "35a46606",
+  "url": "https://fbref.com/en/matches/35a46606/Southampton-Manchester-City-May-10-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-10",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Manchester City",
+    "score": "0–0",
+    "venue": "St Mary's Stadium",
+    "attendance": "30,937",
+    "match_report_url": "https://fbref.com/en/matches/35a46606/Southampton-Manchester-City-May-10-2025-Premier-League"
+  }
+}

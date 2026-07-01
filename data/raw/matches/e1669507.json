@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "West Ham United",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Saturday April 26, 2025 , 15:00 (venue time) Premier League (Matchweek 34) West Ham United vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,499 Venue : The American Express Stadium, Brighton & Hove Officials : Darren England (Referee) · Ian Hussin (AR1) · Akil Howson (AR2) · Simon Hooper (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yasin Ayari",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Yasin Ayari · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 89’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Carlos Baleba",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Carlos Baleba · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohammed Kudus",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Mohammed Kudus · 48’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e1669507",
+  "url": "https://fbref.com/en/matches/e1669507/Brighton-and-Hove-Albion-West-Ham-United-April-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-26",
+    "time": "15:00",
+    "home_team": "Brighton",
+    "away_team": "West Ham",
+    "score": "3–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,499",
+    "match_report_url": "https://fbref.com/en/matches/e1669507/Brighton-and-Hove-Albion-West-Ham-United-April-26-2025-Premier-League"
+  }
+}

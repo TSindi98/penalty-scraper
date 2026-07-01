@@ -1,0 +1,71 @@
+{
+  "player_name": "João Pedro",
+  "player_id": "e8832875",
+  "url": "https://fbref.com/en/players/e8832875/Joao-Pedro",
+  "seasons": [
+    {
+      "season": "2019",
+      "team": "Fluminense",
+      "comp": "1.Série A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Watford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Watford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "season": "2021-2022",
+      "team": "Watford",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Watford",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2023-2024",
+      "team": "Brighton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 5,
+      "pens_made": 4
+    },
+    {
+      "season": "2024-2025",
+      "team": "Brighton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 5,
+      "pens_made": 5
+    },
+    {
+      "season": "2025-2026",
+      "team": "Chelsea",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Manchester United",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Saturday September 14, 2024 , 12:30 (venue time) Premier League (Matchweek 4) Manchester United vs. Southampton Historical Head-to-Head Attendance : 31,144 Venue : St Mary's Stadium, Southampton Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Nicholas Hopton (AR2) · Gavin Ward (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Jack Stephens",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Jack Stephens · 79’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matthijs de Ligt",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Matthijs de Ligt · 35’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marcus Rashford",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Marcus Rashford · 41’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 90+6’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "33c895d4",
+      "team_name": "Southampton",
+      "player": "Cameron Archer",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "b96c3759",
+  "url": "https://fbref.com/en/matches/b96c3759/Southampton-Manchester-United-September-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "4",
+    "date": "2024-09-14",
+    "time": "12:30",
+    "home_team": "Southampton",
+    "away_team": "Manchester Utd",
+    "score": "0–3",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,144",
+    "match_report_url": "https://fbref.com/en/matches/b96c3759/Southampton-Manchester-United-September-14-2024-Premier-League"
+  }
+}

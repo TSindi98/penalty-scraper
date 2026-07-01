@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday December 1, 2024 , 16:00 (venue time) Premier League (Matchweek 13) Manchester City vs. Liverpool Historical Head-to-Head Attendance : 60,248 Venue : Anfield, Liverpool Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Darren Cann (AR2) · Anthony Taylor (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 12’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 78,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 78’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "0bd6ad44",
+  "url": "https://fbref.com/en/matches/0bd6ad44/Liverpool-Manchester-City-December-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-12-01",
+    "time": "16:00",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "2–0",
+    "venue": "Anfield",
+    "attendance": "60,248",
+    "match_report_url": "https://fbref.com/en/matches/0bd6ad44/Liverpool-Manchester-City-December-1-2024-Premier-League"
+  }
+}

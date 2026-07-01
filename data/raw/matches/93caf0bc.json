@@ -1,0 +1,89 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Nottingham Forest",
+    "home_score": 4,
+    "away_score": 3,
+    "meta_text": "Sunday February 23, 2025 , 14:00 (venue time) Premier League (Matchweek 26) Nottingham Forest vs. Newcastle United Historical Head-to-Head Attendance : 52,223 Venue : St James' Park, Newcastle upon Tyne Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Mark Scholes (AR2) · Tony Harrington (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Lewis Miley",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Lewis Miley · 23’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 25’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Alexander Isak",
+      "minute": 33,
+      "is_penalty": true,
+      "raw_text": "Alexander Isak (P) · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 34’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Callum Hudson-Odoi",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Callum Hudson-Odoi · 6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nikola Milenković",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Nikola Milenković · 63’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ryan Yates",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Ryan Yates · 90’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b2b47a98",
+      "team_name": "Newcastle",
+      "player": "Alexander Isak",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "93caf0bc",
+  "url": "https://fbref.com/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-23",
+    "time": "14:00",
+    "home_team": "Newcastle",
+    "away_team": "Nottingham",
+    "score": "4–3",
+    "venue": "St James' Park",
+    "attendance": "52,223",
+    "match_report_url": "https://fbref.com/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League"
+  }
+}

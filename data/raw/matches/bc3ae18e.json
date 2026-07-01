@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Fulham",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday January 18, 2025 , 15:00 (venue time) Premier League (Matchweek 22) Fulham vs. Leicester City Historical Head-to-Head Attendance : 31,500 Venue : King Power Stadium, Leicester Officials : Michael Salisbury (Referee) · Wade Smith  (AR1) · Derek Eaton (AR2) · Andrew Kitchen (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 48’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Adama Traoré",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Adama Traoré · 68’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "bc3ae18e",
+  "url": "https://fbref.com/en/matches/bc3ae18e/Leicester-City-Fulham-January-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-18",
+    "time": "15:00",
+    "home_team": "Leicester City",
+    "away_team": "Fulham",
+    "score": "0–2",
+    "venue": "King Power Stadium",
+    "attendance": "31,500",
+    "match_report_url": "https://fbref.com/en/matches/bc3ae18e/Leicester-City-Fulham-January-18-2025-Premier-League"
+  }
+}

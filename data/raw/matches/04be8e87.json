@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday December 21, 2024 , 15:00 (venue time) Premier League (Matchweek 17) Brighton & Hove Albion vs. West Ham United Historical Head-to-Head Attendance : 62,460 Venue : London Stadium, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Samuel Barrott (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohammed Kudus",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Mohammed Kudus · 58’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mats Wieffer",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Mats Wieffer · 51’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "04be8e87",
+  "url": "https://fbref.com/en/matches/04be8e87/West-Ham-United-Brighton-and-Hove-Albion-December-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-21",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Brighton",
+    "score": "1–1",
+    "venue": "London Stadium",
+    "attendance": "62,460",
+    "match_report_url": "https://fbref.com/en/matches/04be8e87/West-Ham-United-Brighton-and-Hove-Albion-December-21-2024-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "player_name": "Raúl Jiménez",
+  "player_id": "b561db50",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/b561db50/matchlogs/2024-2025/summary/Raul-Jimenez-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-08-27",
+      "comp": "EFL Cup",
+      "opponent": "Birmingham City",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-09-28",
+      "comp": "Premier League",
+      "opponent": "Nottingham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-05",
+      "comp": "Premier League",
+      "opponent": "Ipswich Town",
+      "venue": "Home",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "date": "2025-01-09",
+      "comp": "FA Cup",
+      "opponent": "Watford",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 51
+}

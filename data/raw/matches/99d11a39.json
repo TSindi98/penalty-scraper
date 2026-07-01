@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 4,
+    "meta_text": "Saturday January 18, 2025 , 12:30 (venue time) Premier League (Matchweek 22) Bournemouth vs. Newcastle United Historical Head-to-Head Attendance : 52,227 Venue : St James' Park, Newcastle upon Tyne Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Dean Whitestone (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Guimarães",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Bruno Guimarães · 25’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 44’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Milos Kerkez",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Milos Kerkez · 90+6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "99d11a39",
+  "url": "https://fbref.com/en/matches/99d11a39/Newcastle-United-Bournemouth-January-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-18",
+    "time": "12:30",
+    "home_team": "Newcastle",
+    "away_team": "Bournemouth",
+    "score": "1–4",
+    "venue": "St James' Park",
+    "attendance": "52,227",
+    "match_report_url": "https://fbref.com/en/matches/99d11a39/Newcastle-United-Bournemouth-January-18-2025-Premier-League"
+  }
+}

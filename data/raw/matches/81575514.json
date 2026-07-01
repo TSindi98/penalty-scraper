@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday March 9, 2025 , 14:00 (venue time) Premier League (Matchweek 28) Bournemouth vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,178 Venue : Tottenham Hotspur Stadium, London Officials : John Brooks (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Simon Hooper (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Pape Matar Sarr",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Pape Matar Sarr · 67’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Son Heung-min",
+      "minute": 84,
+      "is_penalty": true,
+      "raw_text": "Son Heung-min (P) · 84’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marcus Tavernier",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Marcus Tavernier · 42’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 65’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "361ca564",
+      "team_name": "Tottenham",
+      "player": "Son Heung-min",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "81575514",
+  "url": "https://fbref.com/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-09",
+    "time": "14:00",
+    "home_team": "Tottenham",
+    "away_team": "Bournemouth",
+    "score": "2–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,178",
+    "match_report_url": "https://fbref.com/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League"
+  }
+}

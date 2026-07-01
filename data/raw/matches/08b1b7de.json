@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Thursday February 27, 2025 , 20:00 (venue time) Premier League (Matchweek 27) Leicester City vs. West Ham United Historical Head-to-Head Attendance : 62,455 Venue : London Stadium, London Officials : Anthony Taylor (Referee) · Constantine Hatzidakis (AR1) · Marc Perry (AR2) · Robert Jones (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 21’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Jannik Vestergaard",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Jannik Vestergaard (OG) · 43’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "08b1b7de",
+  "url": "https://fbref.com/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-27",
+    "time": "20:00",
+    "home_team": "West Ham",
+    "away_team": "Leicester City",
+    "score": "2–0",
+    "venue": "London Stadium",
+    "attendance": "62,455",
+    "match_report_url": "https://fbref.com/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League"
+  }
+}

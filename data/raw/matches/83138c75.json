@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Everton",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday April 12, 2025 , 15:00 (venue time) Premier League (Matchweek 32) Everton vs. Nottingham Forest Historical Head-to-Head Attendance : 30,199 Venue : The City Ground, Nottingham Officials : Craig Pawson (Referee) · Tim Wood (AR1) · Craig Taylor (AR2) · Anthony Backhouse (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Abdoulaye Doucouré",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Abdoulaye Doucouré · 90+4’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "83138c75",
+  "url": "https://fbref.com/en/matches/83138c75/Nottingham-Forest-Everton-April-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-12",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Everton",
+    "score": "0–1",
+    "venue": "The City Ground",
+    "attendance": "30,199",
+    "match_report_url": "https://fbref.com/en/matches/83138c75/Nottingham-Forest-Everton-April-12-2025-Premier-League"
+  }
+}

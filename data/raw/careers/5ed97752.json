@@ -1,0 +1,71 @@
+{
+  "player_name": "Iliman Ndiaye",
+  "player_id": "5ed97752",
+  "url": "https://fbref.com/en/players/5ed97752/Iliman-Ndiaye",
+  "seasons": [
+    {
+      "season": "2018-2019",
+      "team": "Boreham Wood",
+      "comp": "5.National League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "",
+      "team": "",
+      "comp": "",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Sheffield United",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Sheffield United",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Sheffield United",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Everton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "season": "2025-2026",
+      "team": "Everton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 2
+    }
+  ]
+}

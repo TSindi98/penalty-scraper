@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday April 5, 2025 , 15:00 (venue time) Premier League (Matchweek 31) Wolverhampton Wanderers vs. Ipswich Town Historical Head-to-Head Attendance : 29,549 Venue : Portman Road Stadium, Ipswich Officials : Peter Bankes (Referee) · Nicholas Hopton (AR1) · Nick Greenhalgh (AR2) · Samuel Barrott (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pablo Sarabia",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Pablo Sarabia · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 84’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b6f200da",
+  "url": "https://fbref.com/en/matches/b6f200da/Ipswich-Town-Wolverhampton-Wanderers-April-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-05",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Wolves",
+    "score": "1–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,549",
+    "match_report_url": "https://fbref.com/en/matches/b6f200da/Ipswich-Town-Wolverhampton-Wanderers-April-5-2025-Premier-League"
+  }
+}

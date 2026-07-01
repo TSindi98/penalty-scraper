@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Manchester United",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday December 15, 2024 , 16:30 (venue time) Premier League (Matchweek 16) Manchester Derby History Attendance : 53,184 Venue : Etihad Stadium, Manchester Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Tim Robinson (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joško Gvardiol",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Joško Gvardiol · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Bruno Fernandes",
+      "minute": 88,
+      "is_penalty": true,
+      "raw_text": "Bruno Fernandes (P) · 88’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 90’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "19538871",
+      "team_name": "Manchester Utd",
+      "player": "Bruno Fernandes",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "3d772028",
+  "url": "https://fbref.com/en/matches/3d772028/Manchester-Derby-Manchester-City-Manchester-United-December-15-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-15",
+    "time": "16:30",
+    "home_team": "Manchester City",
+    "away_team": "Manchester Utd",
+    "score": "1–2",
+    "venue": "Etihad Stadium",
+    "attendance": "53,184",
+    "match_report_url": "https://fbref.com/en/matches/3d772028/Manchester-Derby-Manchester-City-Manchester-United-December-15-2024-Premier-League"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Manchester City",
+    "home_score": 5,
+    "away_score": 1,
+    "meta_text": "Sunday February 2, 2025 , 16:30 (venue time) Premier League (Matchweek 24) Manchester City vs. Arsenal Historical Head-to-Head Attendance : 60,355 Venue : Emirates Stadium, London Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Anthony Taylor (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Martin Ødegaard",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Martin Ødegaard · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Thomas Partey",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Thomas Partey · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Myles Lewis-Skelly",
+      "minute": 62,
+      "is_penalty": false,
+      "raw_text": "Myles Lewis-Skelly · 62’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 76’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ethan Nwaneri",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Ethan Nwaneri · 90+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 55’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2906e921",
+  "url": "https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-02",
+    "time": "16:30",
+    "home_team": "Arsenal",
+    "away_team": "Manchester City",
+    "score": "5–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,355",
+    "match_report_url": "https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 1,
+    "away_score": 4,
+    "meta_text": "Saturday November 23, 2024 , 15:00 (venue time) Premier League (Matchweek 12) Wolverhampton Wanderers vs. Fulham Historical Head-to-Head Attendance : 26,685 Venue : Craven Cottage, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Michael Oliver (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 20’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "João Gomes",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "João Gomes · 53’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gonçalo Guedes",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Gonçalo Guedes · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ed24aeb8",
+  "url": "https://fbref.com/en/matches/ed24aeb8/Fulham-Wolverhampton-Wanderers-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Wolves",
+    "score": "1–4",
+    "venue": "Craven Cottage",
+    "attendance": "26,685",
+    "match_report_url": "https://fbref.com/en/matches/ed24aeb8/Fulham-Wolverhampton-Wanderers-November-23-2024-Premier-League"
+  }
+}

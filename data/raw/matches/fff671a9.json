@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Tuesday January 14, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Bournemouth vs. Chelsea Historical Head-to-Head Attendance : 39,092 Venue : Stamford Bridge, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Andrew Davies (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Reece James",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Reece James · 90+5’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Justin Kluivert",
+      "minute": 50,
+      "is_penalty": true,
+      "raw_text": "Justin Kluivert (P) · 50’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 68’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "4ba7cbea",
+      "team_name": "Bournemouth",
+      "player": "Justin Kluivert",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "fff671a9",
+  "url": "https://fbref.com/en/matches/fff671a9/Chelsea-Bournemouth-January-14-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-14",
+    "time": "19:30",
+    "home_team": "Chelsea",
+    "away_team": "Bournemouth",
+    "score": "2–2",
+    "venue": "Stamford Bridge",
+    "attendance": "39,092",
+    "match_report_url": "https://fbref.com/en/matches/fff671a9/Chelsea-Bournemouth-January-14-2025-Premier-League"
+  }
+}

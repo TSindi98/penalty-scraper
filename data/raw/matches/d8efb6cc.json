@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Newcastle United",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Monday April 7, 2025 , 20:00 (venue time) Premier League (Matchweek 31) Newcastle United vs. Leicester City Historical Head-to-Head Attendance : 30,403 Venue : King Power Stadium, Leicester Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Blake Antrobus (AR2) · Tony Harrington (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 11’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 34’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d8efb6cc",
+  "url": "https://fbref.com/en/matches/d8efb6cc/Leicester-City-Newcastle-United-April-7-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-07",
+    "time": "20:00",
+    "home_team": "Leicester City",
+    "away_team": "Newcastle",
+    "score": "0–3",
+    "venue": "King Power Stadium",
+    "attendance": "30,403",
+    "match_report_url": "https://fbref.com/en/matches/d8efb6cc/Leicester-City-Newcastle-United-April-7-2025-Premier-League"
+  }
+}

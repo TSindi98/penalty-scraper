@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Fulham",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday November 9, 2024 , 15:00 (venue time) Premier League (Matchweek 11) Fulham vs. Crystal Palace Historical Head-to-Head Attendance : 25,142 Venue : Selhurst Park, London Officials : Michael Salisbury (Referee) · Simon Long (AR1) · Marc Perry (AR2) · Anthony Taylor (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Daichi Kamada",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Daichi Kamada · 76’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 45+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harry Wilson",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Harry Wilson · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d5015ba4",
+  "url": "https://fbref.com/en/matches/d5015ba4/Crystal-Palace-Fulham-November-9-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-09",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Fulham",
+    "score": "0–2",
+    "venue": "Selhurst Park",
+    "attendance": "25,142",
+    "match_report_url": "https://fbref.com/en/matches/d5015ba4/Crystal-Palace-Fulham-November-9-2024-Premier-League"
+  }
+}

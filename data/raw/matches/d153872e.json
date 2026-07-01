@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday October 5, 2024 , 15:00 (venue time) Premier League (Matchweek 7) Bournemouth vs. Leicester City Historical Head-to-Head Attendance : 31,706 Venue : King Power Stadium, Leicester Officials : Darren Bond (Referee) · Constantine Hatzidakis (AR1) · Matthew Wilkes (AR2) · Robert Jones (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Facundo Buonanotte",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Facundo Buonanotte · 16’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d153872e",
+  "url": "https://fbref.com/en/matches/d153872e/Leicester-City-Bournemouth-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "15:00",
+    "home_team": "Leicester City",
+    "away_team": "Bournemouth",
+    "score": "1–0",
+    "venue": "King Power Stadium",
+    "attendance": "31,706",
+    "match_report_url": "https://fbref.com/en/matches/d153872e/Leicester-City-Bournemouth-October-5-2024-Premier-League"
+  }
+}

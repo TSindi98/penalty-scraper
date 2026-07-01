@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Leicester City",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Thursday December 26, 2024 , 20:00 (venue time) Premier League (Matchweek 18) Leicester City vs. Liverpool Historical Head-to-Head Attendance : 60,300 Venue : Anfield, Liverpool Officials : Darren Bond (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · James Bell (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 45+1’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Curtis Jones",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Curtis Jones · 49’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 82’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jordan Ayew",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Jordan Ayew · 6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1f604fbd",
+  "url": "https://fbref.com/en/matches/1f604fbd/Liverpool-Leicester-City-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "20:00",
+    "home_team": "Liverpool",
+    "away_team": "Leicester City",
+    "score": "3–1",
+    "venue": "Anfield",
+    "attendance": "60,300",
+    "match_report_url": "https://fbref.com/en/matches/1f604fbd/Liverpool-Leicester-City-December-26-2024-Premier-League"
+  }
+}

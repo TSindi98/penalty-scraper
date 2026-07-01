@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 5,
+    "meta_text": "Sunday December 29, 2024 , 17:15 (venue time) Premier League (Matchweek 19) Liverpool vs. West Ham United Historical Head-to-Head Attendance : 62,476 Venue : London Stadium, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Andy Madley (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 30,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 30’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 40’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 44’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Trent Alexander-Arnold",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Trent Alexander-Arnold · 54’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Diogo Jota",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Diogo Jota · 84’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c1a66ac0",
+  "url": "https://fbref.com/en/matches/c1a66ac0/West-Ham-United-Liverpool-December-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-29",
+    "time": "17:15",
+    "home_team": "West Ham",
+    "away_team": "Liverpool",
+    "score": "0–5",
+    "venue": "London Stadium",
+    "attendance": "62,476",
+    "match_report_url": "https://fbref.com/en/matches/c1a66ac0/West-Ham-United-Liverpool-December-29-2024-Premier-League"
+  }
+}

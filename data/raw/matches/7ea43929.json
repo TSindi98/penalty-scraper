@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Aston Villa vs. Manchester United Historical Head-to-Head Attendance : 73,839 Venue : Old Trafford, Manchester Officials : Thomas Bramall (Referee) · Eddie Smart (AR1) · Akil Howson (AR2) · Robert Madley (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 76’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Christian Eriksen",
+      "minute": 87,
+      "is_penalty": true,
+      "raw_text": "Christian Eriksen (P) · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Emiliano Martínez",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Emiliano Martínez · 45+1’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "19538871",
+      "team_name": "Manchester Utd",
+      "player": "Christian Eriksen",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "7ea43929",
+  "url": "https://fbref.com/en/matches/7ea43929/Manchester-United-Aston-Villa-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Aston Villa",
+    "score": "2–0",
+    "venue": "Old Trafford",
+    "attendance": "73,839",
+    "match_report_url": "https://fbref.com/en/matches/7ea43929/Manchester-United-Aston-Villa-May-25-2025-Premier-League"
+  }
+}

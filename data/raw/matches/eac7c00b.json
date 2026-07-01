@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Aston Villa",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday August 17, 2024 , 17:30 (venue time) Premier League (Matchweek 1) Aston Villa vs. West Ham United Historical Head-to-Head Attendance : 62,463 Venue : London Stadium, London Officials : Tony Harrington (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Andrew Kitchen (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Lucas Paquetá",
+      "minute": 37,
+      "is_penalty": true,
+      "raw_text": "Lucas Paquetá (P) · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Amadou Onana",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Amadou Onana · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jáder Durán",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 79’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "7c21e445",
+      "team_name": "West Ham",
+      "player": "Lucas Paquetá",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "eac7c00b",
+  "url": "https://fbref.com/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-17",
+    "time": "17:30",
+    "home_team": "West Ham",
+    "away_team": "Aston Villa",
+    "score": "1–2",
+    "venue": "London Stadium",
+    "attendance": "62,463",
+    "match_report_url": "https://fbref.com/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League"
+  }
+}

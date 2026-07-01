@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Everton",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Sunday December 1, 2024 , 13:30 (venue time) Premier League (Matchweek 13) Everton vs. Manchester United Historical Head-to-Head Attendance : 73,817 Venue : Old Trafford, Manchester Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Simon Hooper (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marcus Rashford",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Marcus Rashford · 34’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joshua Zirkzee",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Joshua Zirkzee · 41’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marcus Rashford",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Marcus Rashford · 46’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joshua Zirkzee",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Joshua Zirkzee · 64’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e6eef20f",
+  "url": "https://fbref.com/en/matches/e6eef20f/Manchester-United-Everton-December-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-12-01",
+    "time": "13:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Everton",
+    "score": "4–0",
+    "venue": "Old Trafford",
+    "attendance": "73,817",
+    "match_report_url": "https://fbref.com/en/matches/e6eef20f/Manchester-United-Everton-December-1-2024-Premier-League"
+  }
+}

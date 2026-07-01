@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 1,
+    "away_score": 4,
+    "meta_text": "Saturday February 22, 2025 , 15:00 (venue time) Premier League (Matchweek 26) Tottenham Hotspur vs. Ipswich Town Historical Head-to-Head Attendance : 30,003 Venue : Portman Road Stadium, Ipswich Officials : Tim Robinson (Referee) · Simon Long (AR1) · Steve Meredith (AR2) · David Webb (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omari Hutchinson",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Omari Hutchinson · 36’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 18’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 26’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Djed Spence",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Djed Spence · 77’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 84’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7853cd1a",
+  "url": "https://fbref.com/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-22",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Tottenham",
+    "score": "1–4",
+    "venue": "Portman Road Stadium",
+    "attendance": "30,003",
+    "match_report_url": "https://fbref.com/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday May 11, 2025 , 14:15 (venue time) Premier League (Matchweek 36) Crystal Palace vs. Tottenham Hotspur Historical Head-to-Head Attendance : 60,254 Venue : Tottenham Hotspur Stadium, London Officials : Chris Kavanagh (Referee) · Ian Hussin (AR1) · Richard West (AR2) · Simon Hooper (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Eberechi Eze",
+      "minute": 45,
+      "is_penalty": false,
+      "raw_text": "Eberechi Eze · 45’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Eberechi Eze",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Eberechi Eze · 48’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a442e11f",
+  "url": "https://fbref.com/en/matches/a442e11f/Tottenham-Hotspur-Crystal-Palace-May-11-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-11",
+    "time": "14:15",
+    "home_team": "Tottenham",
+    "away_team": "Crystal Palace",
+    "score": "0–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "60,254",
+    "match_report_url": "https://fbref.com/en/matches/a442e11f/Tottenham-Hotspur-Crystal-Palace-May-11-2025-Premier-League"
+  }
+}

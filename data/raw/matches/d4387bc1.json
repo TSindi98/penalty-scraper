@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Arsenal",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Wednesday February 26, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Arsenal vs. Nottingham Forest Historical Head-to-Head Attendance : 30,200 Venue : The City Ground, Nottingham Officials : Andy Madley (Referee) · Eddie Smart (AR1) · Craig Taylor (AR2) · Anthony Taylor (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "d4387bc1",
+  "url": "https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-26",
+    "time": "19:30",
+    "home_team": "Nottingham",
+    "away_team": "Arsenal",
+    "score": "0–0",
+    "venue": "The City Ground",
+    "attendance": "30,200",
+    "match_report_url": "https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League"
+  }
+}

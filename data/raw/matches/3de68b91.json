@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Tuesday April 22, 2025 , 20:00 (venue time) Premier League (Matchweek 34) Aston Villa vs. Manchester City Historical Head-to-Head Attendance : 51,834 Venue : Etihad Stadium, Manchester Officials : Craig Pawson (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Matt Donohue (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bernardo Silva",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Bernardo Silva · 7’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Nunes",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Matheus Nunes · 90+4’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Marcus Rashford",
+      "minute": 18,
+      "is_penalty": true,
+      "raw_text": "Marcus Rashford (P) · 18’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "8602292d",
+      "team_name": "Aston Villa",
+      "player": "Marcus Rashford",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "3de68b91",
+  "url": "https://fbref.com/en/matches/3de68b91/Manchester-City-Aston-Villa-April-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-22",
+    "time": "20:00",
+    "home_team": "Manchester City",
+    "away_team": "Aston Villa",
+    "score": "2–1",
+    "venue": "Etihad Stadium",
+    "attendance": "51,834",
+    "match_report_url": "https://fbref.com/en/matches/3de68b91/Manchester-City-Aston-Villa-April-22-2025-Premier-League"
+  }
+}

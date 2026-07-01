@@ -1,0 +1,57 @@
+{
+  "player_name": "Alexander Isak",
+  "player_id": "8e92be30",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/8e92be30/matchlogs/2024-2025/summary/Alexander-Isak-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-19",
+      "comp": "UEFA Nations League",
+      "opponent": "azAzerbaijan",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2025-01-25",
+      "comp": "Premier League",
+      "opponent": "Southampton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-23",
+      "comp": "Premier League",
+      "opponent": "Nottingham",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-02",
+      "comp": "FA Cup",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-26",
+      "comp": "Premier League",
+      "opponent": "Ipswich Town",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-05-04",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 48
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Thursday December 26, 2024 , 15:00 (venue time) Premier League (Matchweek 18) Fulham vs. Chelsea Historical Head-to-Head Attendance : 39,687 Venue : Stamford Bridge, London Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Nick Greenhalgh (AR2) · Samuel Allison (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harry Wilson",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Harry Wilson · 82’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "03d6159c",
+  "url": "https://fbref.com/en/matches/03d6159c/Chelsea-Fulham-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "15:00",
+    "home_team": "Chelsea",
+    "away_team": "Fulham",
+    "score": "1–2",
+    "venue": "Stamford Bridge",
+    "attendance": "39,687",
+    "match_report_url": "https://fbref.com/en/matches/03d6159c/Chelsea-Fulham-December-26-2024-Premier-League"
+  }
+}

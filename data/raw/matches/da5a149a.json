@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Brentford",
+    "home_score": 0,
+    "away_score": 4,
+    "meta_text": "Friday February 21, 2025 , 20:00 (venue time) Premier League (Matchweek 26) Brentford vs. Leicester City Historical Head-to-Head Attendance : 31,077 Venue : King Power Stadium, Leicester Officials : Tony Harrington (Referee) · Scott Ledger (AR1) · Sian Massey-Ellis (AR2) · Dean Whitestone (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 27’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Christian Nørgaard",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Christian Nørgaard · 32’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Fabio Carvalho",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Fabio Carvalho · 89’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "da5a149a",
+  "url": "https://fbref.com/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-21",
+    "time": "20:00",
+    "home_team": "Leicester City",
+    "away_team": "Brentford",
+    "score": "0–4",
+    "venue": "King Power Stadium",
+    "attendance": "31,077",
+    "match_report_url": "https://fbref.com/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League"
+  }
+}

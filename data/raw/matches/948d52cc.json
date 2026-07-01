@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday September 21, 2024 , 15:00 (venue time) Premier League (Matchweek 5) Ipswich Town vs. Southampton Historical Head-to-Head Attendance : 31,117 Venue : St Mary's Stadium, Southampton Officials : Samuel Allison (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Anthony Taylor (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Tyler Dibling",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Tyler Dibling · 5’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Sam Morsy",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Sam Morsy · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "948d52cc",
+  "url": "https://fbref.com/en/matches/948d52cc/Southampton-Ipswich-Town-September-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Ipswich Town",
+    "score": "1–1",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,117",
+    "match_report_url": "https://fbref.com/en/matches/948d52cc/Southampton-Ipswich-Town-September-21-2024-Premier-League"
+  }
+}

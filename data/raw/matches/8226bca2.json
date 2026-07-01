@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Leicester City",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday January 26, 2025 , 14:00 (venue time) Premier League (Matchweek 23) Leicester City vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,295 Venue : Tottenham Hotspur Stadium, London Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Andy Madley (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Richarlison",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Richarlison · 33’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 46’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Bilal El Khannouss",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Bilal El Khannouss · 50’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "8226bca2",
+  "url": "https://fbref.com/en/matches/8226bca2/Tottenham-Hotspur-Leicester-City-January-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-26",
+    "time": "14:00",
+    "home_team": "Tottenham",
+    "away_team": "Leicester City",
+    "score": "1–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,295",
+    "match_report_url": "https://fbref.com/en/matches/8226bca2/Tottenham-Hotspur-Leicester-City-January-26-2025-Premier-League"
+  }
+}

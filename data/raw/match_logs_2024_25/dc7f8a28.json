@@ -1,0 +1,41 @@
+{
+  "player_name": "Cole Palmer",
+  "player_id": "dc7f8a28",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/dc7f8a28/matchlogs/2024-2025/summary/Cole-Palmer-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-09-28",
+      "comp": "Premier League",
+      "opponent": "Brighton",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-08",
+      "comp": "Premier League",
+      "opponent": "Tottenham",
+      "venue": "Away",
+      "pens_att": 2,
+      "pens_made": 2
+    },
+    {
+      "date": "2025-03-09",
+      "comp": "Premier League",
+      "opponent": "Leicester City",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2025-05-04",
+      "comp": "Premier League",
+      "opponent": "Liverpool",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 60
+}

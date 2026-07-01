@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday April 26, 2025 , 12:30 (venue time) Premier League (Matchweek 34) Everton vs. Chelsea Historical Head-to-Head Attendance : 39,894 Venue : Stamford Bridge, London Officials : Chris Kavanagh (Referee) · James Mainwaring (AR1) · Richard West (AR2) · Gavin Ward (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 27’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "06c5f0ab",
+  "url": "https://fbref.com/en/matches/06c5f0ab/Chelsea-Everton-April-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-26",
+    "time": "12:30",
+    "home_team": "Chelsea",
+    "away_team": "Everton",
+    "score": "1–0",
+    "venue": "Stamford Bridge",
+    "attendance": "39,894",
+    "match_report_url": "https://fbref.com/en/matches/06c5f0ab/Chelsea-Everton-April-26-2025-Premier-League"
+  }
+}

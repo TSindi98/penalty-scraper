@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday March 8, 2025 , 15:00 (venue time) Premier League (Matchweek 28) Southampton vs. Liverpool Historical Head-to-Head Attendance : 60,399 Venue : Anfield, Liverpool Officials : Lewis Smith (Referee) · Matthew Wilkes (AR1) · Marc Perry (AR2) · Tony Harrington (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Darwin Núñez",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Darwin Núñez · 51’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 54,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 54’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 88,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 88’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "William Smallbone",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "William Smallbone · 45+1’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 2,
+      "pens_att": 2
+    }
+  ],
+  "match_id": "049341ab",
+  "url": "https://fbref.com/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-08",
+    "time": "15:00",
+    "home_team": "Liverpool",
+    "away_team": "Southampton",
+    "score": "3–1",
+    "venue": "Anfield",
+    "attendance": "60,399",
+    "match_report_url": "https://fbref.com/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League"
+  }
+}

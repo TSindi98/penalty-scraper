@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday January 4, 2025 , 17:30 (venue time) Premier League (Matchweek 20) Arsenal vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,714 Venue : The American Express Stadium, Brighton & Hove Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Barrott (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "João Pedro",
+      "minute": 61,
+      "is_penalty": true,
+      "raw_text": "João Pedro (P) · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ethan Nwaneri",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Ethan Nwaneri · 16’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "João Pedro",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "52186da4",
+  "url": "https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-04",
+    "time": "17:30",
+    "home_team": "Brighton",
+    "away_team": "Arsenal",
+    "score": "1–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,714",
+    "match_report_url": "https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League"
+  }
+}

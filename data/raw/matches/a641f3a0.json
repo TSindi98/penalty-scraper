@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Nottingham Forest",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday August 24, 2024 , 15:00 (venue time) Premier League (Matchweek 2) Nottingham Forest vs. Southampton Historical Head-to-Head Attendance : 31,150 Venue : St Mary's Stadium, Southampton Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Simon Long (AR2) · John Busby (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Gibbs-White",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Morgan Gibbs-White · 70’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a641f3a0",
+  "url": "https://fbref.com/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Nottingham",
+    "score": "0–1",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,150",
+    "match_report_url": "https://fbref.com/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League"
+  }
+}

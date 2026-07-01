@@ -1,0 +1,33 @@
+{
+  "player_name": "Jean-Philippe Mateta",
+  "player_id": "50e6dc35",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/50e6dc35/matchlogs/2024-2025/summary/Jean-Philippe-Mateta-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-09-14",
+      "comp": "Premier League",
+      "opponent": "Leicester City",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-18",
+      "comp": "Premier League",
+      "opponent": "West Ham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-26",
+      "comp": "FA Cup",
+      "opponent": "Aston Villa",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 47
+}

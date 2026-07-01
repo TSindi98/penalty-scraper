@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Sunday October 6, 2024 , 16:30 (venue time) Premier League (Matchweek 7) Tottenham Hotspur vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,487 Venue : The American Express Stadium, Brighton & Hove Officials : David Coote (Referee) · Tim Wood (AR1) · Craig Taylor (AR2) · Andy Madley (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yankuba Minteh",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Yankuba Minteh · 48’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Georginio Rutter",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Georginio Rutter · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 66,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 66’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 23’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 37’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "dac142c7",
+  "url": "https://fbref.com/en/matches/dac142c7/Brighton-and-Hove-Albion-Tottenham-Hotspur-October-6-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-06",
+    "time": "16:30",
+    "home_team": "Brighton",
+    "away_team": "Tottenham",
+    "score": "3–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,487",
+    "match_report_url": "https://fbref.com/en/matches/dac142c7/Brighton-and-Hove-Albion-Tottenham-Hotspur-October-6-2024-Premier-League"
+  }
+}

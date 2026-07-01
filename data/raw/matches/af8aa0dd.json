@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Arsenal",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday February 15, 2025 , 12:30 (venue time) Premier League (Matchweek 25) Arsenal vs. Leicester City Historical Head-to-Head Attendance : 31,968 Venue : King Power Stadium, Leicester Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Oliver Langford (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mikel Merino",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Mikel Merino · 81’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mikel Merino",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Mikel Merino · 87’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "af8aa0dd",
+  "url": "https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "12:30",
+    "home_team": "Leicester City",
+    "away_team": "Arsenal",
+    "score": "0–2",
+    "venue": "King Power Stadium",
+    "attendance": "31,968",
+    "match_report_url": "https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League"
+  }
+}

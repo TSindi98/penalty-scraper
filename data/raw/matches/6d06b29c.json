@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Southampton",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday December 29, 2024 , 15:00 (venue time) Premier League (Matchweek 19) Southampton vs. Crystal Palace Historical Head-to-Head Attendance : 25,130 Venue : Selhurst Park, London Officials : Michael Salisbury (Referee) · Scott Ledger (AR1) · Derek Eaton (AR2) · Darren Bond (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Trevoh Chalobah",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Trevoh Chalobah · 31’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Eberechi Eze",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Eberechi Eze · 52’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tyler Dibling",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Tyler Dibling · 14’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "6d06b29c",
+  "url": "https://fbref.com/en/matches/6d06b29c/Crystal-Palace-Southampton-December-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "19",
+    "date": "2024-12-29",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Southampton",
+    "score": "2–1",
+    "venue": "Selhurst Park",
+    "attendance": "25,130",
+    "match_report_url": "https://fbref.com/en/matches/6d06b29c/Crystal-Palace-Southampton-December-29-2024-Premier-League"
+  }
+}

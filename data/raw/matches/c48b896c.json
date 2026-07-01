@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 0,
+    "away_score": 4,
+    "meta_text": "Saturday November 23, 2024 , 17:30 (venue time) Premier League (Matchweek 12) Tottenham Hotspur vs. Manchester City Historical Head-to-Head Attendance : 52,478 Venue : Etihad Stadium, Manchester Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Craig Pawson (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 13’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 20’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pedro Porro",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Pedro Porro · 52’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c48b896c",
+  "url": "https://fbref.com/en/matches/c48b896c/Manchester-City-Tottenham-Hotspur-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "17:30",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0–4",
+    "venue": "Etihad Stadium",
+    "attendance": "52,478",
+    "match_report_url": "https://fbref.com/en/matches/c48b896c/Manchester-City-Tottenham-Hotspur-November-23-2024-Premier-League"
+  }
+}

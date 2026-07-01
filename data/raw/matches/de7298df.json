@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Newcastle United",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday September 21, 2024 , 15:00 (venue time) Premier League (Matchweek 5) Newcastle United vs. Fulham Historical Head-to-Head Attendance : 25,700 Venue : Craven Cottage, London Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Leigh Doughty (4th) · Robert Jones (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 5’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Emile Smith Rowe",
+      "minute": 22,
+      "is_penalty": false,
+      "raw_text": "Emile Smith Rowe · 22’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Reiss Nelson",
+      "minute": 92,
+      "is_penalty": false,
+      "raw_text": "Reiss Nelson · 90+2’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 46’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "de7298df",
+  "url": "https://fbref.com/en/matches/de7298df/Fulham-Newcastle-United-September-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Newcastle",
+    "score": "3–1",
+    "venue": "Craven Cottage",
+    "attendance": "25,700",
+    "match_report_url": "https://fbref.com/en/matches/de7298df/Fulham-Newcastle-United-September-21-2024-Premier-League"
+  }
+}

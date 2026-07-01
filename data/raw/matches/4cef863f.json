@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Manchester United",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday January 5, 2025 , 16:30 (venue time) Premier League (Matchweek 20) North West Derby History Attendance : 60,275 Venue : Anfield, Liverpool Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · Lee Betts (AR2) · Craig Pawson (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 59’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 70,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Lisandro Martínez",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Lisandro Martínez · 52’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 80’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "4cef863f",
+  "url": "https://fbref.com/en/matches/4cef863f/North-West-Derby-Liverpool-Manchester-United-January-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "20",
+    "date": "2025-01-05",
+    "time": "16:30",
+    "home_team": "Liverpool",
+    "away_team": "Manchester Utd",
+    "score": "2–2",
+    "venue": "Anfield",
+    "attendance": "60,275",
+    "match_report_url": "https://fbref.com/en/matches/4cef863f/North-West-Derby-Liverpool-Manchester-United-January-5-2025-Premier-League"
+  }
+}

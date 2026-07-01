@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Newcastle United",
+    "home_score": 4,
+    "away_score": 2,
+    "meta_text": "Saturday December 7, 2024 , 15:00 (venue time) Premier League (Matchweek 15) Newcastle United vs. Brentford Historical Head-to-Head Attendance : 17,078 Venue : Gtech Community Stadium, Brentford Officials : Simon Hooper (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Steve Martin (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 8’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nathan Collins",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Nathan Collins · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 11’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1042592d",
+  "url": "https://fbref.com/en/matches/1042592d/Brentford-Newcastle-United-December-7-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "15",
+    "date": "2024-12-07",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Newcastle",
+    "score": "4–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,078",
+    "match_report_url": "https://fbref.com/en/matches/1042592d/Brentford-Newcastle-United-December-7-2024-Premier-League"
+  }
+}

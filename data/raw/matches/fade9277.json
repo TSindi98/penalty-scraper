@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Tuesday February 25, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Bournemouth vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,138 Venue : The American Express Stadium, Brighton & Hove Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Farai Hallam (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "João Pedro",
+      "minute": 12,
+      "is_penalty": true,
+      "raw_text": "João Pedro (P) · 12’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 75’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 61’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "João Pedro",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "fade9277",
+  "url": "https://fbref.com/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-25",
+    "time": "19:30",
+    "home_team": "Brighton",
+    "away_team": "Bournemouth",
+    "score": "2–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,138",
+    "match_report_url": "https://fbref.com/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League"
+  }
+}

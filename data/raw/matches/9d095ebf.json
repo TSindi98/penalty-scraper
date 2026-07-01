@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Bournemouth",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Saturday April 19, 2025 , 15:00 (venue time) Premier League (Matchweek 33) Bournemouth vs. Crystal Palace Historical Head-to-Head Attendance : 25,185 Venue : Selhurst Park, London Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Andrew Davies (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "yellow_red_card",
+      "player": "Chris Richards",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Chris Richards · 45+1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9d095ebf",
+  "url": "https://fbref.com/en/matches/9d095ebf/Crystal-Palace-Bournemouth-April-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-19",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Bournemouth",
+    "score": "0–0",
+    "venue": "Selhurst Park",
+    "attendance": "25,185",
+    "match_report_url": "https://fbref.com/en/matches/9d095ebf/Crystal-Palace-Bournemouth-April-19-2025-Premier-League"
+  }
+}

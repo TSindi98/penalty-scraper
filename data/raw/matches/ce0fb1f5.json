@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Chelsea",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Saturday September 21, 2024 , 12:30 (venue time) Premier League (Matchweek 5) Chelsea vs. West Ham United Historical Head-to-Head Attendance : 62,473 Venue : London Stadium, London Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Wade Smith  (AR2) · Craig Pawson (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 18’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 47’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ce0fb1f5",
+  "url": "https://fbref.com/en/matches/ce0fb1f5/West-Ham-United-Chelsea-September-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-21",
+    "time": "12:30",
+    "home_team": "West Ham",
+    "away_team": "Chelsea",
+    "score": "0–3",
+    "venue": "London Stadium",
+    "attendance": "62,473",
+    "match_report_url": "https://fbref.com/en/matches/ce0fb1f5/West-Ham-United-Chelsea-September-21-2024-Premier-League"
+  }
+}

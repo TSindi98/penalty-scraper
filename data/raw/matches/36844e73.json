@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Everton",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Everton vs. Newcastle United Historical Head-to-Head Attendance : 52,221 Venue : St James' Park, Newcastle upon Tyne Officials : Tony Harrington (Referee) · Dan Cook (AR1) · Samuel Lewis (AR2) · Tom Nield (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Carlos Alcaraz",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Carlos Alcaraz · 65’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "36844e73",
+  "url": "https://fbref.com/en/matches/36844e73/Newcastle-United-Everton-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Newcastle",
+    "away_team": "Everton",
+    "score": "0–1",
+    "venue": "St James' Park",
+    "attendance": "52,221",
+    "match_report_url": "https://fbref.com/en/matches/36844e73/Newcastle-United-Everton-May-25-2025-Premier-League"
+  }
+}

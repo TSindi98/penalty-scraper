@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Arsenal",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday August 24, 2024 , 17:30 (venue time) Premier League (Matchweek 2) Arsenal vs. Aston Villa Historical Head-to-Head Attendance : 41,587 Venue : Villa Park, Birmingham Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · Dan Cook (AR2) · Darren England (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Leandro Trossard",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Leandro Trossard · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Thomas Partey",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Thomas Partey · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4692171a",
+  "url": "https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "2",
+    "date": "2024-08-24",
+    "time": "17:30",
+    "home_team": "Aston Villa",
+    "away_team": "Arsenal",
+    "score": "0–2",
+    "venue": "Villa Park",
+    "attendance": "41,587",
+    "match_report_url": "https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League"
+  }
+}

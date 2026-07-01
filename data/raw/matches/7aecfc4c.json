@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Tuesday February 25, 2025 , 19:30 (venue time) Premier League (Matchweek 27) Fulham vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 28,708 Venue : Molineux Stadium, Wolverhampton Officials : Peter Bankes (Referee) · Nicholas Hopton (AR1) · Nick Greenhalgh (AR2) · Tony Harrington (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "João Gomes",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "João Gomes · 18’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ryan Sessegnon",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Ryan Sessegnon · 1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 47’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7aecfc4c",
+  "url": "https://fbref.com/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "27",
+    "date": "2025-02-25",
+    "time": "19:30",
+    "home_team": "Wolves",
+    "away_team": "Fulham",
+    "score": "1–2",
+    "venue": "Molineux Stadium",
+    "attendance": "28,708",
+    "match_report_url": "https://fbref.com/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League"
+  }
+}

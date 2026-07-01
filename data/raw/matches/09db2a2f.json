@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Manchester United",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Sunday February 16, 2025 , 16:30 (venue time) Premier League (Matchweek 25) Manchester United vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,383 Venue : Tottenham Hotspur Stadium, London Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Michael Salisbury (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Maddison",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "James Maddison · 13’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "09db2a2f",
+  "url": "https://fbref.com/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-16",
+    "time": "16:30",
+    "home_team": "Tottenham",
+    "away_team": "Manchester Utd",
+    "score": "1–0",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,383",
+    "match_report_url": "https://fbref.com/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League"
+  }
+}

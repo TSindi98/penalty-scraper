@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Saturday January 18, 2025 , 15:00 (venue time) Premier League (Matchweek 22) Liverpool vs. Brentford Historical Head-to-Head Attendance : 17,215 Venue : Gtech Community Stadium, Brentford Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Farai Hallam (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Darwin Núñez",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Darwin Núñez · 90+1’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Darwin Núñez",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Darwin Núñez · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5e8445c1",
+  "url": "https://fbref.com/en/matches/5e8445c1/Brentford-Liverpool-January-18-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-18",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Liverpool",
+    "score": "0–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,215",
+    "match_report_url": "https://fbref.com/en/matches/5e8445c1/Brentford-Liverpool-January-18-2025-Premier-League"
+  }
+}

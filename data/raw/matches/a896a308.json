@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Brentford",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Thursday May 1, 2025 , 19:30 (venue time) Premier League (Matchweek 34) Brentford vs. Nottingham Forest Historical Head-to-Head Attendance : 29,040 Venue : The City Ground, Nottingham Officials : Darren England (Referee) · Ian Hussin (AR1) · Akil Howson (AR2) · Leigh Doughty (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 44’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 70’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a896a308",
+  "url": "https://fbref.com/en/matches/a896a308/Nottingham-Forest-Brentford-May-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-05-01",
+    "time": "19:30",
+    "home_team": "Nottingham",
+    "away_team": "Brentford",
+    "score": "0–2",
+    "venue": "The City Ground",
+    "attendance": "29,040",
+    "match_report_url": "https://fbref.com/en/matches/a896a308/Nottingham-Forest-Brentford-May-1-2025-Premier-League"
+  }
+}

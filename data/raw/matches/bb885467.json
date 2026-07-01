@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday November 23, 2024 , 12:30 (venue time) Premier League (Matchweek 12) Chelsea vs. Leicester City Historical Head-to-Head Attendance : 31,880 Venue : King Power Stadium, Leicester Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Mark Scholes (AR2) · Leigh Doughty (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Jordan Ayew",
+      "minute": 95,
+      "is_penalty": true,
+      "raw_text": "Jordan Ayew (P) · 90+5’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Enzo Fernández",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Enzo Fernández · 75’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "a2d435b3",
+      "team_name": "Leicester City",
+      "player": "Jordan Ayew",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "bb885467",
+  "url": "https://fbref.com/en/matches/bb885467/Leicester-City-Chelsea-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "12:30",
+    "home_team": "Leicester City",
+    "away_team": "Chelsea",
+    "score": "1–2",
+    "venue": "King Power Stadium",
+    "attendance": "31,880",
+    "match_report_url": "https://fbref.com/en/matches/bb885467/Leicester-City-Chelsea-November-23-2024-Premier-League"
+  }
+}

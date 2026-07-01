@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Thursday December 26, 2024 , 12:30 (venue time) Premier League (Matchweek 18) Everton vs. Manchester City Historical Head-to-Head Attendance : 55,527 Venue : Etihad Stadium, Manchester Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · David Webb (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bernardo Silva",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Bernardo Silva · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 36’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b8fd03ef",
+      "team_name": "Manchester City",
+      "player": "Erling Haaland",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "87f2d794",
+  "url": "https://fbref.com/en/matches/87f2d794/Manchester-City-Everton-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "12:30",
+    "home_team": "Manchester City",
+    "away_team": "Everton",
+    "score": "1–1",
+    "venue": "Etihad Stadium",
+    "attendance": "55,527",
+    "match_report_url": "https://fbref.com/en/matches/87f2d794/Manchester-City-Everton-December-26-2024-Premier-League"
+  }
+}

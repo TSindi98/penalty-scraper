@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Monday December 16, 2024 , 20:00 (venue time) Premier League (Matchweek 16) West Ham United vs. Bournemouth Historical Head-to-Head Attendance : 11,204 Venue : Vitality Stadium, Bournemouth Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · Matt Donohue (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Enes Ünal",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Enes Ünal · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Lucas Paquetá",
+      "minute": 87,
+      "is_penalty": true,
+      "raw_text": "Lucas Paquetá (P) · 87’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "7c21e445",
+      "team_name": "West Ham",
+      "player": "Lucas Paquetá",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "49cd674b",
+  "url": "https://fbref.com/en/matches/49cd674b/Bournemouth-West-Ham-United-December-16-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-16",
+    "time": "20:00",
+    "home_team": "Bournemouth",
+    "away_team": "West Ham",
+    "score": "1–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,204",
+    "match_report_url": "https://fbref.com/en/matches/49cd674b/Bournemouth-West-Ham-United-December-16-2024-Premier-League"
+  }
+}

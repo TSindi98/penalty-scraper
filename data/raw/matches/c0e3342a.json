@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Saturday August 17, 2024 , 15:00 (venue time) Premier League (Matchweek 1) Wolverhampton Wanderers vs. Arsenal Historical Head-to-Head Attendance : 60,261 Venue : Emirates Stadium, London Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Nick Greenhalgh (AR2) · Gavin Ward (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 25’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bukayo Saka",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Bukayo Saka · 74’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c0e3342a",
+  "url": "https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-17",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "Wolves",
+    "score": "2–0",
+    "venue": "Emirates Stadium",
+    "attendance": "60,261",
+    "match_report_url": "https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League"
+  }
+}

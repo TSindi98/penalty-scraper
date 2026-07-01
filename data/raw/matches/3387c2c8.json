@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday September 1, 2024 , 13:30 (venue time) Premier League (Matchweek 3) Crystal Palace vs. Chelsea Historical Head-to-Head Attendance : 39,298 Venue : Stamford Bridge, London Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Steve Meredith (AR2) · Peter Bankes (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 25’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Eberechi Eze",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "Eberechi Eze · 53’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "3387c2c8",
+  "url": "https://fbref.com/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-09-01",
+    "time": "13:30",
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "score": "1–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,298",
+    "match_report_url": "https://fbref.com/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday December 1, 2024 , 13:30 (venue time) Premier League (Matchweek 13) Fulham vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,141 Venue : Tottenham Hotspur Stadium, London Officials : Darren Bond (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Samuel Barrott (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 54’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tom Cairney",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Tom Cairney · 67’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Tom Cairney",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Tom Cairney · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9aaa6ed5",
+  "url": "https://fbref.com/en/matches/9aaa6ed5/Tottenham-Hotspur-Fulham-December-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-12-01",
+    "time": "13:30",
+    "home_team": "Tottenham",
+    "away_team": "Fulham",
+    "score": "1–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,141",
+    "match_report_url": "https://fbref.com/en/matches/9aaa6ed5/Tottenham-Hotspur-Fulham-December-1-2024-Premier-League"
+  }
+}

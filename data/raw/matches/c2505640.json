@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "West Ham United",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Saturday November 2, 2024 , 15:00 (venue time) Premier League (Matchweek 10) West Ham United vs. Nottingham Forest Historical Head-to-Head Attendance : 30,112 Venue : The City Ground, Nottingham Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Craig Pawson (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 27’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Callum Hudson-Odoi",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Callum Hudson-Odoi · 65’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ola Aina",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Ola Aina · 78’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Edson Álvarez",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Edson Álvarez · 45+2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c2505640",
+  "url": "https://fbref.com/en/matches/c2505640/Nottingham-Forest-West-Ham-United-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "West Ham",
+    "score": "3–0",
+    "venue": "The City Ground",
+    "attendance": "30,112",
+    "match_report_url": "https://fbref.com/en/matches/c2505640/Nottingham-Forest-West-Ham-United-November-2-2024-Premier-League"
+  }
+}

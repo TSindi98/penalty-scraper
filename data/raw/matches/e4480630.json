@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 5,
+    "meta_text": "Wednesday December 4, 2024 , 19:30 (venue time) Premier League (Matchweek 14) Chelsea vs. Southampton Historical Head-to-Head Attendance : 31,193 Venue : St Mary's Stadium, Southampton Officials : Tony Harrington (Referee) · Matthew Wilkes (AR1) · Steve Meredith (AR2) · Simon Hooper (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joe Aribo",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Joe Aribo · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Jack Stephens",
+      "minute": 39,
+      "is_penalty": false,
+      "raw_text": "Jack Stephens · 39’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Axel Disasi",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Axel Disasi · 7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Christopher Nkunku",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Christopher Nkunku · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Noni Madueke",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Noni Madueke · 34’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 76’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jadon Sancho",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Jadon Sancho · 87’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e4480630",
+  "url": "https://fbref.com/en/matches/e4480630/Southampton-Chelsea-December-4-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-04",
+    "time": "19:30",
+    "home_team": "Southampton",
+    "away_team": "Chelsea",
+    "score": "1–5",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,193",
+    "match_report_url": "https://fbref.com/en/matches/e4480630/Southampton-Chelsea-December-4-2024-Premier-League"
+  }
+}

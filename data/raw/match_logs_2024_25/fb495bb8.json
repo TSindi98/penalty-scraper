@@ -1,0 +1,17 @@
+{
+  "player_name": "Matt O'Riley",
+  "player_id": "fb495bb8",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/fb495bb8/matchlogs/2024-2025/summary/Matt-ORiley-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2025-05-25",
+      "comp": "Premier League",
+      "opponent": "Tottenham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 33
+}

@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday October 26, 2024 , 15:00 (venue time) Premier League (Matchweek 9) Wolverhampton Wanderers vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,840 Venue : The American Express Stadium, Brighton & Hove Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Gavin Ward (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 45,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 45’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Evan Ferguson",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Evan Ferguson · 85’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rayan Aït-Nouri",
+      "minute": 88,
+      "is_penalty": false,
+      "raw_text": "Rayan Aït-Nouri · 88’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "9487e056",
+  "url": "https://fbref.com/en/matches/9487e056/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-October-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-26",
+    "time": "15:00",
+    "home_team": "Brighton",
+    "away_team": "Wolves",
+    "score": "2–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,840",
+    "match_report_url": "https://fbref.com/en/matches/9487e056/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-October-26-2024-Premier-League"
+  }
+}

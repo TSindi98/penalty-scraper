@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday August 31, 2024 , 15:00 (venue time) Premier League (Matchweek 3) Fulham vs. Ipswich Town Historical Head-to-Head Attendance : 29,517 Venue : Portman Road Stadium, Ipswich Officials : Lewis Smith (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Tim Robinson (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Adama Traoré",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Adama Traoré · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "cec85838",
+  "url": "https://fbref.com/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-08-31",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Fulham",
+    "score": "1–1",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,517",
+    "match_report_url": "https://fbref.com/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League"
+  }
+}

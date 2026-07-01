@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday December 14, 2024 , 17:30 (venue time) Premier League (Matchweek 16) Aston Villa vs. Nottingham Forest Historical Head-to-Head Attendance : 30,117 Venue : The City Ground, Nottingham Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Darren Bond (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nikola Milenković",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Nikola Milenković · 87’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Anthony Elanga",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Anthony Elanga · 90+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jáder Durán",
+      "minute": 63,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 63’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "26926fd3",
+  "url": "https://fbref.com/en/matches/26926fd3/Nottingham-Forest-Aston-Villa-December-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-14",
+    "time": "17:30",
+    "home_team": "Nottingham",
+    "away_team": "Aston Villa",
+    "score": "2–1",
+    "venue": "The City Ground",
+    "attendance": "30,117",
+    "match_report_url": "https://fbref.com/en/matches/26926fd3/Nottingham-Forest-Aston-Villa-December-14-2024-Premier-League"
+  }
+}

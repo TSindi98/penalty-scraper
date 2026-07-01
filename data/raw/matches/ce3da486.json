@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Bournemouth",
+    "home_score": 1,
+    "away_score": 3,
+    "meta_text": "Saturday February 15, 2025 , 15:00 (venue time) Premier League (Matchweek 25) Bournemouth vs. Southampton Historical Head-to-Head Attendance : 31,037 Venue : St Mary's Stadium, Southampton Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Richard West (AR2) · Chris Kavanagh (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kamaldeen Sulemana",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Kamaldeen Sulemana · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dango Ouattara",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Dango Ouattara · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ryan Christie",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Ryan Christie · 16’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marcus Tavernier",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Marcus Tavernier · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ce3da486",
+  "url": "https://fbref.com/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Bournemouth",
+    "score": "1–3",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,037",
+    "match_report_url": "https://fbref.com/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "player_name": "Justin Kluivert",
+  "player_id": "4c3a6744",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/4c3a6744/matchlogs/2024-2025/summary/Justin-Kluivert-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-10-19",
+      "comp": "Premier League",
+      "opponent": "Arsenal",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-30",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Away",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "date": "2024-12-22",
+      "comp": "Premier League",
+      "opponent": "Manchester Utd",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-14",
+      "comp": "Premier League",
+      "opponent": "Chelsea",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ],
+  "total_matches_logged": 48
+}

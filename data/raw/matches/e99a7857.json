@@ -1,0 +1,32 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Newcastle United",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Saturday October 5, 2024 , 17:30 (venue time) Premier League (Matchweek 7) Newcastle United vs. Everton Historical Head-to-Head Attendance : 39,265 Venue : Goodison Park, Liverpool Officials : Craig Pawson (Referee) · Marc Perry (AR1) · Mark Scholes (AR2) · Tim Robinson (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [
+    {
+      "team_id": "b2b47a98",
+      "team_name": "Newcastle",
+      "player": "Anthony Gordon",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "e99a7857",
+  "url": "https://fbref.com/en/matches/e99a7857/Everton-Newcastle-United-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "17:30",
+    "home_team": "Everton",
+    "away_team": "Newcastle",
+    "score": "0–0",
+    "venue": "Goodison Park",
+    "attendance": "39,265",
+    "match_report_url": "https://fbref.com/en/matches/e99a7857/Everton-Newcastle-United-October-5-2024-Premier-League"
+  }
+}

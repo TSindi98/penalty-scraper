@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Newcastle United",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Sunday October 27, 2024 , 14:00 (venue time) Premier League (Matchweek 9) Newcastle United vs. Chelsea Historical Head-to-Head Attendance : 39,526 Venue : Stamford Bridge, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Robert Jones (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 18’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "33571b04",
+  "url": "https://fbref.com/en/matches/33571b04/Chelsea-Newcastle-United-October-27-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-27",
+    "time": "14:00",
+    "home_team": "Chelsea",
+    "away_team": "Newcastle",
+    "score": "2–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,526",
+    "match_report_url": "https://fbref.com/en/matches/33571b04/Chelsea-Newcastle-United-October-27-2024-Premier-League"
+  }
+}

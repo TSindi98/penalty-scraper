@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Saturday February 1, 2025 , 17:30 (venue time) Premier League (Matchweek 24) Aston Villa vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,385 Venue : Molineux Stadium, Wolverhampton Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Tim Robinson (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jean-Ricner Bellegarde",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Jean-Ricner Bellegarde · 12’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 97,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 90+7’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "693ab427",
+  "url": "https://fbref.com/en/matches/693ab427/Wolverhampton-Wanderers-Aston-Villa-February-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-01",
+    "time": "17:30",
+    "home_team": "Wolves",
+    "away_team": "Aston Villa",
+    "score": "2–0",
+    "venue": "Molineux Stadium",
+    "attendance": "31,385",
+    "match_report_url": "https://fbref.com/en/matches/693ab427/Wolverhampton-Wanderers-Aston-Villa-February-1-2025-Premier-League"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Ipswich Town",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Saturday April 26, 2025 , 15:00 (venue time) Premier League (Matchweek 34) Ipswich Town vs. Newcastle United Historical Head-to-Head Attendance : 52,171 Venue : St James' Park, Newcastle upon Tyne Officials : Michael Salisbury (Referee) · Neil Davies (AR1) · Derek Eaton (AR2) · Jeremy Simpson (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Alexander Isak",
+      "minute": 49,
+      "is_penalty": true,
+      "raw_text": "Alexander Isak (P) · 45+4’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dan Burn",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Dan Burn · 56’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "William Osula",
+      "minute": 80,
+      "is_penalty": false,
+      "raw_text": "William Osula · 80’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Ben Johnson",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Ben Johnson · 37’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "b2b47a98",
+      "team_name": "Newcastle",
+      "player": "Alexander Isak",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "3402b61b",
+  "url": "https://fbref.com/en/matches/3402b61b/Newcastle-United-Ipswich-Town-April-26-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "34",
+    "date": "2025-04-26",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Ipswich Town",
+    "score": "3–0",
+    "venue": "St James' Park",
+    "attendance": "52,171",
+    "match_report_url": "https://fbref.com/en/matches/3402b61b/Newcastle-United-Ipswich-Town-April-26-2025-Premier-League"
+  }
+}

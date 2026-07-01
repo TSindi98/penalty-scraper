@@ -1,0 +1,57 @@
+{
+  "player_name": "Bryan Mbeumo",
+  "player_id": "6afaebf2",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/6afaebf2/matchlogs/2024-2025/summary/Bryan-Mbeumo-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-10-05",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-10-26",
+      "comp": "Premier League",
+      "opponent": "Ipswich Town",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-04",
+      "comp": "Premier League",
+      "opponent": "Southampton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-26",
+      "comp": "Premier League",
+      "opponent": "Crystal Palace",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-02",
+      "comp": "Premier League",
+      "opponent": "Newcastle",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-05-18",
+      "comp": "Premier League",
+      "opponent": "Fulham",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 48
+}

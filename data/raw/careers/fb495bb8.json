@@ -1,0 +1,119 @@
+{
+  "player_name": "Matt O'Riley",
+  "player_id": "fb495bb8",
+  "url": "https://fbref.com/en/players/fb495bb8/Matt-ORiley",
+  "seasons": [
+    {
+      "season": "2017-2018",
+      "team": "Fulham",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Fulham",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018-2019",
+      "team": "Fulham",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2019-2020",
+      "team": "Fulham",
+      "comp": "Jr.PL2 — Div. 2",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "Fulham",
+      "comp": "2.Championship",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "MK Dons",
+      "comp": "3.League One",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "MK Dons",
+      "comp": "3.League One",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2021-2022",
+      "team": "Celtic",
+      "comp": "1.Premiership",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2022-2023",
+      "team": "Celtic",
+      "comp": "1.Premiership",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2023-2024",
+      "team": "Celtic",
+      "comp": "1.Premiership",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 2
+    },
+    {
+      "season": "2024-2025",
+      "team": "Celtic",
+      "comp": "1.Premiership",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2024-2025",
+      "team": "Brighton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2025-2026",
+      "team": "Brighton",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2025-2026",
+      "team": "Marseille",
+      "comp": "1.Ligue 1",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday November 30, 2024 , 15:00 (venue time) Premier League (Matchweek 13) Newcastle United vs. Crystal Palace Historical Head-to-Head Attendance : 25,101 Venue : Selhurst Park, London Officials : Darren England (Referee) · Adrian Holmes (AR1) · Andrew Fox (AR2) · Dean Whitestone (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Daniel Muñoz",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Daniel Muñoz · 90+4’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Marc Guéhi",
+      "minute": 53,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi (OG) · 53’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a4f03af0",
+  "url": "https://fbref.com/en/matches/a4f03af0/Crystal-Palace-Newcastle-United-November-30-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-11-30",
+    "time": "15:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Newcastle",
+    "score": "1–1",
+    "venue": "Selhurst Park",
+    "attendance": "25,101",
+    "match_report_url": "https://fbref.com/en/matches/a4f03af0/Crystal-Palace-Newcastle-United-November-30-2024-Premier-League"
+  }
+}

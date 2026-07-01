@@ -1,0 +1,33 @@
+{
+  "player_name": "Jamie Vardy",
+  "player_id": "45963054",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/45963054/matchlogs/2024-2025/summary/Jamie-Vardy-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-10-19",
+      "comp": "Premier League",
+      "opponent": "Southampton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-11",
+      "comp": "FA Cup",
+      "opponent": "QPR",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-26",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 36
+}

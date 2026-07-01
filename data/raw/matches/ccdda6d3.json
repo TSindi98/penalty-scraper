@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday February 22, 2025 , 15:00 (venue time) Premier League (Matchweek 26) Wolverhampton Wanderers vs. Bournemouth Historical Head-to-Head Attendance : 11,206 Venue : Vitality Stadium, Bournemouth Officials : Michael Salisbury (Referee) · Wade Smith  (AR1) · Adrian Holmes (AR2) · James Linington (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Illia Zabarnyi",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Illia Zabarnyi · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 36’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ccdda6d3",
+  "url": "https://fbref.com/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-22",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Wolves",
+    "score": "0–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,206",
+    "match_report_url": "https://fbref.com/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League"
+  }
+}

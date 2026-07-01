@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 4,
+    "away_score": 2,
+    "meta_text": "Saturday April 19, 2025 , 15:00 (venue time) Premier League (Matchweek 33) Brighton & Hove Albion vs. Brentford Historical Head-to-Head Attendance : 17,083 Venue : Gtech Community Stadium, Brentford Officials : Tim Robinson (Referee) · Eddie Smart (AR1) · Steve Meredith (AR2) · John Busby (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 9’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 48’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Christian Nørgaard",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Christian Nørgaard · 90+5’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Danny Welbeck",
+      "minute": 48,
+      "is_penalty": false,
+      "raw_text": "Danny Welbeck · 45+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "João Pedro",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "João Pedro · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 81’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "36afccb6",
+  "url": "https://fbref.com/en/matches/36afccb6/Brentford-Brighton-and-Hove-Albion-April-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-19",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Brighton",
+    "score": "4–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,083",
+    "match_report_url": "https://fbref.com/en/matches/36afccb6/Brentford-Brighton-and-Hove-Albion-April-19-2025-Premier-League"
+  }
+}

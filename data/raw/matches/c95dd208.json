@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Friday May 16, 2025 , 20:15 (venue time) Premier League (Matchweek 37) Manchester United vs. Chelsea Historical Head-to-Head Attendance : 39,849 Venue : Stamford Bridge, London Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Scott Ledger (AR2) · Tony Harrington (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marc Cucurella",
+      "minute": 71,
+      "is_penalty": false,
+      "raw_text": "Marc Cucurella · 71’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c95dd208",
+  "url": "https://fbref.com/en/matches/c95dd208/Chelsea-Manchester-United-May-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-16",
+    "time": "20:15",
+    "home_team": "Chelsea",
+    "away_team": "Manchester Utd",
+    "score": "1–0",
+    "venue": "Stamford Bridge",
+    "attendance": "39,849",
+    "match_report_url": "https://fbref.com/en/matches/c95dd208/Chelsea-Manchester-United-May-16-2025-Premier-League"
+  }
+}

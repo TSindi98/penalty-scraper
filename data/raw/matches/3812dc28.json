@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Bournemouth",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday April 5, 2025 , 15:00 (venue time) Premier League (Matchweek 31) Bournemouth vs. West Ham United Historical Head-to-Head Attendance : 62,459 Venue : London Stadium, London Officials : Tim Robinson (Referee) · Eddie Smart (AR1) · Steve Meredith (AR2) · Stephen Martin (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Niclas Füllkrug",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Niclas Füllkrug · 61’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 68’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 38’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 79’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "3812dc28",
+  "url": "https://fbref.com/en/matches/3812dc28/West-Ham-United-Bournemouth-April-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-05",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Bournemouth",
+    "score": "2–2",
+    "venue": "London Stadium",
+    "attendance": "62,459",
+    "match_report_url": "https://fbref.com/en/matches/3812dc28/West-Ham-United-Bournemouth-April-5-2025-Premier-League"
+  }
+}

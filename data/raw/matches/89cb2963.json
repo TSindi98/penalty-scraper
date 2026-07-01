@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Crystal Palace",
+    "away_team": "Nottingham Forest",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Monday May 5, 2025 , 20:00 (venue time) Premier League (Matchweek 35) Nottingham Forest vs. Crystal Palace Historical Head-to-Head Attendance : 25,096 Venue : Selhurst Park, London Officials : Andy Madley (Referee) · Matthew Wilkes (AR1) · Craig Taylor (AR2) · Tim Robinson (4th) · James Bell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Eberechi Eze",
+      "minute": 60,
+      "is_penalty": true,
+      "raw_text": "Eberechi Eze (P) · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Murillo",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Murillo · 64’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "47c64c55",
+      "team_name": "Crystal Palace",
+      "player": "Eberechi Eze",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "89cb2963",
+  "url": "https://fbref.com/en/matches/89cb2963/Crystal-Palace-Nottingham-Forest-May-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-05",
+    "time": "20:00",
+    "home_team": "Crystal Palace",
+    "away_team": "Nottingham",
+    "score": "1–1",
+    "venue": "Selhurst Park",
+    "attendance": "25,096",
+    "match_report_url": "https://fbref.com/en/matches/89cb2963/Crystal-Palace-Nottingham-Forest-May-5-2025-Premier-League"
+  }
+}

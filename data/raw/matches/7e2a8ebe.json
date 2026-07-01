@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Wednesday April 2, 2025 , 20:00 (venue time) Premier League (Matchweek 30) Merseyside Derby History Attendance : 60,457 Venue : Anfield, Liverpool Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Tim Wood (AR2) · Darren Bond (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Diogo Jota",
+      "minute": 57,
+      "is_penalty": false,
+      "raw_text": "Diogo Jota · 57’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7e2a8ebe",
+  "url": "https://fbref.com/en/matches/7e2a8ebe/Merseyside-Derby-Liverpool-Everton-April-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "30",
+    "date": "2025-04-02",
+    "time": "20:00",
+    "home_team": "Liverpool",
+    "away_team": "Everton",
+    "score": "1–0",
+    "venue": "Anfield",
+    "attendance": "60,457",
+    "match_report_url": "https://fbref.com/en/matches/7e2a8ebe/Merseyside-Derby-Liverpool-Everton-April-2-2025-Premier-League"
+  }
+}

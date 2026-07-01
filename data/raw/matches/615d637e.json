@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Aston Villa",
+    "home_score": 1,
+    "away_score": 3,
+    "meta_text": "Saturday October 19, 2024 , 15:00 (venue time) Premier League (Matchweek 8) Aston Villa vs. Fulham Historical Head-to-Head Attendance : 26,743 Venue : Craven Cottage, London Officials : Darren England (Referee) · Adrian Holmes (AR1) · Andrew Fox (AR2) · Matt Donohue (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 5’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Joachim Andersen",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Joachim Andersen · 64’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 9’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 59’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Issa Diop",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Issa Diop (OG) · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Jaden Philogene Bidace",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Jaden Philogene Bidace · 90+3’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "fd962109",
+      "team_name": "Fulham",
+      "player": "Andreas Pereira",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "615d637e",
+  "url": "https://fbref.com/en/matches/615d637e/Fulham-Aston-Villa-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "15:00",
+    "home_team": "Fulham",
+    "away_team": "Aston Villa",
+    "score": "1–3",
+    "venue": "Craven Cottage",
+    "attendance": "26,743",
+    "match_report_url": "https://fbref.com/en/matches/615d637e/Fulham-Aston-Villa-October-19-2024-Premier-League"
+  }
+}

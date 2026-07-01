@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Crystal Palace",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday September 28, 2024 , 15:00 (venue time) Premier League (Matchweek 6) Crystal Palace vs. Everton Historical Head-to-Head Attendance : 38,954 Venue : Goodison Park, Liverpool Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Blake Antrobus (AR2) · Tony Harrington (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dwight McNeil",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Dwight McNeil · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dwight McNeil",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Dwight McNeil · 54’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marc Guéhi",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Marc Guéhi · 10’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "d47382cd",
+  "url": "https://fbref.com/en/matches/d47382cd/Everton-Crystal-Palace-September-28-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-28",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Crystal Palace",
+    "score": "2–1",
+    "venue": "Goodison Park",
+    "attendance": "38,954",
+    "match_report_url": "https://fbref.com/en/matches/d47382cd/Everton-Crystal-Palace-September-28-2024-Premier-League"
+  }
+}

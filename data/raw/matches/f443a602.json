@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Thursday January 16, 2025 , 20:00 (venue time) Premier League (Matchweek 21) Southampton vs. Manchester United Historical Head-to-Head Attendance : 73,722 Venue : Old Trafford, Manchester Officials : John Brooks (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Thomas Bramall (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 82’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 90’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 90+4’"
+    },
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Manuel Ugarte",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Manuel Ugarte (OG) · 43’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "f443a602",
+  "url": "https://fbref.com/en/matches/f443a602/Manchester-United-Southampton-January-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-16",
+    "time": "20:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Southampton",
+    "score": "3–1",
+    "venue": "Old Trafford",
+    "attendance": "73,722",
+    "match_report_url": "https://fbref.com/en/matches/f443a602/Manchester-United-Southampton-January-16-2025-Premier-League"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Liverpool",
+    "home_score": 2,
+    "away_score": 3,
+    "meta_text": "Sunday November 24, 2024 , 14:00 (venue time) Premier League (Matchweek 12) Liverpool vs. Southampton Historical Head-to-Head Attendance : 31,278 Venue : St Mary's Stadium, Southampton Officials : Samuel Barrott (Referee) · Lee Betts (AR1) · Wade Smith  (AR2) · Darren England (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Adam Armstrong",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Adam Armstrong · 43’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mateus Fernandes",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Mateus Fernandes · 56’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 30,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 30’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 65’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Mohamed Salah",
+      "minute": 83,
+      "is_penalty": true,
+      "raw_text": "Mohamed Salah (P) · 83’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "33c895d4",
+      "team_name": "Southampton",
+      "player": "Adam Armstrong",
+      "pens_made": 0,
+      "pens_att": 1
+    },
+    {
+      "team_id": "822bd0ba",
+      "team_name": "Liverpool",
+      "player": "Mohamed Salah",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "eb6f8e39",
+  "url": "https://fbref.com/en/matches/eb6f8e39/Southampton-Liverpool-November-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-24",
+    "time": "14:00",
+    "home_team": "Southampton",
+    "away_team": "Liverpool",
+    "score": "2–3",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,278",
+    "match_report_url": "https://fbref.com/en/matches/eb6f8e39/Southampton-Liverpool-November-24-2024-Premier-League"
+  }
+}

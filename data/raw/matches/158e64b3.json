@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Aston Villa",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Wednesday April 2, 2025 , 19:45 (venue time) Premier League (Matchweek 30) Aston Villa vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 27,895 Venue : The American Express Stadium, Brighton & Hove Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Mark Scholes (AR2) · Simon Hooper (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marcus Rashford",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Marcus Rashford · 51’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marco Asensio",
+      "minute": 78,
+      "is_penalty": false,
+      "raw_text": "Marco Asensio · 78’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Donyell Malen",
+      "minute": 100,
+      "is_penalty": false,
+      "raw_text": "Donyell Malen · 90+10’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "158e64b3",
+  "url": "https://fbref.com/en/matches/158e64b3/Brighton-and-Hove-Albion-Aston-Villa-April-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "30",
+    "date": "2025-04-02",
+    "time": "19:45",
+    "home_team": "Brighton",
+    "away_team": "Aston Villa",
+    "score": "0–3",
+    "venue": "The American Express Stadium",
+    "attendance": "27,895",
+    "match_report_url": "https://fbref.com/en/matches/158e64b3/Brighton-and-Hove-Albion-Aston-Villa-April-2-2025-Premier-League"
+  }
+}

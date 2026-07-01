@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday November 10, 2024 , 16:30 (venue time) Premier League (Matchweek 11) North West London Derby History Attendance : 39,780 Venue : Stamford Bridge, London Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · Andy Madley (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Pedro Neto",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Pedro Neto · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 60’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2874d56e",
+  "url": "https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-10",
+    "time": "16:30",
+    "home_team": "Chelsea",
+    "away_team": "Arsenal",
+    "score": "1–1",
+    "venue": "Stamford Bridge",
+    "attendance": "39,780",
+    "match_report_url": "https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Manchester United",
+    "home_score": 4,
+    "away_score": 3,
+    "meta_text": "Sunday May 4, 2025 , 14:00 (venue time) Premier League (Matchweek 35) Manchester United vs. Brentford Historical Head-to-Head Attendance : 18,915 Venue : Gtech Community Stadium, Brentford Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Barrott (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Luke Shaw",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Luke Shaw (OG) · 27’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 70’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 74’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mason Mount",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Mason Mount · 14’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 82’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Amad Diallo",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "Amad Diallo · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "29dbd7d1",
+  "url": "https://fbref.com/en/matches/29dbd7d1/Brentford-Manchester-United-May-4-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-04",
+    "time": "14:00",
+    "home_team": "Brentford",
+    "away_team": "Manchester Utd",
+    "score": "4–3",
+    "venue": "Gtech Community Stadium",
+    "attendance": "18,915",
+    "match_report_url": "https://fbref.com/en/matches/29dbd7d1/Brentford-Manchester-United-May-4-2025-Premier-League"
+  }
+}

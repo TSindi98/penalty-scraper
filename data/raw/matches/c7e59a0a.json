@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Thursday December 5, 2024 , 20:15 (venue time) Premier League (Matchweek 14) Tottenham Hotspur vs. Bournemouth Historical Head-to-Head Attendance : 11,234 Venue : Vitality Stadium, Bournemouth Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Tim Robinson (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dean Huijsen",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Dean Huijsen · 17’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c7e59a0a",
+  "url": "https://fbref.com/en/matches/c7e59a0a/Bournemouth-Tottenham-Hotspur-December-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-05",
+    "time": "20:15",
+    "home_team": "Bournemouth",
+    "away_team": "Tottenham",
+    "score": "1–0",
+    "venue": "Vitality Stadium",
+    "attendance": "11,234",
+    "match_report_url": "https://fbref.com/en/matches/c7e59a0a/Bournemouth-Tottenham-Hotspur-December-5-2024-Premier-League"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "player_name": "Mohamed Salah",
+  "player_id": "e342ad68",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/e342ad68/matchlogs/2024-2025/summary/Mohamed-Salah-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-09-28",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-10-20",
+      "comp": "Premier League",
+      "opponent": "Chelsea",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-24",
+      "comp": "Premier League",
+      "opponent": "Southampton",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-27",
+      "comp": "Champions Lg",
+      "opponent": "esReal Madrid",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    },
+    {
+      "date": "2024-12-01",
+      "comp": "Premier League",
+      "opponent": "Manchester City",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-12-10",
+      "comp": "Champions Lg",
+      "opponent": "esGirona",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-05",
+      "comp": "Premier League",
+      "opponent": "Manchester Utd",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-01",
+      "comp": "Premier League",
+      "opponent": "Bournemouth",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-06",
+      "comp": "EFL Cup",
+      "opponent": "Tottenham",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-02-16",
+      "comp": "Premier League",
+      "opponent": "Wolves",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-03-08",
+      "comp": "Premier League",
+      "opponent": "Southampton",
+      "venue": "Home",
+      "pens_att": 2,
+      "pens_made": 2
+    }
+  ],
+  "total_matches_logged": 57
+}

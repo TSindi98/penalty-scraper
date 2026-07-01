@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Southampton",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Saturday May 3, 2025 , 15:00 (venue time) Premier League (Matchweek 35) Southampton vs. Leicester City Historical Head-to-Head Attendance : 31,240 Venue : King Power Stadium, Leicester Officials : David Webb (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Samuel Barrott (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 17’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jordan Ayew",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Jordan Ayew · 44’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e89fe486",
+  "url": "https://fbref.com/en/matches/e89fe486/Leicester-City-Southampton-May-3-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-03",
+    "time": "15:00",
+    "home_team": "Leicester City",
+    "away_team": "Southampton",
+    "score": "2–0",
+    "venue": "King Power Stadium",
+    "attendance": "31,240",
+    "match_report_url": "https://fbref.com/en/matches/e89fe486/Leicester-City-Southampton-May-3-2025-Premier-League"
+  }
+}

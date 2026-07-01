@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Crystal Palace",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday November 23, 2024 , 15:00 (venue time) Premier League (Matchweek 12) Crystal Palace vs. Aston Villa Historical Head-to-Head Attendance : 42,175 Venue : Villa Park, Birmingham Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Tony Harrington (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ross Barkley",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Ross Barkley · 77’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Devenny",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Justin Devenny · 45+1’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "8602292d",
+      "team_name": "Aston Villa",
+      "player": "Youri Tielemans",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "bf2e07a1",
+  "url": "https://fbref.com/en/matches/bf2e07a1/Aston-Villa-Crystal-Palace-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "15:00",
+    "home_team": "Aston Villa",
+    "away_team": "Crystal Palace",
+    "score": "2–2",
+    "venue": "Villa Park",
+    "attendance": "42,175",
+    "match_report_url": "https://fbref.com/en/matches/bf2e07a1/Aston-Villa-Crystal-Palace-November-23-2024-Premier-League"
+  }
+}

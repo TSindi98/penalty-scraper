@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Leicester City",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Sunday November 10, 2024 , 14:00 (venue time) Premier League (Matchweek 11) Leicester City vs. Manchester United Historical Head-to-Head Attendance : 73,829 Venue : Old Trafford, Manchester Officials : Peter Bankes (Referee) · Eddie Smart (AR1) · Nick Greenhalgh (AR2) · Craig Pawson (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Fernandes",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 17’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Victor Bernth Kristiansen",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Victor Bernth Kristiansen (OG) · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alejandro Garnacho",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Alejandro Garnacho · 82’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "35888afe",
+  "url": "https://fbref.com/en/matches/35888afe/Manchester-United-Leicester-City-November-10-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-10",
+    "time": "14:00",
+    "home_team": "Manchester Utd",
+    "away_team": "Leicester City",
+    "score": "3–0",
+    "venue": "Old Trafford",
+    "attendance": "73,829",
+    "match_report_url": "https://fbref.com/en/matches/35888afe/Manchester-United-Leicester-City-November-10-2024-Premier-League"
+  }
+}

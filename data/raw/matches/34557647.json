@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Southampton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday August 17, 2024 , 15:00 (venue time) Premier League (Matchweek 1) Southampton vs. Newcastle United Historical Head-to-Head Attendance : 52,196 Venue : St James' Park, Newcastle upon Tyne Officials : Craig Pawson (Referee) · Marc Perry (AR1) · Mark Scholes (AR2) · Dean Whitestone (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Fabian Schär",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Fabian Schär · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Joelinton",
+      "minute": 45,
+      "is_penalty": false,
+      "raw_text": "Joelinton · 45’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "34557647",
+  "url": "https://fbref.com/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "1",
+    "date": "2024-08-17",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Southampton",
+    "score": "1–0",
+    "venue": "St James' Park",
+    "attendance": "52,196",
+    "match_report_url": "https://fbref.com/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League"
+  }
+}

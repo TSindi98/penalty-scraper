@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Manchester United",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Sunday October 6, 2024 , 14:00 (venue time) Premier League (Matchweek 7) Manchester United vs. Aston Villa Historical Head-to-Head Attendance : 42,682 Venue : Villa Park, Birmingham Officials : Robert Jones (Referee) · Neil Davies (AR1) · Akil Howson (AR2) · Simon Hooper (4th) · John Brooks (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "abef5f2a",
+  "url": "https://fbref.com/en/matches/abef5f2a/Aston-Villa-Manchester-United-October-6-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-06",
+    "time": "14:00",
+    "home_team": "Aston Villa",
+    "away_team": "Manchester Utd",
+    "score": "0–0",
+    "venue": "Villa Park",
+    "attendance": "42,682",
+    "match_report_url": "https://fbref.com/en/matches/abef5f2a/Aston-Villa-Manchester-United-October-6-2024-Premier-League"
+  }
+}

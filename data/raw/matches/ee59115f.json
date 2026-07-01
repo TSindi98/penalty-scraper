@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Ipswich Town",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Saturday January 25, 2025 , 15:00 (venue time) Premier League (Matchweek 23) Ipswich Town vs. Liverpool Historical Head-to-Head Attendance : 60,420 Venue : Anfield, Liverpool Officials : Michael Salisbury (Referee) · Matthew Wilkes (AR1) · Derek Eaton (AR2) · Darren Bond (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dominik Szoboszlai",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Dominik Szoboszlai · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 35’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 44’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 65,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 65’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jacob Greaves",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Jacob Greaves · 90’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ee59115f",
+  "url": "https://fbref.com/en/matches/ee59115f/Liverpool-Ipswich-Town-January-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "23",
+    "date": "2025-01-25",
+    "time": "15:00",
+    "home_team": "Liverpool",
+    "away_team": "Ipswich Town",
+    "score": "4–1",
+    "venue": "Anfield",
+    "attendance": "60,420",
+    "match_report_url": "https://fbref.com/en/matches/ee59115f/Liverpool-Ipswich-Town-January-25-2025-Premier-League"
+  }
+}

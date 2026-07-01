@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Southampton",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Sunday December 22, 2024 , 14:00 (venue time) Premier League (Matchweek 17) Southampton vs. Fulham Historical Head-to-Head Attendance : 26,819 Venue : Craven Cottage, London Officials : Tim Robinson (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Darren Bond (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "ba3fcb1e",
+  "url": "https://fbref.com/en/matches/ba3fcb1e/Fulham-Southampton-December-22-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "17",
+    "date": "2024-12-22",
+    "time": "14:00",
+    "home_team": "Fulham",
+    "away_team": "Southampton",
+    "score": "0–0",
+    "venue": "Craven Cottage",
+    "attendance": "26,819",
+    "match_report_url": "https://fbref.com/en/matches/ba3fcb1e/Fulham-Southampton-December-22-2024-Premier-League"
+  }
+}

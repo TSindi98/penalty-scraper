@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Leicester City",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Saturday December 14, 2024 , 15:00 (venue time) Premier League (Matchweek 16) Leicester City vs. Newcastle United Historical Head-to-Head Attendance : 52,235 Venue : St James' Park, Newcastle upon Tyne Officials : Thomas Bramall (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · James Bell (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 30,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 30’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bruno Guimarães",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Bruno Guimarães · 47’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 50’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 60’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0b6fe43f",
+  "url": "https://fbref.com/en/matches/0b6fe43f/Newcastle-United-Leicester-City-December-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-14",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Leicester City",
+    "score": "4–0",
+    "venue": "St James' Park",
+    "attendance": "52,235",
+    "match_report_url": "https://fbref.com/en/matches/0b6fe43f/Newcastle-United-Leicester-City-December-14-2024-Premier-League"
+  }
+}

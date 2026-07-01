@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday February 2, 2025 , 14:00 (venue time) Premier League (Matchweek 24) Tottenham Hotspur vs. Brentford Historical Head-to-Head Attendance : 17,154 Venue : Gtech Community Stadium, Brentford Officials : Jarred Gillett (Referee) · Darren Cann (AR1) · Mark Scholes (AR2) · John Busby (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "own_goal",
+      "player": "Vitaly Janelt",
+      "minute": 29,
+      "is_penalty": false,
+      "raw_text": "Vitaly Janelt (OG) · 29’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pape Matar Sarr",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Pape Matar Sarr · 87’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7193a229",
+  "url": "https://fbref.com/en/matches/7193a229/Brentford-Tottenham-Hotspur-February-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-02",
+    "time": "14:00",
+    "home_team": "Brentford",
+    "away_team": "Tottenham",
+    "score": "0–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,154",
+    "match_report_url": "https://fbref.com/en/matches/7193a229/Brentford-Tottenham-Hotspur-February-2-2025-Premier-League"
+  }
+}

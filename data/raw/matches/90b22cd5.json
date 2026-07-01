@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Manchester City",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday October 20, 2024 , 14:00 (venue time) Premier League (Matchweek 8) Manchester City vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,319 Venue : Molineux Stadium, Wolverhampton Officials : Chris Kavanagh (Referee) · Constantine Hatzidakis (AR1) · Thomas Bramall (AR2) · Richard West (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 7’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Joško Gvardiol",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Joško Gvardiol · 33’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "John Stones",
+      "minute": 95,
+      "is_penalty": false,
+      "raw_text": "John Stones · 90+5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "90b22cd5",
+  "url": "https://fbref.com/en/matches/90b22cd5/Wolverhampton-Wanderers-Manchester-City-October-20-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-20",
+    "time": "14:00",
+    "home_team": "Wolves",
+    "away_team": "Manchester City",
+    "score": "1–2",
+    "venue": "Molineux Stadium",
+    "attendance": "31,319",
+    "match_report_url": "https://fbref.com/en/matches/90b22cd5/Wolverhampton-Wanderers-Manchester-City-October-20-2024-Premier-League"
+  }
+}

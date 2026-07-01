@@ -1,0 +1,97 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Ipswich Town",
+    "home_score": 4,
+    "away_score": 3,
+    "meta_text": "Saturday October 26, 2024 , 15:00 (venue time) Premier League (Matchweek 9) Ipswich Town vs. Brentford Historical Head-to-Head Attendance : 17,109 Venue : Gtech Community Stadium, Brentford Officials : Lewis Smith (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Robert Jones (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 44’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 46,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 45+1’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Bryan Mbeumo",
+      "minute": 51,
+      "is_penalty": true,
+      "raw_text": "Bryan Mbeumo (P) · 51’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bryan Mbeumo",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Bryan Mbeumo · 90+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Sammie Szmodics",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Sammie Szmodics · 28’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "George Hirst",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "George Hirst · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Harry Clarke",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Harry Clarke · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 86’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cd051869",
+      "team_name": "Brentford",
+      "player": "Bryan Mbeumo",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "1fb2dcde",
+  "url": "https://fbref.com/en/matches/1fb2dcde/Brentford-Ipswich-Town-October-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-26",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Ipswich Town",
+    "score": "4–3",
+    "venue": "Gtech Community Stadium",
+    "attendance": "17,109",
+    "match_report_url": "https://fbref.com/en/matches/1fb2dcde/Brentford-Ipswich-Town-October-26-2024-Premier-League"
+  }
+}

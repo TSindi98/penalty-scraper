@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Everton",
+    "away_team": "Leicester City",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Saturday February 1, 2025 , 15:00 (venue time) Premier League (Matchweek 24) Leicester City vs. Everton Historical Head-to-Head Attendance : 39,376 Venue : Goodison Park, Liverpool Officials : Darren Bond (Referee) · Scott Ledger (AR1) · Matthew Wilkes (AR2) · Andrew Kitchen (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Abdoulaye Doucouré",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Abdoulaye Doucouré · 1’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Beto · 6’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Beto",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Beto · 45+2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Iliman Ndiaye",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Iliman Ndiaye · 90’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "475670fb",
+  "url": "https://fbref.com/en/matches/475670fb/Everton-Leicester-City-February-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-01",
+    "time": "15:00",
+    "home_team": "Everton",
+    "away_team": "Leicester City",
+    "score": "4–0",
+    "venue": "Goodison Park",
+    "attendance": "39,376",
+    "match_report_url": "https://fbref.com/en/matches/475670fb/Everton-Leicester-City-February-1-2025-Premier-League"
+  }
+}

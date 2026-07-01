@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Newcastle United",
+    "home_score": 1,
+    "away_score": 3,
+    "meta_text": "Sunday November 10, 2024 , 14:00 (venue time) Premier League (Matchweek 11) Newcastle United vs. Nottingham Forest Historical Head-to-Head Attendance : 30,145 Venue : The City Ground, Nottingham Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Michael Salisbury (4th) · Tim Robinson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Murillo",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Murillo · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Alexander Isak",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Alexander Isak · 54’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Joelinton",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Joelinton · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Harvey Barnes",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Harvey Barnes · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "a41ce5c3",
+  "url": "https://fbref.com/en/matches/a41ce5c3/Nottingham-Forest-Newcastle-United-November-10-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-10",
+    "time": "14:00",
+    "home_team": "Nottingham",
+    "away_team": "Newcastle",
+    "score": "1–3",
+    "venue": "The City Ground",
+    "attendance": "30,145",
+    "match_report_url": "https://fbref.com/en/matches/a41ce5c3/Nottingham-Forest-Newcastle-United-November-10-2024-Premier-League"
+  }
+}

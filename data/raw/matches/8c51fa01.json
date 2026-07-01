@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Newcastle United",
+    "home_score": 4,
+    "away_score": 0,
+    "meta_text": "Saturday February 15, 2025 , 15:00 (venue time) Premier League (Matchweek 25) Newcastle United vs. Manchester City Historical Head-to-Head Attendance : 52,479 Venue : Etihad Stadium, Manchester Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Craig Taylor (AR2) · Tim Robinson (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 19,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 19’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 24,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 24’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 33’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "James Mcatee",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "James Mcatee · 84’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "8c51fa01",
+  "url": "https://fbref.com/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "home_team": "Manchester City",
+    "away_team": "Newcastle",
+    "score": "4–0",
+    "venue": "Etihad Stadium",
+    "attendance": "52,479",
+    "match_report_url": "https://fbref.com/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Manchester United",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday November 24, 2024 , 16:30 (venue time) Premier League (Matchweek 12) Manchester United vs. Ipswich Town Historical Head-to-Head Attendance : 30,017 Venue : Portman Road Stadium, Ipswich Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Matt Donohue (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omari Hutchinson",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Omari Hutchinson · 43’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Marcus Rashford",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Marcus Rashford · 2’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "db1e4ea5",
+  "url": "https://fbref.com/en/matches/db1e4ea5/Ipswich-Town-Manchester-United-November-24-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-24",
+    "time": "16:30",
+    "home_team": "Ipswich Town",
+    "away_team": "Manchester Utd",
+    "score": "1–1",
+    "venue": "Portman Road Stadium",
+    "attendance": "30,017",
+    "match_report_url": "https://fbref.com/en/matches/db1e4ea5/Ipswich-Town-Manchester-United-November-24-2024-Premier-League"
+  }
+}

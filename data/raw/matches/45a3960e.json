@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Newcastle United",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Saturday April 19, 2025 , 17:30 (venue time) Premier League (Matchweek 33) Newcastle United vs. Aston Villa Historical Head-to-Head Attendance : 42,618 Venue : Villa Park, Birmingham Officials : Jarred Gillett (Referee) · Lee Betts (AR1) · Sian Massey-Ellis (AR2) · Farai Hallam (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 1’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ian Maatsen",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Ian Maatsen · 64’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Dan Burn",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Dan Burn (OG) · 73’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Amadou Onana",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Amadou Onana · 75’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Fabian Schär",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Fabian Schär · 18’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "45a3960e",
+  "url": "https://fbref.com/en/matches/45a3960e/Aston-Villa-Newcastle-United-April-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-19",
+    "time": "17:30",
+    "home_team": "Aston Villa",
+    "away_team": "Newcastle",
+    "score": "4–1",
+    "venue": "Villa Park",
+    "attendance": "42,618",
+    "match_report_url": "https://fbref.com/en/matches/45a3960e/Aston-Villa-Newcastle-United-April-19-2025-Premier-League"
+  }
+}

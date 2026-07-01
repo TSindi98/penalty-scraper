@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday August 31, 2024 , 15:00 (venue time) Premier League (Matchweek 3) Wolverhampton Wanderers vs. Nottingham Forest Historical Head-to-Head Attendance : 29,918 Venue : The City Ground, Nottingham Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Dean Whitestone (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 10,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 10’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jean-Ricner Bellegarde",
+      "minute": 12,
+      "is_penalty": false,
+      "raw_text": "Jean-Ricner Bellegarde · 12’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "837f0304",
+  "url": "https://fbref.com/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "3",
+    "date": "2024-08-31",
+    "time": "15:00",
+    "home_team": "Nottingham",
+    "away_team": "Wolves",
+    "score": "1–1",
+    "venue": "The City Ground",
+    "attendance": "29,918",
+    "match_report_url": "https://fbref.com/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League"
+  }
+}

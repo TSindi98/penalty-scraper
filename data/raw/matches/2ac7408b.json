@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday March 8, 2025 , 20:00 (venue time) Premier League (Matchweek 28) Everton vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 30,738 Venue : Molineux Stadium, Wolverhampton Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Thomas Bramall (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marshall Munetsi",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Marshall Munetsi · 40’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jack Harrison",
+      "minute": 33,
+      "is_penalty": false,
+      "raw_text": "Jack Harrison · 33’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2ac7408b",
+  "url": "https://fbref.com/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-08",
+    "time": "20:00",
+    "home_team": "Wolves",
+    "away_team": "Everton",
+    "score": "1–1",
+    "venue": "Molineux Stadium",
+    "attendance": "30,738",
+    "match_report_url": "https://fbref.com/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League"
+  }
+}

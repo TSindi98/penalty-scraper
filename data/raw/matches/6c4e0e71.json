@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Leicester City",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Saturday April 12, 2025 , 15:00 (venue time) Premier League (Matchweek 32) Leicester City vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,150 Venue : The American Express Stadium, Brighton & Hove Officials : Darren Bond (Referee) · Marc Perry (AR1) · Steve Meredith (AR2) · Jeremy Simpson (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "João Pedro",
+      "minute": 31,
+      "is_penalty": true,
+      "raw_text": "João Pedro (P) · 31’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "João Pedro",
+      "minute": 55,
+      "is_penalty": true,
+      "raw_text": "João Pedro (P) · 55’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Stephy Mavididi",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Stephy Mavididi · 38’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Caleb Okoli",
+      "minute": 74,
+      "is_penalty": false,
+      "raw_text": "Caleb Okoli · 74’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "João Pedro",
+      "pens_made": 2,
+      "pens_att": 2
+    }
+  ],
+  "match_id": "6c4e0e71",
+  "url": "https://fbref.com/en/matches/6c4e0e71/Brighton-and-Hove-Albion-Leicester-City-April-12-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "32",
+    "date": "2025-04-12",
+    "time": "15:00",
+    "home_team": "Brighton",
+    "away_team": "Leicester City",
+    "score": "2–2",
+    "venue": "The American Express Stadium",
+    "attendance": "31,150",
+    "match_report_url": "https://fbref.com/en/matches/6c4e0e71/Brighton-and-Hove-Albion-Leicester-City-April-12-2025-Premier-League"
+  }
+}

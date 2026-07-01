@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "West Ham United",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday February 22, 2025 , 15:00 (venue time) Premier League (Matchweek 26) West Ham United vs. Arsenal Historical Head-to-Head Attendance : 60,262 Venue : Emirates Stadium, London Officials : Craig Pawson (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Andrew Kitchen (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Myles Lewis-Skelly",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Myles Lewis-Skelly · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 44,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 44’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e511e91c",
+  "url": "https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "26",
+    "date": "2025-02-22",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "West Ham",
+    "score": "0–1",
+    "venue": "Emirates Stadium",
+    "attendance": "60,262",
+    "match_report_url": "https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League"
+  }
+}

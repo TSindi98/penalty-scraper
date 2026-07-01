@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Leicester City",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Sunday March 9, 2025 , 14:00 (venue time) Premier League (Matchweek 28) Leicester City vs. Chelsea Historical Head-to-Head Attendance : 39,750 Venue : Stamford Bridge, London Officials : Tim Robinson (Referee) · Stuart Burt (AR1) · Steve Meredith (AR2) · Samuel Barrott (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Marc Cucurella",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Marc Cucurella · 60’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "cff3d9bb",
+      "team_name": "Chelsea",
+      "player": "Cole Palmer",
+      "pens_made": 0,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "236640be",
+  "url": "https://fbref.com/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-09",
+    "time": "14:00",
+    "home_team": "Chelsea",
+    "away_team": "Leicester City",
+    "score": "1–0",
+    "venue": "Stamford Bridge",
+    "attendance": "39,750",
+    "match_report_url": "https://fbref.com/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League"
+  }
+}

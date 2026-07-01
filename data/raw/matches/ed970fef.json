@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Manchester City",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday November 2, 2024 , 15:00 (venue time) Premier League (Matchweek 10) Manchester City vs. Bournemouth Historical Head-to-Head Attendance : 11,231 Venue : Vitality Stadium, Bournemouth Officials : Michael Oliver (Referee) · Simon Long (AR1) · Craig Taylor (AR2) · Andrew Kitchen (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Antoine Semenyo",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Antoine Semenyo · 9’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 64’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Joško Gvardiol",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Joško Gvardiol · 82’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ed970fef",
+  "url": "https://fbref.com/en/matches/ed970fef/Bournemouth-Manchester-City-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Manchester City",
+    "score": "2–1",
+    "venue": "Vitality Stadium",
+    "attendance": "11,231",
+    "match_report_url": "https://fbref.com/en/matches/ed970fef/Bournemouth-Manchester-City-November-2-2024-Premier-League"
+  }
+}

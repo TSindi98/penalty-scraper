@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "Liverpool",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Sunday April 20, 2025 , 16:30 (venue time) Premier League (Matchweek 33) Liverpool vs. Leicester City Historical Head-to-Head Attendance : 30,402 Venue : King Power Stadium, Leicester Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Natalie Aspinall (AR2) · Thomas Bramall (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Trent Alexander-Arnold",
+      "minute": 76,
+      "is_penalty": false,
+      "raw_text": "Trent Alexander-Arnold · 76’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0a2030a0",
+  "url": "https://fbref.com/en/matches/0a2030a0/Leicester-City-Liverpool-April-20-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-20",
+    "time": "16:30",
+    "home_team": "Leicester City",
+    "away_team": "Liverpool",
+    "score": "0–1",
+    "venue": "King Power Stadium",
+    "attendance": "30,402",
+    "match_report_url": "https://fbref.com/en/matches/0a2030a0/Leicester-City-Liverpool-April-20-2025-Premier-League"
+  }
+}

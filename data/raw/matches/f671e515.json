@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Sunday April 6, 2025 , 14:00 (venue time) Premier League (Matchweek 31) Southampton vs. Tottenham Hotspur Historical Head-to-Head Attendance : 60,984 Venue : Tottenham Hotspur Stadium, London Officials : Michael Salisbury (Referee) · Matthew Wilkes (AR1) · Derek Eaton (AR2) · Samuel Barrott (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 42’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Mathys Tel",
+      "minute": 96,
+      "is_penalty": true,
+      "raw_text": "Mathys Tel (P) · 90+6’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mateus Fernandes",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Mateus Fernandes · 90’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "361ca564",
+      "team_name": "Tottenham",
+      "player": "Mathys Tel",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "f671e515",
+  "url": "https://fbref.com/en/matches/f671e515/Tottenham-Hotspur-Southampton-April-6-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-06",
+    "time": "14:00",
+    "home_team": "Tottenham",
+    "away_team": "Southampton",
+    "score": "3–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "60,984",
+    "match_report_url": "https://fbref.com/en/matches/f671e515/Tottenham-Hotspur-Southampton-April-6-2025-Premier-League"
+  }
+}

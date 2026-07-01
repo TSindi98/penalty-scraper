@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Chelsea",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Chelsea vs. Nottingham Forest Historical Head-to-Head Attendance : 30,263 Venue : The City Ground, Nottingham Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Jarred Gillett (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Levi Colwill",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Levi Colwill · 50’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "464cbad6",
+  "url": "https://fbref.com/en/matches/464cbad6/Nottingham-Forest-Chelsea-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Nottingham",
+    "away_team": "Chelsea",
+    "score": "0–1",
+    "venue": "The City Ground",
+    "attendance": "30,263",
+    "match_report_url": "https://fbref.com/en/matches/464cbad6/Nottingham-Forest-Chelsea-May-25-2025-Premier-League"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday March 15, 2025 , 15:00 (venue time) Premier League (Matchweek 29) Wolverhampton Wanderers vs. Southampton Historical Head-to-Head Attendance : 30,950 Venue : St Mary's Stadium, Southampton Officials : Robert Jones (Referee) · Ian Hussin (AR1) · Neil Davies (AR2) · Gavin Ward (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Paul Onuachu",
+      "minute": 75,
+      "is_penalty": false,
+      "raw_text": "Paul Onuachu · 75’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 19,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 19’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 47’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "eea61e7f",
+  "url": "https://fbref.com/en/matches/eea61e7f/Southampton-Wolverhampton-Wanderers-March-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "29",
+    "date": "2025-03-15",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Wolves",
+    "score": "1–2",
+    "venue": "St Mary's Stadium",
+    "attendance": "30,950",
+    "match_report_url": "https://fbref.com/en/matches/eea61e7f/Southampton-Wolverhampton-Wanderers-March-15-2025-Premier-League"
+  }
+}

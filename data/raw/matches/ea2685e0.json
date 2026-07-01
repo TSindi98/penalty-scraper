@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Brentford",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Saturday May 10, 2025 , 15:00 (venue time) Premier League (Matchweek 36) Brentford vs. Ipswich Town Historical Head-to-Head Attendance : 29,511 Venue : Portman Road Stadium, Ipswich Officials : Samuel Barrott (Referee) · Wade Smith  (AR1) · Mark Scholes (AR2) · Dean Whitestone (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kevin Schade",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Kevin Schade · 18’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ea2685e0",
+  "url": "https://fbref.com/en/matches/ea2685e0/Ipswich-Town-Brentford-May-10-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-10",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Brentford",
+    "score": "0–1",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,511",
+    "match_report_url": "https://fbref.com/en/matches/ea2685e0/Ipswich-Town-Brentford-May-10-2025-Premier-League"
+  }
+}

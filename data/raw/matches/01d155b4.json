@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Arsenal",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Arsenal vs. Southampton Historical Head-to-Head Attendance : 31,289 Venue : St Mary's Stadium, Southampton Officials : Darren Bond (Referee) · Marc Perry (AR1) · George Byrne (AR2) · Gavin Ward (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ross Stewart",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Ross Stewart · 56’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kieran Tierney",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Kieran Tierney · 43’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Martin Ødegaard",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Martin Ødegaard · 89’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "01d155b4",
+  "url": "https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Southampton",
+    "away_team": "Arsenal",
+    "score": "1–2",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,289",
+    "match_report_url": "https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League"
+  }
+}

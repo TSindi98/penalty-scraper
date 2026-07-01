@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Friday December 27, 2024 , 20:15 (venue time) Premier League (Matchweek 18) Ipswich Town vs. Arsenal Historical Head-to-Head Attendance : 60,271 Venue : Emirates Stadium, London Officials : Darren England (Referee) · Wade Smith  (AR1) · Akil Howson (AR2) · Lewis Smith (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kai Havertz",
+      "minute": 23,
+      "is_penalty": false,
+      "raw_text": "Kai Havertz · 23’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "668dad03",
+  "url": "https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-27",
+    "time": "20:15",
+    "home_team": "Arsenal",
+    "away_team": "Ipswich Town",
+    "score": "1–0",
+    "venue": "Emirates Stadium",
+    "attendance": "60,271",
+    "match_report_url": "https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League"
+  }
+}

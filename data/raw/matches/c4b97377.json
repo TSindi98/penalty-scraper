@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "Tottenham Hotspur",
+    "home_score": 0,
+    "away_score": 3,
+    "meta_text": "Sunday September 29, 2024 , 16:30 (venue time) Premier League (Matchweek 6) Tottenham Hotspur vs. Manchester United Historical Head-to-Head Attendance : 73,587 Venue : Old Trafford, Manchester Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · Craig Pawson (4th) · Peter Bankes (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Bruno Fernandes",
+      "minute": 42,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 42’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Brennan Johnson",
+      "minute": 3,
+      "is_penalty": false,
+      "raw_text": "Brennan Johnson · 3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Dominic Solanke",
+      "minute": 77,
+      "is_penalty": false,
+      "raw_text": "Dominic Solanke · 77’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c4b97377",
+  "url": "https://fbref.com/en/matches/c4b97377/Manchester-United-Tottenham-Hotspur-September-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-29",
+    "time": "16:30",
+    "home_team": "Manchester Utd",
+    "away_team": "Tottenham",
+    "score": "0–3",
+    "venue": "Old Trafford",
+    "attendance": "73,587",
+    "match_report_url": "https://fbref.com/en/matches/c4b97377/Manchester-United-Tottenham-Hotspur-September-29-2024-Premier-League"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Crystal Palace",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Crystal Palace vs. Liverpool Historical Head-to-Head Attendance : 60,382 Venue : Anfield, Liverpool Officials : Darren England (Referee) · Scott Ledger (AR1) · Derek Eaton (AR2) · Samuel Barrott (4th) · Paul Howard (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Ryan Gravenberch",
+      "minute": 68,
+      "is_penalty": false,
+      "raw_text": "Ryan Gravenberch · 68’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohamed Salah",
+      "minute": 84,
+      "is_penalty": false,
+      "raw_text": "Mohamed Salah · 84’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ismaila Sarr",
+      "minute": 9,
+      "is_penalty": false,
+      "raw_text": "Ismaila Sarr · 9’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0958eb7a",
+  "url": "https://fbref.com/en/matches/0958eb7a/Liverpool-Crystal-Palace-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Liverpool",
+    "away_team": "Crystal Palace",
+    "score": "1–1",
+    "venue": "Anfield",
+    "attendance": "60,382",
+    "match_report_url": "https://fbref.com/en/matches/0958eb7a/Liverpool-Crystal-Palace-May-25-2025-Premier-League"
+  }
+}

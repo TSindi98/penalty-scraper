@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Manchester United",
+    "home_score": 2,
+    "away_score": 0,
+    "meta_text": "Thursday December 26, 2024 , 17:30 (venue time) Premier League (Matchweek 18) Manchester United vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 31,407 Venue : Molineux Stadium, Wolverhampton Officials : Tony Harrington (Referee) · Darren Cann (AR1) · Marc Perry (AR2) · Andrew Kitchen (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 58’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Hwang Hee-chan",
+      "minute": 99,
+      "is_penalty": false,
+      "raw_text": "Hwang Hee-chan · 90+9’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Bruno Fernandes",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Bruno Fernandes · 47’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "77bcad49",
+  "url": "https://fbref.com/en/matches/77bcad49/Wolverhampton-Wanderers-Manchester-United-December-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "18",
+    "date": "2024-12-26",
+    "time": "17:30",
+    "home_team": "Wolves",
+    "away_team": "Manchester Utd",
+    "score": "2–0",
+    "venue": "Molineux Stadium",
+    "attendance": "31,407",
+    "match_report_url": "https://fbref.com/en/matches/77bcad49/Wolverhampton-Wanderers-Manchester-United-December-26-2024-Premier-League"
+  }
+}

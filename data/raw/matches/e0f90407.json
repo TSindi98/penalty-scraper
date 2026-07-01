@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Nottingham Forest",
+    "away_team": "Southampton",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Sunday January 19, 2025 , 14:00 (venue time) Premier League (Matchweek 22) Southampton vs. Nottingham Forest Historical Head-to-Head Attendance : 30,180 Venue : The City Ground, Nottingham Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Andrew Kitchen (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Elliot Anderson",
+      "minute": 11,
+      "is_penalty": false,
+      "raw_text": "Elliot Anderson · 11’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Callum Hudson-Odoi",
+      "minute": 28,
+      "is_penalty": false,
+      "raw_text": "Callum Hudson-Odoi · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 41’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jan Bednarek",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Jan Bednarek · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Paul Onuachu",
+      "minute": 91,
+      "is_penalty": false,
+      "raw_text": "Paul Onuachu · 90+1’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e0f90407",
+  "url": "https://fbref.com/en/matches/e0f90407/Nottingham-Forest-Southampton-January-19-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "22",
+    "date": "2025-01-19",
+    "time": "14:00",
+    "home_team": "Nottingham",
+    "away_team": "Southampton",
+    "score": "3–2",
+    "venue": "The City Ground",
+    "attendance": "30,180",
+    "match_report_url": "https://fbref.com/en/matches/e0f90407/Nottingham-Forest-Southampton-January-19-2025-Premier-League"
+  }
+}

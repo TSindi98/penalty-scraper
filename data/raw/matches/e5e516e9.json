@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Bournemouth",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Tuesday May 20, 2025 , 20:00 (venue time) Premier League (Matchweek 37) Bournemouth vs. Manchester City Historical Head-to-Head Attendance : 52,487 Venue : Etihad Stadium, Manchester Officials : Thomas Bramall (Referee) · Nicholas Hopton (AR1) · Derek Eaton (AR2) · Robert Jones (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Omar Marmoush",
+      "minute": 14,
+      "is_penalty": false,
+      "raw_text": "Omar Marmoush · 14’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bernardo Silva",
+      "minute": 38,
+      "is_penalty": false,
+      "raw_text": "Bernardo Silva · 38’"
+    },
+    {
+      "side": "home",
+      "event_type": "red_card",
+      "player": "Mateo Kovačić",
+      "minute": 67,
+      "is_penalty": false,
+      "raw_text": "Mateo Kovačić · 67’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nicolás González",
+      "minute": 89,
+      "is_penalty": false,
+      "raw_text": "Nicolás González · 89’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Lewis Cook",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Lewis Cook · 73’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Daniel Jebbison",
+      "minute": 96,
+      "is_penalty": false,
+      "raw_text": "Daniel Jebbison · 90+6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e5e516e9",
+  "url": "https://fbref.com/en/matches/e5e516e9/Manchester-City-Bournemouth-May-20-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "37",
+    "date": "2025-05-20",
+    "time": "20:00",
+    "home_team": "Manchester City",
+    "away_team": "Bournemouth",
+    "score": "3–1",
+    "venue": "Etihad Stadium",
+    "attendance": "52,487",
+    "match_report_url": "https://fbref.com/en/matches/e5e516e9/Manchester-City-Bournemouth-May-20-2025-Premier-League"
+  }
+}

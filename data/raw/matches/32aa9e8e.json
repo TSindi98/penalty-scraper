@@ -1,0 +1,24 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Everton",
+    "home_score": 0,
+    "away_score": 0,
+    "meta_text": "Saturday December 14, 2024 , 15:00 (venue time) Premier League (Matchweek 16) Everton vs. Arsenal Historical Head-to-Head Attendance : 60,176 Venue : Emirates Stadium, London Officials : Craig Pawson (Referee) · Eddie Smart (AR1) · Constantine Hatzidakis (AR2) · Andrew Kitchen (4th) · Paul Tierney (VAR)"
+  },
+  "events": [],
+  "player_pk_stats": [],
+  "match_id": "32aa9e8e",
+  "url": "https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "16",
+    "date": "2024-12-14",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "Everton",
+    "score": "0–0",
+    "venue": "Emirates Stadium",
+    "attendance": "60,176",
+    "match_report_url": "https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League"
+  }
+}

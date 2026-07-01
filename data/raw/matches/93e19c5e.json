@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "West Ham United",
+    "away_team": "Ipswich Town",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Saturday October 5, 2024 , 15:00 (venue time) Premier League (Matchweek 7) Ipswich Town vs. West Ham United Historical Head-to-Head Attendance : 62,467 Venue : London Stadium, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Andrew Kitchen (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Michail Antonio",
+      "minute": 1,
+      "is_penalty": false,
+      "raw_text": "Michail Antonio · 1’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mohammed Kudus",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Mohammed Kudus · 43’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 49’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Lucas Paquetá",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Lucas Paquetá · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 6,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 6’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "93e19c5e",
+  "url": "https://fbref.com/en/matches/93e19c5e/West-Ham-United-Ipswich-Town-October-5-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "7",
+    "date": "2024-10-05",
+    "time": "15:00",
+    "home_team": "West Ham",
+    "away_team": "Ipswich Town",
+    "score": "4–1",
+    "venue": "London Stadium",
+    "attendance": "62,467",
+    "match_report_url": "https://fbref.com/en/matches/93e19c5e/West-Ham-United-Ipswich-Town-October-5-2024-Premier-League"
+  }
+}

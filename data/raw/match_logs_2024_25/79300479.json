@@ -1,0 +1,25 @@
+{
+  "player_name": "Martin Ødegaard",
+  "player_id": "79300479",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/79300479/matchlogs/2024-2025/summary/Martin-Odegaard-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-30",
+      "comp": "Premier League",
+      "opponent": "West Ham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-01-12",
+      "comp": "FA Cup",
+      "opponent": "Manchester Utd",
+      "venue": "Home",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 51
+}

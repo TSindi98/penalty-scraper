@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Saturday September 21, 2024 , 15:00 (venue time) Premier League (Matchweek 5) Wolverhampton Wanderers vs. Aston Villa Historical Head-to-Head Attendance : 39,978 Venue : Villa Park, Birmingham Officials : Tim Robinson (Referee) · Tim Wood (AR1) · Steve Meredith (AR2) · Tom Nield (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 73,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 73’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ezri Konsa",
+      "minute": 88,
+      "is_penalty": false,
+      "raw_text": "Ezri Konsa · 88’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jáder Durán",
+      "minute": 94,
+      "is_penalty": false,
+      "raw_text": "Jáder Durán · 90+4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Matheus Cunha",
+      "minute": 25,
+      "is_penalty": false,
+      "raw_text": "Matheus Cunha · 25’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "e2b62260",
+  "url": "https://fbref.com/en/matches/e2b62260/Aston-Villa-Wolverhampton-Wanderers-September-21-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "5",
+    "date": "2024-09-21",
+    "time": "15:00",
+    "home_team": "Aston Villa",
+    "away_team": "Wolves",
+    "score": "3–1",
+    "venue": "Villa Park",
+    "attendance": "39,978",
+    "match_report_url": "https://fbref.com/en/matches/e2b62260/Aston-Villa-Wolverhampton-Wanderers-September-21-2024-Premier-League"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "player_name": "Erling Haaland",
+  "player_id": "1f44ac21",
+  "url": "https://fbref.com/en/players/1f44ac21/Erling-Haaland",
+  "seasons": [
+    {
+      "season": "2017",
+      "team": "Molde",
+      "comp": "1.Eliteserien",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2018",
+      "team": "Molde",
+      "comp": "1.Eliteserien",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2018-2019",
+      "team": "RB Salzburg",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2019-2020",
+      "team": "RB Salzburg",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "season": "2019-2020",
+      "team": "Dortmund",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2020-2021",
+      "team": "Dortmund",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 4,
+      "pens_made": 2
+    },
+    {
+      "season": "2021-2022",
+      "team": "Dortmund",
+      "comp": "1.Bundesliga",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 6,
+      "pens_made": 6
+    },
+    {
+      "season": "2022-2023",
+      "team": "Manchester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 7,
+      "pens_made": 7
+    },
+    {
+      "season": "2023-2024",
+      "team": "Manchester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 8,
+      "pens_made": 7
+    },
+    {
+      "season": "2024-2025",
+      "team": "Manchester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 4,
+      "pens_made": 3
+    },
+    {
+      "season": "2025-2026",
+      "team": "Manchester City",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 4,
+      "pens_made": 3
+    }
+  ]
+}

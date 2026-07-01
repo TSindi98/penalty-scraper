@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Newcastle United",
+    "away_team": "Fulham",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday February 1, 2025 , 15:00 (venue time) Premier League (Matchweek 24) Fulham vs. Newcastle United Historical Head-to-Head Attendance : 52,173 Venue : St James' Park, Newcastle upon Tyne Officials : Chris Kavanagh (Referee) · Lee Betts (AR1) · Richard West (AR2) · Robert Jones (4th) · Alex Chilowicz (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jacob Murphy",
+      "minute": 37,
+      "is_penalty": false,
+      "raw_text": "Jacob Murphy · 37’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 61’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Rodrigo Muniz",
+      "minute": 82,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Muniz · 82’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "5ec3f48b",
+  "url": "https://fbref.com/en/matches/5ec3f48b/Newcastle-United-Fulham-February-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-01",
+    "time": "15:00",
+    "home_team": "Newcastle",
+    "away_team": "Fulham",
+    "score": "1–2",
+    "venue": "St James' Park",
+    "attendance": "52,173",
+    "match_report_url": "https://fbref.com/en/matches/5ec3f48b/Newcastle-United-Fulham-February-1-2025-Premier-League"
+  }
+}

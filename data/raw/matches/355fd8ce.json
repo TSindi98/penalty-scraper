@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Leicester City",
+    "away_team": "West Ham United",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Tuesday December 3, 2024 , 20:15 (venue time) Premier League (Matchweek 14) West Ham United vs. Leicester City Historical Head-to-Head Attendance : 30,947 Venue : King Power Stadium, Leicester Officials : Joshua Smith (Referee) · Tim Wood (AR1) · Marc Perry (AR2) · Darren Bond (4th) · Neil Davies (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jamie Vardy",
+      "minute": 2,
+      "is_penalty": false,
+      "raw_text": "Jamie Vardy · 2’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bilal El Khannouss",
+      "minute": 61,
+      "is_penalty": false,
+      "raw_text": "Bilal El Khannouss · 61’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Patson Daka",
+      "minute": 90,
+      "is_penalty": false,
+      "raw_text": "Patson Daka · 90’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Niclas Füllkrug",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Niclas Füllkrug · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "355fd8ce",
+  "url": "https://fbref.com/en/matches/355fd8ce/Leicester-City-West-Ham-United-December-3-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-03",
+    "time": "20:15",
+    "home_team": "Leicester City",
+    "away_team": "West Ham",
+    "score": "3–1",
+    "venue": "King Power Stadium",
+    "attendance": "30,947",
+    "match_report_url": "https://fbref.com/en/matches/355fd8ce/Leicester-City-West-Ham-United-December-3-2024-Premier-League"
+  }
+}

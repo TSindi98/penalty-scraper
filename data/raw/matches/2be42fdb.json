@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Southampton",
+    "away_team": "Everton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday November 2, 2024 , 15:00 (venue time) Premier League (Matchweek 10) Everton vs. Southampton Historical Head-to-Head Attendance : 31,143 Venue : St Mary's Stadium, Southampton Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Marc Perry (AR2) · James Bell (4th) · Matt Donohue (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Adam Armstrong",
+      "minute": 85,
+      "is_penalty": false,
+      "raw_text": "Adam Armstrong · 85’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "2be42fdb",
+  "url": "https://fbref.com/en/matches/2be42fdb/Southampton-Everton-November-2-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "10",
+    "date": "2024-11-02",
+    "time": "15:00",
+    "home_team": "Southampton",
+    "away_team": "Everton",
+    "score": "1–0",
+    "venue": "St Mary's Stadium",
+    "attendance": "31,143",
+    "match_report_url": "https://fbref.com/en/matches/2be42fdb/Southampton-Everton-November-2-2024-Premier-League"
+  }
+}

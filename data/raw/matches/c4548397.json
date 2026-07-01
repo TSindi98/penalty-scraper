@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Manchester United",
+    "away_team": "West Ham United",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Sunday May 11, 2025 , 14:15 (venue time) Premier League (Matchweek 36) West Ham United vs. Manchester United Historical Head-to-Head Attendance : 73,804 Venue : Old Trafford, Manchester Officials : Jarred Gillett (Referee) · Neil Davies (AR1) · Derek Eaton (AR2) · Adam Herczeg (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tomáš Souček",
+      "minute": 26,
+      "is_penalty": false,
+      "raw_text": "Tomáš Souček · 26’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jarrod Bowen",
+      "minute": 57,
+      "is_penalty": false,
+      "raw_text": "Jarrod Bowen · 57’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "c4548397",
+  "url": "https://fbref.com/en/matches/c4548397/Manchester-United-West-Ham-United-May-11-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-11",
+    "time": "14:15",
+    "home_team": "Manchester Utd",
+    "away_team": "West Ham",
+    "score": "0–2",
+    "venue": "Old Trafford",
+    "attendance": "73,804",
+    "match_report_url": "https://fbref.com/en/matches/c4548397/Manchester-United-West-Ham-United-May-11-2025-Premier-League"
+  }
+}

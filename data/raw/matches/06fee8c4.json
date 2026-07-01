@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 1,
+    "meta_text": "Saturday February 15, 2025 , 15:00 (venue time) Premier League (Matchweek 25) Ipswich Town vs. Aston Villa Historical Head-to-Head Attendance : 42,510 Venue : Villa Park, Birmingham Officials : Robert Jones (Referee) · Stuart Burt (AR1) · Neil Davies (AR2) · Darren Bond (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Axel Tuanzebe",
+      "minute": 40,
+      "is_penalty": false,
+      "raw_text": "Axel Tuanzebe · 40’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 56,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 56’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "06fee8c4",
+  "url": "https://fbref.com/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "25",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "home_team": "Aston Villa",
+    "away_team": "Ipswich Town",
+    "score": "1–1",
+    "venue": "Villa Park",
+    "attendance": "42,510",
+    "match_report_url": "https://fbref.com/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League"
+  }
+}

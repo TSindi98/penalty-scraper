@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Crystal Palace",
+    "home_score": 0,
+    "away_score": 1,
+    "meta_text": "Tuesday December 3, 2024 , 19:30 (venue time) Premier League (Matchweek 14) Crystal Palace vs. Ipswich Town Historical Head-to-Head Attendance : 29,533 Venue : Portman Road Stadium, Ipswich Officials : Craig Pawson (Referee) · James Mainwaring (AR1) · Natalie Aspinall (AR2) · Gavin Ward (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jean-Philippe Mateta",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Jean-Philippe Mateta · 59’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "f7a96e82",
+  "url": "https://fbref.com/en/matches/f7a96e82/Ipswich-Town-Crystal-Palace-December-3-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-03",
+    "time": "19:30",
+    "home_team": "Ipswich Town",
+    "away_team": "Crystal Palace",
+    "score": "0–1",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,533",
+    "match_report_url": "https://fbref.com/en/matches/f7a96e82/Ipswich-Town-Crystal-Palace-December-3-2024-Premier-League"
+  }
+}

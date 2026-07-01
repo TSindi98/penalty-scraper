@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Arsenal",
+    "away_team": "Nottingham Forest",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Saturday November 23, 2024 , 15:00 (venue time) Premier League (Matchweek 12) Nottingham Forest vs. Arsenal Historical Head-to-Head Attendance : 60,298 Venue : Emirates Stadium, London Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Dean Whitestone (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Bukayo Saka",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Bukayo Saka · 15’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Thomas Partey",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Thomas Partey · 52’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Ethan Nwaneri",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Ethan Nwaneri · 86’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0cb4129b",
+  "url": "https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "15:00",
+    "home_team": "Arsenal",
+    "away_team": "Nottingham",
+    "score": "3–0",
+    "venue": "Emirates Stadium",
+    "attendance": "60,298",
+    "match_report_url": "https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League"
+  }
+}

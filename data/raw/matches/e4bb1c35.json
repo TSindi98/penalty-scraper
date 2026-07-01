@@ -1,0 +1,80 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 1,
+    "away_score": 4,
+    "meta_text": "Sunday May 25, 2025 , 16:00 (venue time) Premier League (Matchweek 38) Brighton & Hove Albion vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,449 Venue : Tottenham Hotspur Stadium, London Officials : Robert Jones (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · James Linington (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Dominic Solanke",
+      "minute": 17,
+      "is_penalty": true,
+      "raw_text": "Dominic Solanke (P) · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jack Hinshelwood",
+      "minute": 51,
+      "is_penalty": false,
+      "raw_text": "Jack Hinshelwood · 51’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jack Hinshelwood",
+      "minute": 64,
+      "is_penalty": false,
+      "raw_text": "Jack Hinshelwood · 64’"
+    },
+    {
+      "side": "away",
+      "event_type": "penalty_goal",
+      "player": "Matt O'Riley",
+      "minute": 88,
+      "is_penalty": true,
+      "raw_text": "Matt O'Riley (P) · 88’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Diego Gómez",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Diego Gómez · 90+3’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "361ca564",
+      "team_name": "Tottenham",
+      "player": "Dominic Solanke",
+      "pens_made": 1,
+      "pens_att": 1
+    },
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "Matt O'Riley",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "e4bb1c35",
+  "url": "https://fbref.com/en/matches/e4bb1c35/Tottenham-Hotspur-Brighton-and-Hove-Albion-May-25-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "38",
+    "date": "2025-05-25",
+    "time": "16:00",
+    "home_team": "Tottenham",
+    "away_team": "Brighton",
+    "score": "1–4",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,449",
+    "match_report_url": "https://fbref.com/en/matches/e4bb1c35/Tottenham-Hotspur-Brighton-and-Hove-Albion-May-25-2025-Premier-League"
+  }
+}

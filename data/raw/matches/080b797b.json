@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Chelsea",
+    "away_team": "Aston Villa",
+    "home_score": 3,
+    "away_score": 0,
+    "meta_text": "Sunday December 1, 2024 , 13:30 (venue time) Premier League (Matchweek 13) Aston Villa vs. Chelsea Historical Head-to-Head Attendance : 40,853 Venue : Stamford Bridge, London Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Simon Long (AR2) · Robert Madley (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Nicolas Jackson",
+      "minute": 7,
+      "is_penalty": false,
+      "raw_text": "Nicolas Jackson · 7’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Enzo Fernández",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Enzo Fernández · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cole Palmer",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Cole Palmer · 83’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "080b797b",
+  "url": "https://fbref.com/en/matches/080b797b/Chelsea-Aston-Villa-December-1-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "13",
+    "date": "2024-12-01",
+    "time": "13:30",
+    "home_team": "Chelsea",
+    "away_team": "Aston Villa",
+    "score": "3–0",
+    "venue": "Stamford Bridge",
+    "attendance": "40,853",
+    "match_report_url": "https://fbref.com/en/matches/080b797b/Chelsea-Aston-Villa-December-1-2024-Premier-League"
+  }
+}

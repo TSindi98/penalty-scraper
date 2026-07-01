@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Fulham",
+    "away_team": "Chelsea",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday April 20, 2025 , 14:00 (venue time) Premier League (Matchweek 33) Chelsea vs. Fulham Historical Head-to-Head Attendance : 27,712 Venue : Craven Cottage, London Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Adam Nunn (AR2) · Samuel Barrott (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Alex Iwobi",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Alex Iwobi · 20’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Tyrique George",
+      "minute": 83,
+      "is_penalty": false,
+      "raw_text": "Tyrique George · 83’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Pedro Neto",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "Pedro Neto · 90+3’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "aaac9748",
+  "url": "https://fbref.com/en/matches/aaac9748/Fulham-Chelsea-April-20-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-20",
+    "time": "14:00",
+    "home_team": "Fulham",
+    "away_team": "Chelsea",
+    "score": "1–2",
+    "venue": "Craven Cottage",
+    "attendance": "27,712",
+    "match_report_url": "https://fbref.com/en/matches/aaac9748/Fulham-Chelsea-April-20-2025-Premier-League"
+  }
+}

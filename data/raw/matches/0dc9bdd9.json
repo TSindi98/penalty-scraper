@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday May 11, 2025 , 16:30 (venue time) Premier League (Matchweek 36) Arsenal vs. Liverpool Historical Head-to-Head Attendance : 60,324 Venue : Anfield, Liverpool Officials : Anthony Taylor (Referee) · Gary Beswick (AR1) · Lee Betts (AR2) · Craig Pawson (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Cody Gakpo",
+      "minute": 20,
+      "is_penalty": false,
+      "raw_text": "Cody Gakpo · 20’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Luis Díaz",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Luis Díaz · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Gabriel Martinelli",
+      "minute": 47,
+      "is_penalty": false,
+      "raw_text": "Gabriel Martinelli · 47’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mikel Merino",
+      "minute": 70,
+      "is_penalty": false,
+      "raw_text": "Mikel Merino · 70’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Mikel Merino",
+      "minute": 79,
+      "is_penalty": false,
+      "raw_text": "Mikel Merino · 79’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "0dc9bdd9",
+  "url": "https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "36",
+    "date": "2025-05-11",
+    "time": "16:30",
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "score": "2–2",
+    "venue": "Anfield",
+    "attendance": "60,324",
+    "match_report_url": "https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League"
+  }
+}

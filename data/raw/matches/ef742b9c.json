@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Aston Villa",
+    "home_score": 2,
+    "away_score": 2,
+    "meta_text": "Sunday September 29, 2024 , 14:00 (venue time) Premier League (Matchweek 6) Aston Villa vs. Ipswich Town Historical Head-to-Head Attendance : 29,943 Venue : Portman Road Stadium, Ipswich Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Matthew Wilkes (AR2) · Samuel Barrott (4th) · Darren England (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 8,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 8’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 72,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 72’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Ollie Watkins",
+      "minute": 32,
+      "is_penalty": false,
+      "raw_text": "Ollie Watkins · 32’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ef742b9c",
+  "url": "https://fbref.com/en/matches/ef742b9c/Ipswich-Town-Aston-Villa-September-29-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "6",
+    "date": "2024-09-29",
+    "time": "14:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Aston Villa",
+    "score": "2–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,943",
+    "match_report_url": "https://fbref.com/en/matches/ef742b9c/Ipswich-Town-Aston-Villa-September-29-2024-Premier-League"
+  }
+}

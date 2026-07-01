@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Bournemouth",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday November 23, 2024 , 15:00 (venue time) Premier League (Matchweek 12) Brighton & Hove Albion vs. Bournemouth Historical Head-to-Head Attendance : 11,196 Venue : Vitality Stadium, Bournemouth Officials : Stuart Attwell (Referee) · Constantine Hatzidakis (AR1) · Matthew Wilkes (AR2) · Samuel Allison (4th) · Graham Scott (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "David Brooks",
+      "minute": 93,
+      "is_penalty": false,
+      "raw_text": "David Brooks · 90+3’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "João Pedro",
+      "minute": 4,
+      "is_penalty": false,
+      "raw_text": "João Pedro · 4’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 49’"
+    },
+    {
+      "side": "away",
+      "event_type": "yellow_red_card",
+      "player": "Carlos Baleba",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Carlos Baleba · 59’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "4708a5bf",
+  "url": "https://fbref.com/en/matches/4708a5bf/Bournemouth-Brighton-and-Hove-Albion-November-23-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "12",
+    "date": "2024-11-23",
+    "time": "15:00",
+    "home_team": "Bournemouth",
+    "away_team": "Brighton",
+    "score": "1–2",
+    "venue": "Vitality Stadium",
+    "attendance": "11,196",
+    "match_report_url": "https://fbref.com/en/matches/4708a5bf/Bournemouth-Brighton-and-Hove-Albion-November-23-2024-Premier-League"
+  }
+}

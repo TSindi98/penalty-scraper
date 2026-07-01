@@ -1,0 +1,73 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "West Ham United",
+    "home_score": 4,
+    "away_score": 1,
+    "meta_text": "Saturday October 19, 2024 , 12:30 (venue time) Premier League (Matchweek 8) West Ham United vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,381 Venue : Tottenham Hotspur Stadium, London Officials : Andy Madley (Referee) · Nicholas Hopton (AR1) · Wade Smith  (AR2) · Craig Pawson (4th) · Chris Kavanagh (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Dejan Kulusevski",
+      "minute": 36,
+      "is_penalty": false,
+      "raw_text": "Dejan Kulusevski · 36’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yves Bissouma",
+      "minute": 52,
+      "is_penalty": false,
+      "raw_text": "Yves Bissouma · 52’"
+    },
+    {
+      "side": "home",
+      "event_type": "own_goal",
+      "player": "Alphonse Areola",
+      "minute": 55,
+      "is_penalty": false,
+      "raw_text": "Alphonse Areola (OG) · 55’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Son Heung-min",
+      "minute": 60,
+      "is_penalty": false,
+      "raw_text": "Son Heung-min · 60’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mohammed Kudus",
+      "minute": 18,
+      "is_penalty": false,
+      "raw_text": "Mohammed Kudus · 18’"
+    },
+    {
+      "side": "away",
+      "event_type": "red_card",
+      "player": "Mohammed Kudus",
+      "minute": 86,
+      "is_penalty": false,
+      "raw_text": "Mohammed Kudus · 86’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "923bfab0",
+  "url": "https://fbref.com/en/matches/923bfab0/Tottenham-Hotspur-West-Ham-United-October-19-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "8",
+    "date": "2024-10-19",
+    "time": "12:30",
+    "home_team": "Tottenham",
+    "away_team": "West Ham",
+    "score": "4–1",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,381",
+    "match_report_url": "https://fbref.com/en/matches/923bfab0/Tottenham-Hotspur-West-Ham-United-October-19-2024-Premier-League"
+  }
+}

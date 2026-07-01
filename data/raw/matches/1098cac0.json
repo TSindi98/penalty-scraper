@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Southampton",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Saturday February 1, 2025 , 15:00 (venue time) Premier League (Matchweek 24) Southampton vs. Ipswich Town Historical Head-to-Head Attendance : 29,902 Venue : Portman Road Stadium, Ipswich Officials : Michael Oliver (Referee) · Stuart Burt (AR1) · James Mainwaring (AR2) · James Linington (4th) · Jarred Gillett (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Joe Aribo",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Joe Aribo · 21’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Paul Onuachu",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Paul Onuachu · 87’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1098cac0",
+  "url": "https://fbref.com/en/matches/1098cac0/Ipswich-Town-Southampton-February-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "24",
+    "date": "2025-02-01",
+    "time": "15:00",
+    "home_team": "Ipswich Town",
+    "away_team": "Southampton",
+    "score": "1–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,902",
+    "match_report_url": "https://fbref.com/en/matches/1098cac0/Ipswich-Town-Southampton-February-1-2025-Premier-League"
+  }
+}

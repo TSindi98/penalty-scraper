@@ -1,0 +1,41 @@
+{
+  "scorebox": {
+    "home_team": "Ipswich Town",
+    "away_team": "Brighton & Hove Albion",
+    "home_score": 0,
+    "away_score": 2,
+    "meta_text": "Thursday January 16, 2025 , 19:30 (venue time) Premier League (Matchweek 21) Brighton & Hove Albion vs. Ipswich Town Historical Head-to-Head Attendance : 29,403 Venue : Portman Road Stadium, Ipswich Officials : Tony Harrington (Referee) · Marc Perry (AR1) · Matthew Wilkes (AR2) · Matt Donohue (4th) · Michael Salisbury (VAR)"
+  },
+  "events": [
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Kaoru Mitoma",
+      "minute": 59,
+      "is_penalty": false,
+      "raw_text": "Kaoru Mitoma · 59’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Georginio Rutter",
+      "minute": 81,
+      "is_penalty": false,
+      "raw_text": "Georginio Rutter · 81’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "ace86fcc",
+  "url": "https://fbref.com/en/matches/ace86fcc/Ipswich-Town-Brighton-and-Hove-Albion-January-16-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "21",
+    "date": "2025-01-16",
+    "time": "19:30",
+    "home_team": "Ipswich Town",
+    "away_team": "Brighton",
+    "score": "0–2",
+    "venue": "Portman Road Stadium",
+    "attendance": "29,403",
+    "match_report_url": "https://fbref.com/en/matches/ace86fcc/Ipswich-Town-Brighton-and-Hove-Albion-January-16-2025-Premier-League"
+  }
+}

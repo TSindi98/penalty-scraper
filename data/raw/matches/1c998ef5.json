@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Brentford",
+    "away_team": "Bournemouth",
+    "home_score": 3,
+    "away_score": 2,
+    "meta_text": "Saturday November 9, 2024 , 15:00 (venue time) Premier League (Matchweek 11) Bournemouth vs. Brentford Historical Head-to-Head Attendance : 16,587 Venue : Gtech Community Stadium, Brentford Officials : Darren Bond (Referee) · Darren Cann (AR1) · Mark Scholes (AR2) · Oliver Langford (4th) · Andy Madley (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 27,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 27’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Mikkel Damsgaard",
+      "minute": 50,
+      "is_penalty": false,
+      "raw_text": "Mikkel Damsgaard · 50’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Yoane Wissa",
+      "minute": 58,
+      "is_penalty": false,
+      "raw_text": "Yoane Wissa · 58’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Evanilson",
+      "minute": 17,
+      "is_penalty": false,
+      "raw_text": "Evanilson · 17’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Justin Kluivert",
+      "minute": 49,
+      "is_penalty": false,
+      "raw_text": "Justin Kluivert · 49’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "1c998ef5",
+  "url": "https://fbref.com/en/matches/1c998ef5/Brentford-Bournemouth-November-9-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-09",
+    "time": "15:00",
+    "home_team": "Brentford",
+    "away_team": "Bournemouth",
+    "score": "3–2",
+    "venue": "Gtech Community Stadium",
+    "attendance": "16,587",
+    "match_report_url": "https://fbref.com/en/matches/1c998ef5/Brentford-Bournemouth-November-9-2024-Premier-League"
+  }
+}

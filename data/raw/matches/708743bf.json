@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Nottingham Forest",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Monday April 21, 2025 , 20:00 (venue time) Premier League (Matchweek 33) Nottingham Forest vs. Tottenham Hotspur Historical Head-to-Head Attendance : 59,314 Venue : Tottenham Hotspur Stadium, London Officials : Peter Bankes (Referee) · Marc Perry (AR1) · Nick Greenhalgh (AR2) · Tony Harrington (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Richarlison",
+      "minute": 87,
+      "is_penalty": false,
+      "raw_text": "Richarlison · 87’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Elliot Anderson",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Elliot Anderson · 5’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Chris Wood",
+      "minute": 16,
+      "is_penalty": false,
+      "raw_text": "Chris Wood · 16’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "708743bf",
+  "url": "https://fbref.com/en/matches/708743bf/Tottenham-Hotspur-Nottingham-Forest-April-21-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "33",
+    "date": "2025-04-21",
+    "time": "20:00",
+    "home_team": "Tottenham",
+    "away_team": "Nottingham",
+    "score": "1–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "59,314",
+    "match_report_url": "https://fbref.com/en/matches/708743bf/Tottenham-Hotspur-Nottingham-Forest-April-21-2025-Premier-League"
+  }
+}

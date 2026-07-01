@@ -1,0 +1,135 @@
+{
+  "player_name": "Mohamed Salah",
+  "player_id": "e342ad68",
+  "url": "https://fbref.com/en/players/e342ad68/Mohamed-Salah",
+  "seasons": [
+    {
+      "season": "2012-2013",
+      "team": "Basel",
+      "comp": "1.Super Lg",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2013-2014",
+      "team": "Basel",
+      "comp": "1.Super Lg",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2013-2014",
+      "team": "Chelsea",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2014-2015",
+      "team": "Chelsea",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2014-2015",
+      "team": "Fiorentina",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2015-2016",
+      "team": "Roma",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2016-2017",
+      "team": "Roma",
+      "comp": "1.Serie A",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 0,
+      "pens_made": 0
+    },
+    {
+      "season": "2017-2018",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 2,
+      "pens_made": 1
+    },
+    {
+      "season": "2018-2019",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2019-2020",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 3,
+      "pens_made": 3
+    },
+    {
+      "season": "2020-2021",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 6,
+      "pens_made": 6
+    },
+    {
+      "season": "2021-2022",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 6,
+      "pens_made": 5
+    },
+    {
+      "season": "2022-2023",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 4,
+      "pens_made": 2
+    },
+    {
+      "season": "2023-2024",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 7,
+      "pens_made": 5
+    },
+    {
+      "season": "2024-2025",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 9,
+      "pens_made": 9
+    },
+    {
+      "season": "2025-2026",
+      "team": "Liverpool",
+      "comp": "1.Premier League",
+      "source_table": "stats_standard_dom_lg",
+      "pens_att": 1,
+      "pens_made": 1
+    }
+  ]
+}

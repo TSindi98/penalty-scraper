@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Ipswich Town",
+    "home_score": 1,
+    "away_score": 2,
+    "meta_text": "Sunday November 10, 2024 , 14:00 (venue time) Premier League (Matchweek 11) Ipswich Town vs. Tottenham Hotspur Historical Head-to-Head Attendance : 61,505 Venue : Tottenham Hotspur Stadium, London Officials : Darren England (Referee) · Simon Bennett (AR1) · Neil Davies (AR2) · Robert Jones (4th) · John Brooks (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Rodrigo Bentancur",
+      "minute": 69,
+      "is_penalty": false,
+      "raw_text": "Rodrigo Bentancur · 69’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Sammie Szmodics",
+      "minute": 31,
+      "is_penalty": false,
+      "raw_text": "Sammie Szmodics · 31’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Liam Delap",
+      "minute": 43,
+      "is_penalty": false,
+      "raw_text": "Liam Delap · 43’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "f9b9c3c4",
+  "url": "https://fbref.com/en/matches/f9b9c3c4/Tottenham-Hotspur-Ipswich-Town-November-10-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "11",
+    "date": "2024-11-10",
+    "time": "14:00",
+    "home_team": "Tottenham",
+    "away_team": "Ipswich Town",
+    "score": "1–2",
+    "venue": "Tottenham Hotspur Stadium",
+    "attendance": "61,505",
+    "match_report_url": "https://fbref.com/en/matches/f9b9c3c4/Tottenham-Hotspur-Ipswich-Town-November-10-2024-Premier-League"
+  }
+}

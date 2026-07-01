@@ -1,0 +1,49 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Nottingham Forest",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday April 5, 2025 , 17:30 (venue time) Premier League (Matchweek 31) Nottingham Forest vs. Aston Villa Historical Head-to-Head Attendance : 42,743 Venue : Villa Park, Birmingham Officials : Simon Hooper (Referee) · Adrian Holmes (AR1) · Simon Long (AR2) · Andrew Kitchen (4th) · Michael Oliver (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 13,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 13’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Donyell Malen",
+      "minute": 15,
+      "is_penalty": false,
+      "raw_text": "Donyell Malen · 15’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Jota Silva",
+      "minute": 57,
+      "is_penalty": false,
+      "raw_text": "Jota Silva · 57’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "7b024699",
+  "url": "https://fbref.com/en/matches/7b024699/Aston-Villa-Nottingham-Forest-April-5-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "31",
+    "date": "2025-04-05",
+    "time": "17:30",
+    "home_team": "Aston Villa",
+    "away_team": "Nottingham",
+    "score": "2–1",
+    "venue": "Villa Park",
+    "attendance": "42,743",
+    "match_report_url": "https://fbref.com/en/matches/7b024699/Aston-Villa-Nottingham-Forest-April-5-2025-Premier-League"
+  }
+}

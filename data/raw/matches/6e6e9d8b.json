@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "West Ham United",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Tuesday April 1, 2025 , 19:45 (venue time) Premier League (Matchweek 30) West Ham United vs. Wolverhampton Wanderers Historical Head-to-Head Attendance : 29,587 Venue : Molineux Stadium, Wolverhampton Officials : Tony Harrington (Referee) · Scott Ledger (AR1) · Sian Massey-Ellis (AR2) · David Webb (4th) · Stuart Attwell (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jørgen Strand Larsen",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Jørgen Strand Larsen · 21’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "6e6e9d8b",
+  "url": "https://fbref.com/en/matches/6e6e9d8b/Wolverhampton-Wanderers-West-Ham-United-April-1-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "30",
+    "date": "2025-04-01",
+    "time": "19:45",
+    "home_team": "Wolves",
+    "away_team": "West Ham",
+    "score": "1–0",
+    "venue": "Molineux Stadium",
+    "attendance": "29,587",
+    "match_report_url": "https://fbref.com/en/matches/6e6e9d8b/Wolverhampton-Wanderers-West-Ham-United-April-1-2025-Premier-League"
+  }
+}

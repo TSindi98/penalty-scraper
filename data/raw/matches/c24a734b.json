@@ -1,0 +1,65 @@
+{
+  "scorebox": {
+    "home_team": "Aston Villa",
+    "away_team": "Brentford",
+    "home_score": 3,
+    "away_score": 1,
+    "meta_text": "Wednesday December 4, 2024 , 20:15 (venue time) Premier League (Matchweek 14) Brentford vs. Aston Villa Historical Head-to-Head Attendance : 42,148 Venue : Villa Park, Birmingham Officials : Lewis Smith (Referee) · Simon Bennett (AR1) · Daniel Robathan (AR2) · Anthony Taylor (4th) · Nicholas Hopton (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Morgan Rogers",
+      "minute": 21,
+      "is_penalty": false,
+      "raw_text": "Morgan Rogers · 21’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "Ollie Watkins",
+      "minute": 28,
+      "is_penalty": true,
+      "raw_text": "Ollie Watkins (P) · 28’"
+    },
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Matty Cash",
+      "minute": 34,
+      "is_penalty": false,
+      "raw_text": "Matty Cash · 34’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Mikkel Damsgaard",
+      "minute": 54,
+      "is_penalty": false,
+      "raw_text": "Mikkel Damsgaard · 54’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "8602292d",
+      "team_name": "Aston Villa",
+      "player": "Ollie Watkins",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "c24a734b",
+  "url": "https://fbref.com/en/matches/c24a734b/Aston-Villa-Brentford-December-4-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "14",
+    "date": "2024-12-04",
+    "time": "20:15",
+    "home_team": "Aston Villa",
+    "away_team": "Brentford",
+    "score": "3–1",
+    "venue": "Villa Park",
+    "attendance": "42,148",
+    "match_report_url": "https://fbref.com/en/matches/c24a734b/Aston-Villa-Brentford-December-4-2024-Premier-League"
+  }
+}

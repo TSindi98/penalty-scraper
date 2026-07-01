@@ -1,0 +1,57 @@
+{
+  "scorebox": {
+    "home_team": "Brighton & Hove Albion",
+    "away_team": "Fulham",
+    "home_score": 2,
+    "away_score": 1,
+    "meta_text": "Saturday March 8, 2025 , 15:00 (venue time) Premier League (Matchweek 28) Fulham vs. Brighton & Hove Albion Historical Head-to-Head Attendance : 31,584 Venue : The American Express Stadium, Brighton & Hove Officials : Samuel Barrott (Referee) · Tim Wood (AR1) · Wade Smith  (AR2) · Andrew Davies (4th) · Craig Pawson (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Jan Paul van Hecke",
+      "minute": 41,
+      "is_penalty": false,
+      "raw_text": "Jan Paul van Hecke · 41’"
+    },
+    {
+      "side": "home",
+      "event_type": "penalty_goal",
+      "player": "João Pedro",
+      "minute": 98,
+      "is_penalty": true,
+      "raw_text": "João Pedro (P) · 90+8’"
+    },
+    {
+      "side": "away",
+      "event_type": "goal",
+      "player": "Raúl Jiménez",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Raúl Jiménez · 35’"
+    }
+  ],
+  "player_pk_stats": [
+    {
+      "team_id": "d07537b9",
+      "team_name": "Brighton",
+      "player": "João Pedro",
+      "pens_made": 1,
+      "pens_att": 1
+    }
+  ],
+  "match_id": "fb4bb61d",
+  "url": "https://fbref.com/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "28",
+    "date": "2025-03-08",
+    "time": "15:00",
+    "home_team": "Brighton",
+    "away_team": "Fulham",
+    "score": "2–1",
+    "venue": "The American Express Stadium",
+    "attendance": "31,584",
+    "match_report_url": "https://fbref.com/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League"
+  }
+}

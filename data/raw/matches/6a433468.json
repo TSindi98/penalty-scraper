@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Wolverhampton Wanderers",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Friday May 2, 2025 , 20:00 (venue time) Premier League (Matchweek 35) Wolverhampton Wanderers vs. Manchester City Historical Head-to-Head Attendance : 53,282 Venue : Etihad Stadium, Manchester Officials : Peter Bankes (Referee) · Lee Betts (AR1) · Nick Greenhalgh (AR2) · Thomas Bramall (4th) · Paul Tierney (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Kevin De Bruyne",
+      "minute": 35,
+      "is_penalty": false,
+      "raw_text": "Kevin De Bruyne · 35’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "6a433468",
+  "url": "https://fbref.com/en/matches/6a433468/Manchester-City-Wolverhampton-Wanderers-May-2-2025-Premier-League",
+  "schedule_meta": {
+    "gameweek": "35",
+    "date": "2025-05-02",
+    "time": "20:00",
+    "home_team": "Manchester City",
+    "away_team": "Wolves",
+    "score": "1–0",
+    "venue": "Etihad Stadium",
+    "attendance": "53,282",
+    "match_report_url": "https://fbref.com/en/matches/6a433468/Manchester-City-Wolverhampton-Wanderers-May-2-2025-Premier-League"
+  }
+}

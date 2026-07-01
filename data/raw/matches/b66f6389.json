@@ -1,0 +1,33 @@
+{
+  "scorebox": {
+    "home_team": "Manchester City",
+    "away_team": "Southampton",
+    "home_score": 1,
+    "away_score": 0,
+    "meta_text": "Saturday October 26, 2024 , 15:00 (venue time) Premier League (Matchweek 9) Southampton vs. Manchester City Historical Head-to-Head Attendance : 52,844 Venue : Etihad Stadium, Manchester Officials : Tony Harrington (Referee) · Derek Eaton (AR1) · Akil Howson (AR2) · Samuel Allison (4th) · David Coote (VAR)"
+  },
+  "events": [
+    {
+      "side": "home",
+      "event_type": "goal",
+      "player": "Erling Haaland",
+      "minute": 5,
+      "is_penalty": false,
+      "raw_text": "Erling Haaland · 5’"
+    }
+  ],
+  "player_pk_stats": [],
+  "match_id": "b66f6389",
+  "url": "https://fbref.com/en/matches/b66f6389/Manchester-City-Southampton-October-26-2024-Premier-League",
+  "schedule_meta": {
+    "gameweek": "9",
+    "date": "2024-10-26",
+    "time": "15:00",
+    "home_team": "Manchester City",
+    "away_team": "Southampton",
+    "score": "1–0",
+    "venue": "Etihad Stadium",
+    "attendance": "52,844",
+    "match_report_url": "https://fbref.com/en/matches/b66f6389/Manchester-City-Southampton-October-26-2024-Premier-League"
+  }
+}

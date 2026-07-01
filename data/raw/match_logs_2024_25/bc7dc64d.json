@@ -1,0 +1,33 @@
+{
+  "player_name": "Bukayo Saka",
+  "player_id": "bc7dc64d",
+  "season": "2024-2025",
+  "url": "https://fbref.com/en/players/bc7dc64d/matchlogs/2024-2025/summary/Bukayo-Saka-Match-Logs",
+  "matches_with_pens": [
+    {
+      "date": "2024-11-26",
+      "comp": "Champions Lg",
+      "opponent": "ptSporting CP",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2024-11-30",
+      "comp": "Premier League",
+      "opponent": "West Ham",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 1
+    },
+    {
+      "date": "2025-04-16",
+      "comp": "Champions Lg",
+      "opponent": "esReal Madrid",
+      "venue": "Away",
+      "pens_att": 1,
+      "pens_made": 0
+    }
+  ],
+  "total_matches_logged": 44
+}
