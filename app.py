@@ -15,6 +15,8 @@ import plotly.express as px
 import streamlit as st
 
 from bs4 import BeautifulSoup
+
+import compare_jakob as cj
 from scrape_match import parse_match
 from scrape_schedule import parse_schedule
 
@@ -139,9 +141,11 @@ def main() -> None:
     col3.metric("Heim-Anteil", f"{heim_pct:.1f}%")
     col4.metric("Unique Schützen", fdf["shooter_name"].nunique())
 
-    tab_data, tab_charts, tab_live, tab_full, tab_pipeline = st.tabs(
+    (tab_data, tab_charts, tab_live, tab_full, tab_pipeline,
+     tab_compare) = st.tabs(
         ["Datensatz", "Analyse", "Live-Scrape (1 Spiel)",
-         "Ganze Liga scrapen", "Wie funktioniert die Pipeline?"]
+         "Ganze Liga scrapen", "Wie funktioniert die Pipeline?",
+         "Vergleich mit Jakobs Excel"]
     )
 
     with tab_data:
@@ -609,6 +613,229 @@ def main() -> None:
             aller Cookie-Refreshes.
             """
         )
+
+    with tab_compare:
+        render_compare_tab(df)
+
+
+def _match_rate_bg(val: float) -> str:
+    """Rot→Gelb→Grün-Hintergrund für eine Quote in [0, 1] (ohne matplotlib)."""
+    if pd.isna(val):
+        return ""
+    stops = [(0.0, (239, 91, 91)), (0.5, (245, 215, 110)), (1.0, (76, 149, 108))]
+    t = max(0.0, min(1.0, float(val)))
+    for (t0, c0), (t1, c1) in zip(stops, stops[1:]):
+        if t <= t1:
+            f = 0 if t1 == t0 else (t - t0) / (t1 - t0)
+            r, g, b = (round(a + (bb - a) * f) for a, bb in zip(c0, c1))
+            break
+    else:
+        r, g, b = stops[-1][1]
+    return f"background-color: rgb({r},{g},{b}); color: #1a1a1a;"
+
+
+def render_compare_tab(mine_raw: pd.DataFrame) -> None:
+    """Tab: Zeile-für-Zeile-Abgleich meiner gescrapten Daten gegen Jakobs Excel."""
+    st.subheader("Vergleich mit Jakobs händischem Datensatz")
+    st.markdown(
+        "Lade hier Jakobs Auswertungs-Excel hoch. Verglichen wird die "
+        "überlappende Teilmenge **Premier League 2024/25** (bei Jakob: Liga 1, "
+        "Saison 2024/25 im Sheet *Tabelle1*). Das Tool matcht jeden Elfmeter "
+        "1:1 über Datum und Schütze und prüft anschließend Variable für Variable, "
+        "wo beide Erhebungen übereinstimmen und wo nicht."
+    )
+
+    uploaded = st.file_uploader(
+        "Jakobs Excel (.xlsx)", type=["xlsx"],
+        help="Das Sheet 'Tabelle1' muss enthalten sein. Nichts wird gespeichert, "
+             "die Datei wird nur im Arbeitsspeicher verglichen.",
+    )
+    if uploaded is None:
+        st.info(
+            "Noch keine Datei hochgeladen. Sobald du Jakobs `.xlsx` auswählst, "
+            "erscheinen hier die Match-Quote, eine Übereinstimmungs-Tabelle pro "
+            "Variable und die konkreten Abweichungen.",
+            icon="⬆️",
+        )
+        return
+
+    # --- Laden & Vergleichen (robuste Fehlerbehandlung) -------------------- #
+    try:
+        jakob = cj.load_jakob(uploaded)
+    except ValueError as e:
+        st.error(
+            f"Konnte Jakobs Daten nicht lesen: {e}. Enthält die Datei ein "
+            "Sheet namens 'Tabelle1' mit den erwarteten Spalten?"
+        )
+        return
+    except Exception as e:  # noqa: BLE001 — dem Nutzer freundlich melden
+        st.error(f"Die Datei konnte nicht verarbeitet werden: {e}")
+        return
+
+    if len(jakob) == 0:
+        st.warning(
+            "In der Datei wurden keine Premier-League-2024/25-Zeilen gefunden "
+            "(Liga = 1, Saison = 2024/25). Vergleich nicht möglich."
+        )
+        return
+
+    mine = cj.load_mine(CSV_PATH)
+    res = cj.compare(mine, jakob)
+
+    # --- KPI-Zeile --------------------------------------------------------- #
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("Elfmeter bei Jakob", res.n_jakob)
+    k2.metric("Elfmeter bei mir", res.n_mine)
+    k3.metric("1:1 gematcht", res.n_matched)
+    k4.metric(
+        "Ohne Partner",
+        len(res.unmatched_mine) + len(res.unmatched_jakob),
+        help="Elfmeter, die nur in einer der beiden Quellen vorkommen.",
+    )
+
+    if len(res.unmatched_mine) or len(res.unmatched_jakob):
+        with st.expander("Nicht gematchte Elfmeter ansehen"):
+            if len(res.unmatched_mine):
+                st.caption("Nur bei mir:")
+                st.dataframe(res.unmatched_mine, hide_index=True, use_container_width=True)
+            if len(res.unmatched_jakob):
+                st.caption("Nur bei Jakob:")
+                st.dataframe(res.unmatched_jakob, hide_index=True, use_container_width=True)
+    else:
+        st.success(
+            f"Beide Erhebungen beschreiben dieselben {res.n_matched} Elfmeter — "
+            "keiner fehlt, keiner ist zu viel.",
+            icon="✅",
+        )
+
+    # --- Übereinstimmungs-Tabelle pro Variable ----------------------------- #
+    st.markdown("### Übereinstimmung pro Variable")
+    overview = pd.DataFrame([
+        {
+            "Variable": v.label,
+            "identisch": v.n_identical,
+            "abweichend": v.n_different,
+            "Lücke bei mir": v.n_missing_mine,
+            "Übereinstimmung": v.match_rate,
+        }
+        for v in res.variables
+    ])
+    st.dataframe(
+        overview.style
+        .map(_match_rate_bg, subset=["Übereinstimmung"])
+        .format({"Übereinstimmung": "{:.0%}"}),
+        hide_index=True,
+        use_container_width=True,
+    )
+    st.caption(
+        "„Übereinstimmung“ = identische Werte geteilt durch alle gematchten "
+        "Elfmeter. Lücken bei mir (fehlende Werte) zählen dabei als nicht "
+        "übereinstimmend."
+    )
+
+    # --- Details pro Variable ---------------------------------------------- #
+    st.markdown("### Konkrete Abweichungen")
+    for v in res.variables:
+        if v.n_different == 0 and v.n_missing_mine == 0:
+            continue
+        title = f"{v.label} — {v.n_different} abweichend"
+        if v.n_missing_mine:
+            title += f", {v.n_missing_mine} Lücke(n) bei mir"
+        with st.expander(title):
+            if v.n_different:
+                st.caption("Beide Seiten haben einen Wert, aber sie unterscheiden sich:")
+                st.dataframe(v.diffs, hide_index=True, use_container_width=True)
+            if v.n_missing_mine:
+                st.caption("Bei mir fehlt der Wert, Jakob hat ihn:")
+                st.dataframe(v.gaps, hide_index=True, use_container_width=True)
+
+    # --- Erklärte Muster --------------------------------------------------- #
+    st.markdown("### Woran die Abweichungen liegen")
+
+    minute_var = next((v for v in res.variables if v.key == "minute"), None)
+    n_gap = minute_var.n_missing_mine if minute_var else 0
+    if n_gap:
+        # sind die Lücken alle verschossene Elfmeter?
+        gap_keys = set(zip(minute_var.gaps["datum"], minute_var.gaps["schütze"]))
+        gap_outcomes = [
+            r.outcome for r in mine.itertuples()
+            if (r.match_date, r.shooter_name) in gap_keys
+        ]
+        all_missed = gap_outcomes and all(o == "kein Tor" for o in gap_outcomes)
+        st.info(
+            f"**Verschossene Elfmeter ohne Minute/Spielstand ({n_gap} Stück).** "
+            + (
+                "Diese Lücken betreffen ausschließlich verschossene Elfmeter. "
+                if all_missed else ""
+            )
+            + "Mein Scraper liest Minute und Spielstand aus dem Tor-Event der "
+            "Spiel-Logs. Ein verschossener Elfmeter erzeugt kein Tor-Event, also "
+            "fehlt dort der Kontext. Jakob hat die Werte, weil er von Hand codiert "
+            "hat. Fixbar, indem der Scraper Elfmeter-Events statt nur Tor-Events ausliest.",
+            icon="🎯",
+        )
+
+    career_var = next((v for v in res.variables if v.key == "career_pens"), None)
+    if career_var and career_var.n_different:
+        st.info(
+            "**Karriere-Elfmeter: systematischer Versatz.** Jakobs Werte liegen "
+            "konsistent höher, um einen pro Spieler festen Betrag. Grund: mein "
+            "Scraper zählt für Vorsaisons nur Liga-Elfmeter (FBref-Limit), es "
+            "fehlen also alle Pokal- und CL-Elfmeter der Karriere. Kein "
+            "Zufallsfehler, sondern ein Unterschied in der Zählbasis. Wenn diese "
+            "Variable in die Regression soll, muss die Zählweise vorher geklärt werden.",
+            icon="📈",
+        )
+
+    ha_var = next((v for v in res.variables if v.key == "home_away"), None)
+    if ha_var and ha_var.n_different:
+        st.info(
+            f"**Heim/Auswärts: {ha_var.n_different} Konflikt(e).** Hier hat eine "
+            "Seite echt falsch codiert. Meine Angabe wird automatisch aus "
+            "home_team/away_team abgeleitet und ist in der Regel die verlässlichere. "
+            "Die betroffenen Spiele stehen oben im Detail-Ausklapp — bitte "
+            "gegenprüfen.",
+            icon="🏟️",
+        )
+
+    # --- Ausblick: die Lücken sind nicht endgültig ------------------------- #
+    st.markdown("### Ausblick: die Lücken lassen sich schließen")
+
+    # Empfehlung Minute/Spielstand: wenige -> händisch, viele -> Crawl
+    if n_gap:
+        if n_gap <= 20:
+            gap_hint = (
+                f"Bei aktuell {n_gap} betroffenen Elfmetern ist der pragmatischste "
+                f"Weg, diese {n_gap} Werte einmalig von Hand nachzutragen (die "
+                "genaue Liste steht oben im Ausklapp). "
+            )
+        else:
+            gap_hint = (
+                f"Bei {n_gap} betroffenen Elfmetern lohnt sich eher, den Crawl zu "
+                "erweitern, statt alles von Hand einzutragen. "
+            )
+    else:
+        gap_hint = ""
+
+    st.markdown(
+        "Keine dieser Abweichungen ist in Stein gemeißelt. Es sind keine "
+        "prinzipiellen Grenzen der Methode, sondern Stellschrauben, an denen man "
+        "weiterdrehen kann:\n\n"
+        "• **Verschossene Elfmeter (Minute, Spielstand).** "
+        + gap_hint
+        + "Alternativ kann der Scraper so erweitert werden, dass er die Elfmeter-"
+        "Events selbst ausliest statt nur die Tor-Events, dann fällt der Kontext "
+        "automatisch mit ab. Beide Wege führen zum vollständigen Datensatz.\n\n"
+        "• **Karriere-Elfmeter.** Der Versatz kommt daher, dass für Vorsaisons nur "
+        "Liga-Elfmeter gezählt werden. Auch das ist erweiterbar: zusätzliche "
+        "FBref-Wettbewerbe (Pokal, CL) mit einbeziehen oder eine zweite Quelle wie "
+        "Transfermarkt dazunehmen, die alle Karriere-Elfmeter je Spieler führt. "
+        "Damit ließe sich die Zählbasis an Jakobs Definition angleichen.\n\n"
+        "• **Generell.** Wo eine einzelne Seite nicht alles hergibt, lassen sich "
+        "mehrere Quellen kombinieren. Der Crawl ist ein Startpunkt, kein Endzustand: "
+        "je nachdem, welche Variablen die Analyse am Ende wirklich braucht, kann er "
+        "gezielt vertieft oder um weitere Webseiten ergänzt werden."
+    )
 
 
 if __name__ == "__main__":
